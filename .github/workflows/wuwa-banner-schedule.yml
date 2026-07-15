@@ -24,13 +24,13 @@ jobs:
           node-version: '20'
 
       - name: Build banner schedule
-        run: node wuwa/scripts/build.js
+        run: node games/wuwa/scripts/build.js
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add wuwa/banner-schedule-wuwa.json wuwa/images
+          git add games/wuwa/banner-schedule-wuwa.json games/wuwa/images
           if git diff --cached --quiet; then
             echo "No changes."
           else
