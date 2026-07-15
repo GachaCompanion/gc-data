@@ -1,0 +1,41 @@
+name: Update Game Data
+on:
+  schedule:
+    - cron: '0 4 * * 2'   # Tuesday 06:00 GMT+2
+    - cron: '0 18 * * 2'  # Tuesday 20:00 GMT+2
+    - cron: '0 4 * * 3'   # Wednesday 06:00 GMT+2
+    - cron: '0 18 * * 3'  # Wednesday 20:00 GMT+2
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Update Genshin banner data
+        run: node scripts/updaters/update-genshin.js
+        env:
+          HOYOLAB_COOKIE: ${{ secrets.HOYOLAB_COOKIE }}
+          GENSHIN_UID:    ${{ secrets.GENSHIN_UID }}
+          GENSHIN_SERVER: ${{ secrets.GENSHIN_SERVER }}
+      - name: Update HSR banner data
+        run: node scripts/updaters/update-hsr.js
+        env:
+          HOYOLAB_COOKIE: ${{ secrets.HOYOLAB_COOKIE }}
+          HSR_UID:        ${{ secrets.HSR_UID }}
+          HSR_SERVER:     ${{ secrets.HSR_SERVER }}
+      - name: Update ZZZ banner data
+        run: node scripts/updaters/update-zzz.js
+        env:
+          HOYOLAB_COOKIE: ${{ secrets.HOYOLAB_COOKIE }}
+          ZZZ_UID:        ${{ secrets.ZZZ_UID }}
+          ZZZ_SERVER:     ${{ secrets.ZZZ_SERVER }}
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update game data $(date -u +%Y-%m-%d)"
+          git push

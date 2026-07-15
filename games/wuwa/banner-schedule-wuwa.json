@@ -1,0 +1,1946 @@
+[
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2024-05-23 11:00:00",
+    "end": "2024-06-13 09:59:00",
+    "name": "Jiyan",
+    "featured": [
+      "Jiyan"
+    ],
+    "featuredId": 1404,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2024-05-23 11:00:00",
+    "end": "2024-06-13 09:59:00",
+    "name": "Verdant Summit",
+    "featured": [
+      "Verdant Summit"
+    ],
+    "featuredId": 21010016,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2024-06-06 10:00:00",
+    "end": "2024-06-26 11:59:00",
+    "name": "Yinlin",
+    "featured": [
+      "Yinlin"
+    ],
+    "featuredId": 1302,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2024-06-06 10:00:00",
+    "end": "2024-06-26 11:59:00",
+    "name": "Stringmaster",
+    "featured": [
+      "Stringmaster"
+    ],
+    "featuredId": 21050016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2024-06-28 11:00:00",
+    "end": "2024-07-22 09:59:00",
+    "name": "Jinhsi",
+    "featured": [
+      "Jinhsi"
+    ],
+    "featuredId": 1304,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2024-06-28 11:00:00",
+    "end": "2024-07-22 09:59:00",
+    "name": "Ages of Harvest",
+    "featured": [
+      "Ages of Harvest"
+    ],
+    "featuredId": 21010026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2024-07-22 10:00:00",
+    "end": "2024-08-14 11:59:00",
+    "name": "Changli",
+    "featured": [
+      "Changli"
+    ],
+    "featuredId": 1205,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2024-07-22 10:00:00",
+    "end": "2024-08-14 11:59:00",
+    "name": "Blazing Brilliance",
+    "featured": [
+      "Blazing Brilliance"
+    ],
+    "featuredId": 21020016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2024-08-15 11:00:00",
+    "end": "2024-09-07 09:59:00",
+    "name": "Zhezhi",
+    "featured": [
+      "Zhezhi"
+    ],
+    "featuredId": 1105,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2024-08-15 11:00:00",
+    "end": "2024-09-07 09:59:00",
+    "name": "Rime-Draped Sprouts",
+    "featured": [
+      "Rime-Draped Sprouts"
+    ],
+    "featuredId": 21050026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2024-09-07 10:00:00",
+    "end": "2024-09-28 11:59:00",
+    "name": "Xiangli Yao",
+    "featured": [
+      "Xiangli Yao"
+    ],
+    "featuredId": 1305,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2024-09-07 10:00:00",
+    "end": "2024-09-28 11:59:00",
+    "name": "Verity's Handle",
+    "featured": [
+      "Verity's Handle"
+    ],
+    "featuredId": 21040016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2024-09-29 11:00:00",
+    "end": "2024-10-24 09:59:00",
+    "name": "Shorekeeper",
+    "featured": [
+      "Shorekeeper"
+    ],
+    "featuredId": 1505,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2024-09-29 11:00:00",
+    "end": "2024-10-24 09:59:00",
+    "name": "Stellar Symphony",
+    "featured": [
+      "Stellar Symphony"
+    ],
+    "featuredId": 21050036,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2024-10-24 10:00:00",
+    "end": "2024-11-13 11:59:00",
+    "name": "Jiyan",
+    "featured": [
+      "Jiyan"
+    ],
+    "featuredId": 1404,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2024-10-24 10:00:00",
+    "end": "2024-11-13 11:59:00",
+    "name": "Verdant Summit",
+    "featured": [
+      "Verdant Summit"
+    ],
+    "featuredId": 21010016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2024-11-14 11:00:00",
+    "end": "2024-12-12 09:59:00",
+    "name": "Camellya",
+    "featured": [
+      "Camellya"
+    ],
+    "featuredId": 1603,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2024-11-14 11:00:00",
+    "end": "2024-12-12 09:59:00",
+    "name": "Red Spring",
+    "featured": [
+      "Red Spring"
+    ],
+    "featuredId": 21020026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2024-12-12 10:00:00",
+    "end": "2025-01-01 11:59:00",
+    "name": "Yinlin",
+    "featured": [
+      "Yinlin"
+    ],
+    "featuredId": 1302,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2024-12-12 10:00:00",
+    "end": "2025-01-01 11:59:00",
+    "name": "Xiangli Yao",
+    "featured": [
+      "Xiangli Yao"
+    ],
+    "featuredId": 1305,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2024-12-12 10:00:00",
+    "end": "2025-01-01 11:59:00",
+    "name": "Stringmaster",
+    "featured": [
+      "Stringmaster"
+    ],
+    "featuredId": 21050016,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2024-12-12 10:00:00",
+    "end": "2025-01-01 11:59:00",
+    "name": "Verity's Handle",
+    "featured": [
+      "Verity's Handle"
+    ],
+    "featuredId": 21040016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-01-02 11:00:00",
+    "end": "2025-01-23 09:59:00",
+    "name": "Carlotta",
+    "featured": [
+      "Carlotta"
+    ],
+    "featuredId": 1107,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-01-02 11:00:00",
+    "end": "2025-01-23 09:59:00",
+    "name": "Zhezhi",
+    "featured": [
+      "Zhezhi"
+    ],
+    "featuredId": 1105,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-01-02 11:00:00",
+    "end": "2025-01-23 09:59:00",
+    "name": "The Last Dance",
+    "featured": [
+      "The Last Dance"
+    ],
+    "featuredId": 21030016,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-01-02 11:00:00",
+    "end": "2025-01-23 09:59:00",
+    "name": "Rime-Draped Sprouts",
+    "featured": [
+      "Rime-Draped Sprouts"
+    ],
+    "featuredId": 21050026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-01-23 10:00:00",
+    "end": "2025-02-12 11:59:00",
+    "name": "Roccia",
+    "featured": [
+      "Roccia"
+    ],
+    "featuredId": 1606,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-01-23 10:00:00",
+    "end": "2025-02-12 11:59:00",
+    "name": "Jinhsi",
+    "featured": [
+      "Jinhsi"
+    ],
+    "featuredId": 1304,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-01-23 10:00:00",
+    "end": "2025-02-12 11:59:00",
+    "name": "Tragicomedy",
+    "featured": [
+      "Tragicomedy"
+    ],
+    "featuredId": 21040026,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-01-23 10:00:00",
+    "end": "2025-02-12 11:59:00",
+    "name": "Ages of Harvest",
+    "featured": [
+      "Ages of Harvest"
+    ],
+    "featuredId": 21010026,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-02-13 11:00:00",
+    "end": "2025-03-06 09:59:00",
+    "name": "Phoebe",
+    "featured": [
+      "Phoebe"
+    ],
+    "featuredId": 1506,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-02-13 11:00:00",
+    "end": "2025-03-06 09:59:00",
+    "name": "Luminous Hymn",
+    "featured": [
+      "Luminous Hymn"
+    ],
+    "featuredId": 21050046,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-03-06 10:00:00",
+    "end": "2025-03-26 11:59:00",
+    "name": "Brant",
+    "featured": [
+      "Brant"
+    ],
+    "featuredId": 1206,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-03-06 10:00:00",
+    "end": "2025-03-26 11:59:00",
+    "name": "Changli",
+    "featured": [
+      "Changli"
+    ],
+    "featuredId": 1205,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-03-06 10:00:00",
+    "end": "2025-03-26 11:59:00",
+    "name": "Unflickering Valor",
+    "featured": [
+      "Unflickering Valor"
+    ],
+    "featuredId": 21020036,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-03-06 10:00:00",
+    "end": "2025-03-26 11:59:00",
+    "name": "Blazing Brilliance",
+    "featured": [
+      "Blazing Brilliance"
+    ],
+    "featuredId": 21020016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-03-27 11:00:00",
+    "end": "2025-04-17 09:59:00",
+    "name": "Cantarella",
+    "featured": [
+      "Cantarella"
+    ],
+    "featuredId": 1607,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-03-27 11:00:00",
+    "end": "2025-04-17 09:59:00",
+    "name": "Camellya",
+    "featured": [
+      "Camellya"
+    ],
+    "featuredId": 1603,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-03-27 11:00:00",
+    "end": "2025-04-17 09:59:00",
+    "name": "Whispers of Sirens",
+    "featured": [
+      "Whispers of Sirens"
+    ],
+    "featuredId": 21050056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-03-27 11:00:00",
+    "end": "2025-04-17 09:59:00",
+    "name": "Red Spring",
+    "featured": [
+      "Red Spring"
+    ],
+    "featuredId": 21020026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-04-17 10:00:00",
+    "end": "2025-04-28 11:59:00",
+    "name": "Shorekeeper",
+    "featured": [
+      "Shorekeeper"
+    ],
+    "featuredId": 1505,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-04-17 10:00:00",
+    "end": "2025-04-28 11:59:00",
+    "name": "Stellar Symphony",
+    "featured": [
+      "Stellar Symphony"
+    ],
+    "featuredId": 21050036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Zani",
+    "featured": [
+      "Zani"
+    ],
+    "featuredId": 1507,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Jiyan",
+    "featured": [
+      "Jiyan"
+    ],
+    "featuredId": 1404,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Yinlin",
+    "featured": [
+      "Yinlin"
+    ],
+    "featuredId": 1302,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Zhezhi",
+    "featured": [
+      "Zhezhi"
+    ],
+    "featuredId": 1105,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Xiangli Yao",
+    "featured": [
+      "Xiangli Yao"
+    ],
+    "featuredId": 1305,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Phoebe",
+    "featured": [
+      "Phoebe"
+    ],
+    "featuredId": 1506,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Blazing Justice",
+    "featured": [
+      "Blazing Justice"
+    ],
+    "featuredId": 21040036,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Verdant Summit",
+    "featured": [
+      "Verdant Summit"
+    ],
+    "featuredId": 21010016,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Stringmaster",
+    "featured": [
+      "Stringmaster"
+    ],
+    "featuredId": 21050016,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Rime-Draped Sprouts",
+    "featured": [
+      "Rime-Draped Sprouts"
+    ],
+    "featuredId": 21050026,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Verity's Handle",
+    "featured": [
+      "Verity's Handle"
+    ],
+    "featuredId": 21040016,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-04-29 11:00:00",
+    "end": "2025-05-22 09:59:00",
+    "name": "Luminous Hymn",
+    "featured": [
+      "Luminous Hymn"
+    ],
+    "featuredId": 21050046,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Ciaccona",
+    "featured": [
+      "Ciaccona"
+    ],
+    "featuredId": 1407,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Jinhsi",
+    "featured": [
+      "Jinhsi"
+    ],
+    "featuredId": 1304,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Changli",
+    "featured": [
+      "Changli"
+    ],
+    "featuredId": 1205,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Carlotta",
+    "featured": [
+      "Carlotta"
+    ],
+    "featuredId": 1107,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Roccia",
+    "featured": [
+      "Roccia"
+    ],
+    "featuredId": 1606,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Brant",
+    "featured": [
+      "Brant"
+    ],
+    "featuredId": 1206,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Woodland Aria",
+    "featured": [
+      "Woodland Aria"
+    ],
+    "featuredId": 21030026,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Ages of Harvest",
+    "featured": [
+      "Ages of Harvest"
+    ],
+    "featuredId": 21010026,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Blazing Brilliance",
+    "featured": [
+      "Blazing Brilliance"
+    ],
+    "featuredId": 21020016,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "The Last Dance",
+    "featured": [
+      "The Last Dance"
+    ],
+    "featuredId": 21030016,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Tragicomedy",
+    "featured": [
+      "Tragicomedy"
+    ],
+    "featuredId": 21040026,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-05-22 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "name": "Unflickering Valor",
+    "featured": [
+      "Unflickering Valor"
+    ],
+    "featuredId": 21020036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-06-12 11:00:00",
+    "end": "2025-07-03 09:59:00",
+    "name": "Cartethyia",
+    "featured": [
+      "Cartethyia"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-06-12 11:00:00",
+    "end": "2025-07-03 09:59:00",
+    "name": "Defier's Thorn",
+    "featured": [
+      "Defier's Thorn"
+    ],
+    "featuredId": 21020056,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-07-03 10:00:00",
+    "end": "2025-07-23 11:59:00",
+    "name": "Lupa",
+    "featured": [
+      "Lupa"
+    ],
+    "featuredId": 1207,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-07-03 10:00:00",
+    "end": "2025-07-23 11:59:00",
+    "name": "Wildfire Mark",
+    "featured": [
+      "Wildfire Mark"
+    ],
+    "featuredId": 21010036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-07-24 11:00:00",
+    "end": "2025-08-14 09:59:00",
+    "name": "Phrolova",
+    "featured": [
+      "Phrolova"
+    ],
+    "featuredId": 1608,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-07-24 11:00:00",
+    "end": "2025-08-14 09:59:00",
+    "name": "Roccia",
+    "featured": [
+      "Roccia"
+    ],
+    "featuredId": 1606,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-07-24 11:00:00",
+    "end": "2025-08-14 09:59:00",
+    "name": "Lethean Elegy",
+    "featured": [
+      "Lethean Elegy"
+    ],
+    "featuredId": 21050066,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-07-24 11:00:00",
+    "end": "2025-08-14 09:59:00",
+    "name": "Tragicomedy",
+    "featured": [
+      "Tragicomedy"
+    ],
+    "featuredId": 21040026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-08-14 10:00:00",
+    "end": "2025-08-27 11:59:00",
+    "name": "Cantarella",
+    "featured": [
+      "Cantarella"
+    ],
+    "featuredId": 1607,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-08-14 10:00:00",
+    "end": "2025-08-27 11:59:00",
+    "name": "Brant",
+    "featured": [
+      "Brant"
+    ],
+    "featuredId": 1206,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-08-14 10:00:00",
+    "end": "2025-08-27 11:59:00",
+    "name": "Whispers of Sirens",
+    "featured": [
+      "Whispers of Sirens"
+    ],
+    "featuredId": 21050056,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-08-14 10:00:00",
+    "end": "2025-08-27 11:59:00",
+    "name": "Unflickering Valor",
+    "featured": [
+      "Unflickering Valor"
+    ],
+    "featuredId": 21020036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "Augusta",
+    "featured": [
+      "Augusta"
+    ],
+    "featuredId": 1306,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "Carlotta",
+    "featured": [
+      "Carlotta"
+    ],
+    "featuredId": 1107,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "Shorekeeper",
+    "featured": [
+      "Shorekeeper"
+    ],
+    "featuredId": 1505,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "Thunderflare Dominion",
+    "featured": [
+      "Thunderflare Dominion"
+    ],
+    "featuredId": 21010046,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "The Last Dance",
+    "featured": [
+      "The Last Dance"
+    ],
+    "featuredId": 21030016,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2025-08-28 11:00:00",
+    "end": "2025-09-17 09:59:00",
+    "name": "Stellar Symphony",
+    "featured": [
+      "Stellar Symphony"
+    ],
+    "featuredId": 21050036,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2025-09-17 10:00:00",
+    "end": "2025-10-08 11:59:00",
+    "name": "Iuno",
+    "featured": [
+      "Iuno"
+    ],
+    "featuredId": 1410,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2025-09-17 10:00:00",
+    "end": "2025-10-08 11:59:00",
+    "name": "Ciaccona",
+    "featured": [
+      "Ciaccona"
+    ],
+    "featuredId": 1407,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2025-09-17 10:00:00",
+    "end": "2025-10-08 11:59:00",
+    "name": "Moongazer's Sigil",
+    "featured": [
+      "Moongazer's Sigil"
+    ],
+    "featuredId": 21040046,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2025-09-17 10:00:00",
+    "end": "2025-10-08 11:59:00",
+    "name": "Woodland Aria",
+    "featured": [
+      "Woodland Aria"
+    ],
+    "featuredId": 21030026,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2025-10-09 11:00:00",
+    "end": "2025-10-30 09:59:00",
+    "name": "Galbrena",
+    "featured": [
+      "Galbrena"
+    ],
+    "featuredId": 1208,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2025-10-09 11:00:00",
+    "end": "2025-10-30 09:59:00",
+    "name": "Lupa",
+    "featured": [
+      "Lupa"
+    ],
+    "featuredId": 1207,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2025-10-09 11:00:00",
+    "end": "2025-10-30 09:59:00",
+    "name": "Lux & Umbra",
+    "featured": [
+      "Lux & Umbra"
+    ],
+    "featuredId": 21030036,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2025-10-09 11:00:00",
+    "end": "2025-10-30 09:59:00",
+    "name": "Wildfire Mark",
+    "featured": [
+      "Wildfire Mark"
+    ],
+    "featuredId": 21010036,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2025-10-30 10:00:00",
+    "end": "2025-11-19 11:59:00",
+    "name": "Qiuyuan",
+    "featured": [
+      "Qiuyuan"
+    ],
+    "featuredId": 1411,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2025-10-30 10:00:00",
+    "end": "2025-11-19 11:59:00",
+    "name": "Zani",
+    "featured": [
+      "Zani"
+    ],
+    "featuredId": 1507,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2025-10-30 10:00:00",
+    "end": "2025-11-19 11:59:00",
+    "name": "Emerald Sentence",
+    "featured": [
+      "Emerald Sentence"
+    ],
+    "featuredId": 21020066,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2025-10-30 10:00:00",
+    "end": "2025-11-19 11:59:00",
+    "name": "Blazing Justice",
+    "featured": [
+      "Blazing Justice"
+    ],
+    "featuredId": 21040036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2025-11-20 11:00:00",
+    "end": "2025-12-11 09:59:00",
+    "name": "Chisa",
+    "featured": [
+      "Chisa"
+    ],
+    "featuredId": 1508,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2025-11-20 11:00:00",
+    "end": "2025-12-11 09:59:00",
+    "name": "Phoebe",
+    "featured": [
+      "Phoebe"
+    ],
+    "featuredId": 1506,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2025-11-20 11:00:00",
+    "end": "2025-12-11 09:59:00",
+    "name": "Kumokiri",
+    "featured": [
+      "Kumokiri"
+    ],
+    "featuredId": 21010056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2025-11-20 11:00:00",
+    "end": "2025-12-11 09:59:00",
+    "name": "Luminous Hymn",
+    "featured": [
+      "Luminous Hymn"
+    ],
+    "featuredId": 21050046,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2025-12-11 10:00:00",
+    "end": "2025-12-24 11:59:00",
+    "name": "Phrolova",
+    "featured": [
+      "Phrolova"
+    ],
+    "featuredId": 1608,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2025-12-11 10:00:00",
+    "end": "2025-12-24 11:59:00",
+    "name": "Cantarella",
+    "featured": [
+      "Cantarella"
+    ],
+    "featuredId": 1607,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2025-12-11 10:00:00",
+    "end": "2025-12-24 11:59:00",
+    "name": "Lethean Elegy",
+    "featured": [
+      "Lethean Elegy"
+    ],
+    "featuredId": 21050066,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2025-12-11 10:00:00",
+    "end": "2025-12-24 11:59:00",
+    "name": "Whispers of Sirens",
+    "featured": [
+      "Whispers of Sirens"
+    ],
+    "featuredId": 21050056,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Lynae",
+    "featured": [
+      "Lynae"
+    ],
+    "featuredId": 1509,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Cartethyia",
+    "featured": [
+      "Cartethyia"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Ciaccona",
+    "featured": [
+      "Ciaccona"
+    ],
+    "featuredId": 1407,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Spectrum Blaster",
+    "featured": [
+      "Spectrum Blaster"
+    ],
+    "featuredId": 21030046,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Defier's Thorn",
+    "featured": [
+      "Defier's Thorn"
+    ],
+    "featuredId": 21020056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-12-25 11:00:00",
+    "end": "2026-01-15 09:59:00",
+    "name": "Woodland Aria",
+    "featured": [
+      "Woodland Aria"
+    ],
+    "featuredId": 21030026,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Mornye",
+    "featured": [
+      "Mornye"
+    ],
+    "featuredId": 1209,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Augusta",
+    "featured": [
+      "Augusta"
+    ],
+    "featuredId": 1306,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Iuno",
+    "featured": [
+      "Iuno"
+    ],
+    "featuredId": 1410,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Starfield Calibrator",
+    "featured": [
+      "Starfield Calibrator"
+    ],
+    "featuredId": 21010066,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Thunderflare Dominion",
+    "featured": [
+      "Thunderflare Dominion"
+    ],
+    "featuredId": 21010046,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-01-15 10:00:00",
+    "end": "2026-02-04 11:59:00",
+    "name": "Moongazer's Sigil",
+    "featured": [
+      "Moongazer's Sigil"
+    ],
+    "featuredId": 21040046,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Aemeath",
+    "featured": [
+      "Aemeath"
+    ],
+    "featuredId": 1210,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Chisa",
+    "featured": [
+      "Chisa"
+    ],
+    "featuredId": 1508,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Lupa",
+    "featured": [
+      "Lupa"
+    ],
+    "featuredId": 1207,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Wildfire Mark",
+    "featured": [
+      "Wildfire Mark"
+    ],
+    "featuredId": 21010036,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Kumokiri",
+    "featured": [
+      "Kumokiri"
+    ],
+    "featuredId": 21010056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-02-05 11:00:00",
+    "end": "2026-02-26 09:59:00",
+    "name": "Everbright Polestar",
+    "featured": [
+      "Everbright Polestar"
+    ],
+    "featuredId": 21020076,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-02-26 10:00:00",
+    "end": "2026-03-18 11:59:00",
+    "name": "Luuk Herssen",
+    "featured": [
+      "Luuk Herssen"
+    ],
+    "featuredId": 1510,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-02-26 10:00:00",
+    "end": "2026-03-18 11:59:00",
+    "name": "Galbrena",
+    "featured": [
+      "Galbrena"
+    ],
+    "featuredId": 1208,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-02-26 10:00:00",
+    "end": "2026-03-18 11:59:00",
+    "name": "Lux & Umbra",
+    "featured": [
+      "Lux & Umbra"
+    ],
+    "featuredId": 21030036,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-02-26 10:00:00",
+    "end": "2026-03-18 11:59:00",
+    "name": "Daybreaker's Spine",
+    "featured": [
+      "Daybreaker's Spine"
+    ],
+    "featuredId": 21040056,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-03-19 11:00:00",
+    "end": "2026-04-09 09:59:00",
+    "name": "Sigrika",
+    "featured": [
+      "Sigrika"
+    ],
+    "featuredId": 1412,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-03-19 11:00:00",
+    "end": "2026-04-09 09:59:00",
+    "name": "Qiuyuan",
+    "featured": [
+      "Qiuyuan"
+    ],
+    "featuredId": 1411,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-03-19 11:00:00",
+    "end": "2026-04-09 09:59:00",
+    "name": "Solsworn Ciphers",
+    "featured": [
+      "Solsworn Ciphers"
+    ],
+    "featuredId": 21040066,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-03-19 11:00:00",
+    "end": "2026-04-09 09:59:00",
+    "name": "Emerald Sentence",
+    "featured": [
+      "Emerald Sentence"
+    ],
+    "featuredId": 21020066,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Lynae",
+    "featured": [
+      "Lynae"
+    ],
+    "featuredId": 1509,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Zani",
+    "featured": [
+      "Zani"
+    ],
+    "featuredId": 1507,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Phoebe",
+    "featured": [
+      "Phoebe"
+    ],
+    "featuredId": 1506,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Spectrum Blaster",
+    "featured": [
+      "Spectrum Blaster"
+    ],
+    "featuredId": 21030046,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Blazing Justice",
+    "featured": [
+      "Blazing Justice"
+    ],
+    "featuredId": 21040036,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-04-09 10:00:00",
+    "end": "2026-04-29 11:59:00",
+    "name": "Luminous Hymn",
+    "featured": [
+      "Luminous Hymn"
+    ],
+    "featuredId": 21050046,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Hiyuki",
+    "featured": [
+      "Hiyuki"
+    ],
+    "featuredId": 1108,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Mornye",
+    "featured": [
+      "Mornye"
+    ],
+    "featuredId": 1209,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Iuno",
+    "featured": [
+      "Iuno"
+    ],
+    "featuredId": 1410,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Frostburn",
+    "featured": [
+      "Frostburn"
+    ],
+    "featuredId": 21020086,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Starfield Calibrator",
+    "featured": [
+      "Starfield Calibrator"
+    ],
+    "featuredId": 21010066,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-04-30 11:00:00",
+    "end": "2026-05-21 09:59:00",
+    "name": "Moongazer's Sigil",
+    "featured": [
+      "Moongazer's Sigil"
+    ],
+    "featuredId": 21040046,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Denia",
+    "featured": [
+      "Denia"
+    ],
+    "featuredId": 1211,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Chisa",
+    "featured": [
+      "Chisa"
+    ],
+    "featuredId": 1508,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Phrolova",
+    "featured": [
+      "Phrolova"
+    ],
+    "featuredId": 1608,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Forged Dwarf Star",
+    "featured": [
+      "Forged Dwarf Star"
+    ],
+    "featuredId": 21050076,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Kumokiri",
+    "featured": [
+      "Kumokiri"
+    ],
+    "featuredId": 21010056,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-05-21 10:00:00",
+    "end": "2026-06-07 11:59:00",
+    "name": "Lethean Elegy",
+    "featured": [
+      "Lethean Elegy"
+    ],
+    "featuredId": 21050066,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2026-06-08 11:00:00",
+    "end": "2026-07-09 09:59:00",
+    "name": "Lucy",
+    "featured": [
+      "Lucy"
+    ],
+    "featuredId": 1511,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2026-06-08 11:00:00",
+    "end": "2026-07-09 09:59:00",
+    "name": "Rebecca",
+    "featured": [
+      "Rebecca"
+    ],
+    "featuredId": 1308,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2026-06-08 11:00:00",
+    "end": "2026-07-09 09:59:00",
+    "name": "Spectral Trigger",
+    "featured": [
+      "Spectral Trigger"
+    ],
+    "featuredId": 21030056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2026-06-08 11:00:00",
+    "end": "2026-07-09 09:59:00",
+    "name": "Skull Thrasher",
+    "featured": [
+      "Skull Thrasher"
+    ],
+    "featuredId": 21030066,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2026-06-13 10:00:00",
+    "end": "2026-07-09 11:59:00",
+    "name": "Lucilla",
+    "featured": [
+      "Lucilla"
+    ],
+    "featuredId": 1109,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2026-06-13 10:00:00",
+    "end": "2026-07-09 11:59:00",
+    "name": "Cartethyia",
+    "featured": [
+      "Cartethyia"
+    ],
+    "featuredId": 1409,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2026-06-13 10:00:00",
+    "end": "2026-07-09 11:59:00",
+    "name": "Freeze Frame",
+    "featured": [
+      "Freeze Frame"
+    ],
+    "featuredId": 21050086,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2026-06-13 10:00:00",
+    "end": "2026-07-09 11:59:00",
+    "name": "Defier's Thorn",
+    "featured": [
+      "Defier's Thorn"
+    ],
+    "featuredId": 21020056,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Yangyang: Xuanling",
+    "featured": [
+      "Yangyang: Xuanling"
+    ],
+    "featuredId": 1610,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Luuk Herssen",
+    "featured": [
+      "Luuk Herssen"
+    ],
+    "featuredId": 1510,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Lynae",
+    "featured": [
+      "Lynae"
+    ],
+    "featuredId": 1509,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Azure Oath",
+    "featured": [
+      "Azure Oath"
+    ],
+    "featuredId": 21020096,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Daybreaker's Spine",
+    "featured": [
+      "Daybreaker's Spine"
+    ],
+    "featuredId": 21040056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2026-07-10 11:00:00",
+    "end": "2026-07-30 09:59:00",
+    "name": "Spectrum Blaster",
+    "featured": [
+      "Spectrum Blaster"
+    ],
+    "featuredId": 21030046,
+    "phase": 1
+  }
+]

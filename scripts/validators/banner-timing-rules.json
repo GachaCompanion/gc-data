@@ -1,0 +1,43 @@
+{
+  "_note": "Known phase start/end times (UTC+8) per game. Times are consistent across all versions - only the date changes. Null = not yet verified from a live API capture. Source: BANNER SCHEDULE TEST.json captured 2026-06-05.",
+  "genshin": {
+    "phase1": {
+      "start": "07:00:00",
+      "end": "00:59:00"
+    },
+    "phase2": {
+      "start": "01:00:00",
+      "end": "21:59:59"
+    }
+  },
+  "hsr": {
+    "phase1": {
+      "start": "10:00:00",
+      "end": "18:59:00"
+    },
+    "phase2": {
+      "start": "19:00:00",
+      "end": "22:00:00"
+    }
+  },
+  "zzz": {
+    "phase1": {
+      "start": "10:00:00",
+      "end": "18:59:59"
+    },
+    "phase2": {
+      "start": "19:00:00",
+      "end": "21:59:59"
+    }
+  },
+  "wuwa": {
+    "phase1": {
+      "start": "11:00:00",
+      "end": "09:59:00"
+    },
+    "phase2": {
+      "start": "10:00:00",
+      "end": "11:59:00"
+    }
+  }
+}

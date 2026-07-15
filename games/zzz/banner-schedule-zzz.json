@@ -1,0 +1,1514 @@
+[
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2024-07-04 10:00:00",
+    "end": "2024-07-24 18:59:59",
+    "name": "Ellen",
+    "featured": [
+      "Ellen"
+    ],
+    "featuredId": 1191,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2024-07-04 10:00:00",
+    "end": "2024-07-24 18:59:59",
+    "name": "Lord of Seas",
+    "featured": [
+      "Lord of Seas"
+    ],
+    "featuredId": 14119,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2024-07-24 19:00:00",
+    "end": "2024-08-13 21:59:59",
+    "name": "Zhu Yuan",
+    "featured": [
+      "Zhu Yuan"
+    ],
+    "featuredId": 1241,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2024-07-24 19:00:00",
+    "end": "2024-08-13 21:59:59",
+    "name": "Security Patrol",
+    "featured": [
+      "Security Patrol"
+    ],
+    "featuredId": 14124,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2024-08-14 10:00:00",
+    "end": "2024-09-04 18:59:59",
+    "name": "Qingyi",
+    "featured": [
+      "Qingyi"
+    ],
+    "featuredId": 1251,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2024-08-14 10:00:00",
+    "end": "2024-09-04 18:59:59",
+    "name": "Ringing Melody",
+    "featured": [
+      "Ringing Melody"
+    ],
+    "featuredId": 14125,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2024-09-04 19:00:00",
+    "end": "2024-09-24 21:59:59",
+    "name": "Jane Doe",
+    "featured": [
+      "Jane Doe"
+    ],
+    "featuredId": 1261,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2024-09-04 19:00:00",
+    "end": "2024-09-24 21:59:59",
+    "name": "Indulge in the Hunt",
+    "featured": [
+      "Indulge in the Hunt"
+    ],
+    "featuredId": 14126,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2024-09-25 10:00:00",
+    "end": "2024-10-16 18:59:59",
+    "name": "Caesar",
+    "featured": [
+      "Caesar"
+    ],
+    "featuredId": 1071,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2024-09-25 10:00:00",
+    "end": "2024-10-16 18:59:59",
+    "name": "Invincible Rider",
+    "featured": [
+      "Invincible Rider"
+    ],
+    "featuredId": 14107,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2024-10-16 19:00:00",
+    "end": "2024-11-05 21:59:59",
+    "name": "Burnice",
+    "featured": [
+      "Burnice"
+    ],
+    "featuredId": 1171,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2024-10-16 19:00:00",
+    "end": "2024-11-05 21:59:59",
+    "name": "Fuel on the Rocks",
+    "featured": [
+      "Fuel on the Rocks"
+    ],
+    "featuredId": 14117,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2024-11-06 10:00:00",
+    "end": "2024-11-27 18:59:59",
+    "name": "Yanagi",
+    "featured": [
+      "Yanagi"
+    ],
+    "featuredId": 1221,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2024-11-06 10:00:00",
+    "end": "2024-11-27 18:59:59",
+    "name": "Flowing Flame",
+    "featured": [
+      "Flowing Flame"
+    ],
+    "featuredId": 14116,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2024-11-27 19:00:00",
+    "end": "2024-12-17 21:59:59",
+    "name": "Lighter",
+    "featured": [
+      "Lighter"
+    ],
+    "featuredId": 1161,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2024-11-27 19:00:00",
+    "end": "2024-12-17 21:59:59",
+    "name": "Time-Devouring Stratagem",
+    "featured": [
+      "Time-Devouring Stratagem"
+    ],
+    "featuredId": 14122,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2024-12-18 10:00:00",
+    "end": "2025-01-21 18:59:59",
+    "name": "Miyabi",
+    "featured": [
+      "Miyabi"
+    ],
+    "featuredId": 1091,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2024-12-18 10:00:00",
+    "end": "2025-01-21 18:59:59",
+    "name": "Frost-Stained Star",
+    "featured": [
+      "Frost-Stained Star"
+    ],
+    "featuredId": 14109,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2024-12-18 10:00:00",
+    "end": "2025-01-21 18:59:59",
+    "name": "Harumasa",
+    "featured": [
+      "Harumasa"
+    ],
+    "featuredId": 1201,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2024-12-18 10:00:00",
+    "end": "2025-01-21 18:59:59",
+    "name": "Growth Through Adversity",
+    "featured": [
+      "Growth Through Adversity"
+    ],
+    "featuredId": 14120,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2025-01-22 10:00:00",
+    "end": "2025-02-12 18:59:59",
+    "name": "Astra Yao",
+    "featured": [
+      "Astra Yao"
+    ],
+    "featuredId": 1311,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2025-01-22 10:00:00",
+    "end": "2025-02-12 18:59:59",
+    "name": "Ellen",
+    "featured": [
+      "Ellen"
+    ],
+    "featuredId": 1191,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2025-01-22 10:00:00",
+    "end": "2025-02-12 18:59:59",
+    "name": "Untold Beauty",
+    "featured": [
+      "Untold Beauty"
+    ],
+    "featuredId": 14131,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2025-01-22 10:00:00",
+    "end": "2025-02-12 18:59:59",
+    "name": "Lord of Seas",
+    "featured": [
+      "Lord of Seas"
+    ],
+    "featuredId": 14119,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2025-02-12 19:00:00",
+    "end": "2025-03-11 21:59:59",
+    "name": "Evelyn",
+    "featured": [
+      "Evelyn"
+    ],
+    "featuredId": 1321,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2025-02-12 19:00:00",
+    "end": "2025-03-11 21:59:59",
+    "name": "Qingyi",
+    "featured": [
+      "Qingyi"
+    ],
+    "featuredId": 1251,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2025-02-12 19:00:00",
+    "end": "2025-03-11 21:59:59",
+    "name": "String & Melody",
+    "featured": [
+      "String & Melody"
+    ],
+    "featuredId": 14132,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2025-02-12 19:00:00",
+    "end": "2025-03-11 21:59:59",
+    "name": "Ringing Melody",
+    "featured": [
+      "Ringing Melody"
+    ],
+    "featuredId": 14125,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2025-03-12 10:00:00",
+    "end": "2025-04-02 18:59:59",
+    "name": "Soldier 0 Anby",
+    "featured": [
+      "Soldier 0 Anby"
+    ],
+    "featuredId": 1381,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2025-03-12 10:00:00",
+    "end": "2025-04-02 18:59:59",
+    "name": "Burnice",
+    "featured": [
+      "Burnice"
+    ],
+    "featuredId": 1171,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2025-03-12 10:00:00",
+    "end": "2025-04-02 18:59:59",
+    "name": "Tranquil Blossom",
+    "featured": [
+      "Tranquil Blossom"
+    ],
+    "featuredId": 14138,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2025-03-12 10:00:00",
+    "end": "2025-04-02 18:59:59",
+    "name": "Fuel on the Rocks",
+    "featured": [
+      "Fuel on the Rocks"
+    ],
+    "featuredId": 14117,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2025-04-02 19:00:00",
+    "end": "2025-04-22 21:59:59",
+    "name": "Trigger",
+    "featured": [
+      "Trigger"
+    ],
+    "featuredId": 1361,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2025-04-02 19:00:00",
+    "end": "2025-04-22 21:59:59",
+    "name": "Zhu Yuan",
+    "featured": [
+      "Zhu Yuan"
+    ],
+    "featuredId": 1241,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2025-04-02 19:00:00",
+    "end": "2025-04-22 21:59:59",
+    "name": "Wind Seeker",
+    "featured": [
+      "Wind Seeker"
+    ],
+    "featuredId": 14136,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2025-04-02 19:00:00",
+    "end": "2025-04-22 21:59:59",
+    "name": "Security Patrol",
+    "featured": [
+      "Security Patrol"
+    ],
+    "featuredId": 14124,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.7",
+    "start": "2025-04-23 10:00:00",
+    "end": "2025-05-14 18:59:59",
+    "name": "Vivian",
+    "featured": [
+      "Vivian"
+    ],
+    "featuredId": 1331,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.7",
+    "start": "2025-04-23 10:00:00",
+    "end": "2025-05-14 18:59:59",
+    "name": "Jane Doe",
+    "featured": [
+      "Jane Doe"
+    ],
+    "featuredId": 1261,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.7",
+    "start": "2025-04-23 10:00:00",
+    "end": "2025-05-14 18:59:59",
+    "name": "Silver Spiked Feathers",
+    "featured": [
+      "Silver Spiked Feathers"
+    ],
+    "featuredId": 14133,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.7",
+    "start": "2025-04-23 10:00:00",
+    "end": "2025-05-14 18:59:59",
+    "name": "Indulge in the Hunt",
+    "featured": [
+      "Indulge in the Hunt"
+    ],
+    "featuredId": 14126,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.7",
+    "start": "2025-05-14 19:00:00",
+    "end": "2025-06-05 21:59:59",
+    "name": "Hugo",
+    "featured": [
+      "Hugo"
+    ],
+    "featuredId": 1291,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.7",
+    "start": "2025-05-14 19:00:00",
+    "end": "2025-06-05 21:59:59",
+    "name": "Lighter",
+    "featured": [
+      "Lighter"
+    ],
+    "featuredId": 1161,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.7",
+    "start": "2025-05-14 19:00:00",
+    "end": "2025-06-05 21:59:59",
+    "name": "False Personas",
+    "featured": [
+      "False Personas"
+    ],
+    "featuredId": 14129,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.7",
+    "start": "2025-05-14 19:00:00",
+    "end": "2025-06-05 21:59:59",
+    "name": "Flowing Flame",
+    "featured": [
+      "Flowing Flame"
+    ],
+    "featuredId": 14116,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-06-06 10:00:00",
+    "end": "2025-06-25 18:59:59",
+    "name": "Yixuan",
+    "featured": [
+      "Yixuan"
+    ],
+    "featuredId": 1371,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-06-06 10:00:00",
+    "end": "2025-06-25 18:59:59",
+    "name": "Astra Yao",
+    "featured": [
+      "Astra Yao"
+    ],
+    "featuredId": 1311,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-06-06 10:00:00",
+    "end": "2025-06-25 18:59:59",
+    "name": "Cloud Flow",
+    "featured": [
+      "Cloud Flow"
+    ],
+    "featuredId": 14137,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-06-06 10:00:00",
+    "end": "2025-06-25 18:59:59",
+    "name": "Untold Beauty",
+    "featured": [
+      "Untold Beauty"
+    ],
+    "featuredId": 14131,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-06-25 19:00:00",
+    "end": "2025-07-15 21:59:59",
+    "name": "Ju Fufu",
+    "featured": [
+      "Ju Fufu"
+    ],
+    "featuredId": 1391,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2025-06-25 19:00:00",
+    "end": "2025-07-15 21:59:59",
+    "name": "Caesar",
+    "featured": [
+      "Caesar"
+    ],
+    "featuredId": 1071,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-06-25 19:00:00",
+    "end": "2025-07-15 21:59:59",
+    "name": "Tiger Spirit Rising",
+    "featured": [
+      "Tiger Spirit Rising"
+    ],
+    "featuredId": 14139,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2025-06-25 19:00:00",
+    "end": "2025-07-15 21:59:59",
+    "name": "Invincible Rider",
+    "featured": [
+      "Invincible Rider"
+    ],
+    "featuredId": 14107,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-07-16 10:00:00",
+    "end": "2025-08-06 18:59:59",
+    "name": "Yuzuha",
+    "featured": [
+      "Yuzuha"
+    ],
+    "featuredId": 1411,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-07-16 10:00:00",
+    "end": "2025-08-06 18:59:59",
+    "name": "Miyabi",
+    "featured": [
+      "Miyabi"
+    ],
+    "featuredId": 1091,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-07-16 10:00:00",
+    "end": "2025-08-06 18:59:59",
+    "name": "Exquisitely Ingenious",
+    "featured": [
+      "Exquisitely Ingenious"
+    ],
+    "featuredId": 14141,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-07-16 10:00:00",
+    "end": "2025-08-06 18:59:59",
+    "name": "Frost-Stained Star",
+    "featured": [
+      "Frost-Stained Star"
+    ],
+    "featuredId": 14109,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-08-06 19:00:00",
+    "end": "2025-09-03 21:59:59",
+    "name": "Alice",
+    "featured": [
+      "Alice"
+    ],
+    "featuredId": 1401,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2025-08-06 19:00:00",
+    "end": "2025-09-03 21:59:59",
+    "name": "Yanagi",
+    "featured": [
+      "Yanagi"
+    ],
+    "featuredId": 1221,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-08-06 19:00:00",
+    "end": "2025-09-03 21:59:59",
+    "name": "Gift of Stardust",
+    "featured": [
+      "Gift of Stardust"
+    ],
+    "featuredId": 14140,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2025-08-06 19:00:00",
+    "end": "2025-09-03 21:59:59",
+    "name": "Time-Devouring Stratagem",
+    "featured": [
+      "Time-Devouring Stratagem"
+    ],
+    "featuredId": 14122,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-09-04 10:00:00",
+    "end": "2025-09-24 18:59:59",
+    "name": "Seed",
+    "featured": [
+      "Seed"
+    ],
+    "featuredId": 1461,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-09-04 10:00:00",
+    "end": "2025-09-24 18:59:59",
+    "name": "Trigger",
+    "featured": [
+      "Trigger"
+    ],
+    "featuredId": 1361,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-09-04 10:00:00",
+    "end": "2025-09-24 18:59:59",
+    "name": "Sprouting Core",
+    "featured": [
+      "Sprouting Core"
+    ],
+    "featuredId": 14146,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-09-04 10:00:00",
+    "end": "2025-09-24 18:59:59",
+    "name": "Wind Seeker",
+    "featured": [
+      "Wind Seeker"
+    ],
+    "featuredId": 14136,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-09-24 19:00:00",
+    "end": "2025-10-14 21:59:59",
+    "name": "Orphie & Magus",
+    "featured": [
+      "Orphie & Magus"
+    ],
+    "featuredId": 1301,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2025-09-24 19:00:00",
+    "end": "2025-10-14 21:59:59",
+    "name": "Evelyn",
+    "featured": [
+      "Evelyn"
+    ],
+    "featuredId": 1321,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-09-24 19:00:00",
+    "end": "2025-10-14 21:59:59",
+    "name": "Flame-Devouring Choir",
+    "featured": [
+      "Flame-Devouring Choir"
+    ],
+    "featuredId": 14130,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2025-09-24 19:00:00",
+    "end": "2025-10-14 21:59:59",
+    "name": "String & Melody",
+    "featured": [
+      "String & Melody"
+    ],
+    "featuredId": 14132,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-10-15 10:00:00",
+    "end": "2025-11-05 18:59:59",
+    "name": "Lucia",
+    "featured": [
+      "Lucia"
+    ],
+    "featuredId": 1451,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-10-15 10:00:00",
+    "end": "2025-11-05 18:59:59",
+    "name": "Vivian",
+    "featured": [
+      "Vivian"
+    ],
+    "featuredId": 1331,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-10-15 10:00:00",
+    "end": "2025-11-05 18:59:59",
+    "name": "Moontide Epic",
+    "featured": [
+      "Moontide Epic"
+    ],
+    "featuredId": 14145,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-10-15 10:00:00",
+    "end": "2025-11-05 18:59:59",
+    "name": "Silver Spiked Feathers",
+    "featured": [
+      "Silver Spiked Feathers"
+    ],
+    "featuredId": 14133,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-11-05 19:00:00",
+    "end": "2025-11-25 21:59:59",
+    "name": "Yidhari",
+    "featured": [
+      "Yidhari"
+    ],
+    "featuredId": 1051,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2025-11-05 19:00:00",
+    "end": "2025-11-25 21:59:59",
+    "name": "Ju Fufu",
+    "featured": [
+      "Ju Fufu"
+    ],
+    "featuredId": 1391,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-11-05 19:00:00",
+    "end": "2025-11-25 21:59:59",
+    "name": "Heartfelt Caress",
+    "featured": [
+      "Heartfelt Caress"
+    ],
+    "featuredId": 14105,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2025-11-05 19:00:00",
+    "end": "2025-11-25 21:59:59",
+    "name": "Tiger Spirit Rising",
+    "featured": [
+      "Tiger Spirit Rising"
+    ],
+    "featuredId": 14139,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-11-26 10:00:00",
+    "end": "2025-12-17 18:59:59",
+    "name": "Dialyn",
+    "featured": [
+      "Dialyn"
+    ],
+    "featuredId": 1481,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-11-26 10:00:00",
+    "end": "2025-12-17 18:59:59",
+    "name": "Hugo",
+    "featured": [
+      "Hugo"
+    ],
+    "featuredId": 1291,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-11-26 10:00:00",
+    "end": "2025-12-17 18:59:59",
+    "name": "24/7",
+    "featured": [
+      "24/7"
+    ],
+    "featuredId": 14148,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-11-26 10:00:00",
+    "end": "2025-12-17 18:59:59",
+    "name": "False Personas",
+    "featured": [
+      "False Personas"
+    ],
+    "featuredId": 14129,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-12-17 19:00:00",
+    "end": "2025-12-29 21:59:59",
+    "name": "Banyue",
+    "featured": [
+      "Banyue"
+    ],
+    "featuredId": 1471,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2025-12-17 19:00:00",
+    "end": "2025-12-29 21:59:59",
+    "name": "Ellen",
+    "featured": [
+      "Ellen"
+    ],
+    "featuredId": 1191,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-12-17 19:00:00",
+    "end": "2025-12-29 21:59:59",
+    "name": "Purging Karmic Fire",
+    "featured": [
+      "Purging Karmic Fire"
+    ],
+    "featuredId": 14147,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2025-12-17 19:00:00",
+    "end": "2025-12-29 21:59:59",
+    "name": "Lord of Seas",
+    "featured": [
+      "Lord of Seas"
+    ],
+    "featuredId": 14119,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-12-30 10:00:00",
+    "end": "2026-02-05 18:59:59",
+    "name": "Ye Shunguang",
+    "featured": [
+      "Ye Shunguang"
+    ],
+    "featuredId": 1431,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2025-12-30 10:00:00",
+    "end": "2026-02-05 18:59:59",
+    "name": "Zhao",
+    "featured": [
+      "Zhao"
+    ],
+    "featuredId": 1341,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-12-30 10:00:00",
+    "end": "2026-02-05 18:59:59",
+    "name": "Fragile Sweetness",
+    "featured": [
+      "Fragile Sweetness"
+    ],
+    "featuredId": 14134,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2025-12-30 10:00:00",
+    "end": "2026-02-05 18:59:59",
+    "name": "Jade Soul, Frozen Heart",
+    "featured": [
+      "Jade Soul, Frozen Heart"
+    ],
+    "featuredId": 14143,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Soldier 0 Anby",
+    "featured": [
+      "Soldier 0 Anby"
+    ],
+    "featuredId": 1381,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Alice",
+    "featured": [
+      "Alice"
+    ],
+    "featuredId": 1401,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Astra Yao",
+    "featured": [
+      "Astra Yao"
+    ],
+    "featuredId": 1311,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Tranquil Blossom",
+    "featured": [
+      "Tranquil Blossom"
+    ],
+    "featuredId": 14138,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Gift of Stardust",
+    "featured": [
+      "Gift of Stardust"
+    ],
+    "featuredId": 14140,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2026-01-21 19:00:00",
+    "end": "2026-02-05 21:59:59",
+    "name": "Untold Beauty",
+    "featured": [
+      "Untold Beauty"
+    ],
+    "featuredId": 14131,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2026-02-06 10:00:00",
+    "end": "2026-03-04 18:59:59",
+    "name": "Sunna",
+    "featured": [
+      "Sunna"
+    ],
+    "featuredId": 1491,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2026-02-06 10:00:00",
+    "end": "2026-03-04 18:59:59",
+    "name": "Yixuan",
+    "featured": [
+      "Yixuan"
+    ],
+    "featuredId": 1371,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2026-02-06 10:00:00",
+    "end": "2026-03-04 18:59:59",
+    "name": "Decibel Monologue",
+    "featured": [
+      "Decibel Monologue"
+    ],
+    "featuredId": 14149,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2026-02-06 10:00:00",
+    "end": "2026-03-04 18:59:59",
+    "name": "Cloud Flow",
+    "featured": [
+      "Cloud Flow"
+    ],
+    "featuredId": 14137,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2026-03-04 19:00:00",
+    "end": "2026-03-23 21:59:59",
+    "name": "Aria",
+    "featured": [
+      "Aria"
+    ],
+    "featuredId": 1501,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2026-03-04 19:00:00",
+    "end": "2026-03-23 21:59:59",
+    "name": "Yuzuha",
+    "featured": [
+      "Yuzuha"
+    ],
+    "featuredId": 1411,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2026-03-04 19:00:00",
+    "end": "2026-03-23 21:59:59",
+    "name": "Energetic Strike",
+    "featured": [
+      "Energetic Strike"
+    ],
+    "featuredId": 14150,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2026-03-04 19:00:00",
+    "end": "2026-03-23 21:59:59",
+    "name": "Exquisitely Ingenious",
+    "featured": [
+      "Exquisitely Ingenious"
+    ],
+    "featuredId": 14141,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2026-03-24 10:00:00",
+    "end": "2026-04-15 18:59:59",
+    "name": "Nangong Yu",
+    "featured": [
+      "Nangong Yu"
+    ],
+    "featuredId": 1511,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2026-03-24 10:00:00",
+    "end": "2026-04-15 18:59:59",
+    "name": "Yidhari",
+    "featured": [
+      "Yidhari"
+    ],
+    "featuredId": 1051,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2026-03-24 10:00:00",
+    "end": "2026-04-15 18:59:59",
+    "name": "Disco Demon",
+    "featured": [
+      "Disco Demon"
+    ],
+    "featuredId": 14151,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2026-03-24 10:00:00",
+    "end": "2026-04-15 18:59:59",
+    "name": "Heartfelt Caress",
+    "featured": [
+      "Heartfelt Caress"
+    ],
+    "featuredId": 14105,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2026-04-15 19:00:00",
+    "end": "2026-05-05 21:59:59",
+    "name": "Cissia",
+    "featured": [
+      "Cissia"
+    ],
+    "featuredId": 1521,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2026-04-15 19:00:00",
+    "end": "2026-05-05 21:59:59",
+    "name": "Seed",
+    "featured": [
+      "Seed"
+    ],
+    "featuredId": 1461,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2026-04-15 19:00:00",
+    "end": "2026-05-05 21:59:59",
+    "name": "Bioengineered Venom",
+    "featured": [
+      "Bioengineered Venom"
+    ],
+    "featuredId": 14152,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2026-04-15 19:00:00",
+    "end": "2026-05-05 21:59:59",
+    "name": "Sprouting Core",
+    "featured": [
+      "Sprouting Core"
+    ],
+    "featuredId": 14146,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2026-05-06 10:00:00",
+    "end": "2026-05-27 18:59:59",
+    "name": "Promeia",
+    "featured": [
+      "Promeia"
+    ],
+    "featuredId": 1541,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2026-05-06 10:00:00",
+    "end": "2026-05-27 18:59:59",
+    "name": "Lucia",
+    "featured": [
+      "Lucia"
+    ],
+    "featuredId": 1451,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2026-05-06 10:00:00",
+    "end": "2026-05-27 18:59:59",
+    "name": "Terminating Verdict",
+    "featured": [
+      "Terminating Verdict"
+    ],
+    "featuredId": 14154,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2026-05-06 10:00:00",
+    "end": "2026-05-27 18:59:59",
+    "name": "Moontide Epic",
+    "featured": [
+      "Moontide Epic"
+    ],
+    "featuredId": 14145,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2026-05-27 19:00:00",
+    "end": "2026-06-16 21:59:59",
+    "name": "Starlight - Billy",
+    "featured": [
+      "Starlight - Billy"
+    ],
+    "featuredId": 1531,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.8",
+    "start": "2026-05-27 19:00:00",
+    "end": "2026-06-16 21:59:59",
+    "name": "Orphie & Magus",
+    "featured": [
+      "Orphie & Magus"
+    ],
+    "featuredId": 1301,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2026-05-27 19:00:00",
+    "end": "2026-06-16 21:59:59",
+    "name": "Knight's Morale",
+    "featured": [
+      "Knight's Morale"
+    ],
+    "featuredId": 14153,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.8",
+    "start": "2026-05-27 19:00:00",
+    "end": "2026-06-16 21:59:59",
+    "name": "Flame-Devouring Choir",
+    "featured": [
+      "Flame-Devouring Choir"
+    ],
+    "featuredId": 14130,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-06-17 10:00:00",
+    "end": "2026-07-08 18:59:59",
+    "name": "Velina",
+    "featured": [
+      "Velina"
+    ],
+    "featuredId": 1561,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-06-17 10:00:00",
+    "end": "2026-07-08 18:59:59",
+    "name": "Ye Shunguang",
+    "featured": [
+      "Ye Shunguang"
+    ],
+    "featuredId": 1431,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-06-17 10:00:00",
+    "end": "2026-07-08 18:59:59",
+    "name": "Flawless Etiquette",
+    "featured": [
+      "Flawless Etiquette"
+    ],
+    "featuredId": 14156,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-06-17 10:00:00",
+    "end": "2026-07-08 18:59:59",
+    "name": "Jade Soul, Frozen Heart",
+    "featured": [
+      "Jade Soul, Frozen Heart"
+    ],
+    "featuredId": 14143,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-07-08 19:00:00",
+    "end": "2026-07-28 21:59:59",
+    "name": "Norma Hollowell",
+    "featured": [
+      "Norma Hollowell"
+    ],
+    "featuredId": 1571,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2026-07-08 19:00:00",
+    "end": "2026-07-28 21:59:59",
+    "name": "Sunna",
+    "featured": [
+      "Sunna"
+    ],
+    "featuredId": 1491,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-07-08 19:00:00",
+    "end": "2026-07-28 21:59:59",
+    "name": "Chief Sidekick",
+    "featured": [
+      "Chief Sidekick"
+    ],
+    "featuredId": 14157,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2026-07-08 19:00:00",
+    "end": "2026-07-28 21:59:59",
+    "name": "Decibel Monologue",
+    "featured": [
+      "Decibel Monologue"
+    ],
+    "featuredId": 14149,
+    "phase": 2
+  }
+]

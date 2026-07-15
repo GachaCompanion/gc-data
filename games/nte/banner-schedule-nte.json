@@ -1,0 +1,122 @@
+[
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2026-04-29 06:00:00",
+    "end": "2026-05-13 05:59:00",
+    "name": "Nanally",
+    "featured": [
+      "Nanally"
+    ],
+    "featuredId": 1010,
+    "phase": 1
+  },
+  {
+    "type": "arc",
+    "version": "1.0",
+    "start": "2026-04-29 06:00:00",
+    "end": "2026-05-13 05:59:00",
+    "name": "Ready-Ready",
+    "featured": [
+      "Ready-Ready"
+    ],
+    "featuredId": "fork_TigerTally",
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2026-05-13 06:00:00",
+    "end": "2026-06-03 05:59:00",
+    "name": "Hotori",
+    "featured": [
+      "Hotori"
+    ],
+    "featuredId": 1052,
+    "phase": 2
+  },
+  {
+    "type": "arc",
+    "version": "1.0",
+    "start": "2026-05-13 06:00:00",
+    "end": "2026-06-03 05:59:00",
+    "name": "Marching Beyond Time",
+    "featured": [
+      "Marching Beyond Time"
+    ],
+    "featuredId": "fork_Time",
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2026-06-03 06:00:00",
+    "end": "2026-06-24 05:59:00",
+    "name": "Lacrimosa",
+    "featured": [
+      "Lacrimosa"
+    ],
+    "featuredId": 1004,
+    "phase": 1
+  },
+  {
+    "type": "arc",
+    "version": "1.1",
+    "start": "2026-06-03 06:00:00",
+    "end": "2026-06-24 05:59:00",
+    "name": "The Last Rose",
+    "featured": [
+      "The Last Rose"
+    ],
+    "featuredId": "fork_Rose",
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2026-06-24 06:00:00",
+    "end": "2026-07-08 05:59:00",
+    "name": "Chaos",
+    "featured": [
+      "Chaos"
+    ],
+    "featuredId": 1071,
+    "phase": 2
+  },
+  {
+    "type": "arc",
+    "version": "1.1",
+    "start": "2026-06-24 06:00:00",
+    "end": "2026-07-08 05:59:00",
+    "name": "What's Desired",
+    "featured": [
+      "What's Desired"
+    ],
+    "featuredId": "fork_GoldWool",
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2026-07-08 06:00:00",
+    "end": "2026-07-29 05:59:00",
+    "name": "Shinku",
+    "featured": [
+      "Shinku"
+    ],
+    "featuredId": 1076,
+    "phase": 1
+  },
+  {
+    "type": "arc",
+    "version": "1.2",
+    "start": "2026-07-08 06:00:00",
+    "end": "2026-07-29 05:59:00",
+    "name": "Blushing Mirage",
+    "featured": [
+      "Blushing Mirage"
+    ],
+    "featuredId": "fork_LunarPhase",
+    "phase": 1
+  }
+]

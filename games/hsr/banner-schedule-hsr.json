@@ -1,0 +1,3218 @@
+[
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2023-04-26 10:00:00",
+    "end": "2023-05-17 18:59:00",
+    "name": "Seele",
+    "featured": [
+      "Seele"
+    ],
+    "featuredId": 1102,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2023-04-26 10:00:00",
+    "end": "2023-05-17 18:59:00",
+    "name": "In the Night",
+    "featured": [
+      "In the Night"
+    ],
+    "featuredId": 23001,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.0",
+    "start": "2023-05-17 19:00:00",
+    "end": "2023-06-07 22:00:00",
+    "name": "Jing Yuan",
+    "featured": [
+      "Jing Yuan"
+    ],
+    "featuredId": 1204,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.0",
+    "start": "2023-05-17 19:00:00",
+    "end": "2023-06-07 22:00:00",
+    "name": "Before Dawn",
+    "featured": [
+      "Before Dawn"
+    ],
+    "featuredId": 23010,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2023-06-07 10:00:00",
+    "end": "2023-06-27 18:59:00",
+    "name": "Silver Wolf",
+    "featured": [
+      "Silver Wolf"
+    ],
+    "featuredId": 1006,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2023-06-07 10:00:00",
+    "end": "2023-06-27 18:59:00",
+    "name": "Incessant Rain",
+    "featured": [
+      "Incessant Rain"
+    ],
+    "featuredId": 23007,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.1",
+    "start": "2023-06-27 19:00:00",
+    "end": "2023-07-19 22:00:00",
+    "name": "Luocha",
+    "featured": [
+      "Luocha"
+    ],
+    "featuredId": 1203,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.1",
+    "start": "2023-06-27 19:00:00",
+    "end": "2023-07-19 22:00:00",
+    "name": "Echoes of the Coffin",
+    "featured": [
+      "Echoes of the Coffin"
+    ],
+    "featuredId": 23008,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2023-07-18 10:00:00",
+    "end": "2023-08-08 18:59:00",
+    "name": "Blade",
+    "featured": [
+      "Blade"
+    ],
+    "featuredId": 1205,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2023-07-18 10:00:00",
+    "end": "2023-08-08 18:59:00",
+    "name": "The Unreachable Side",
+    "featured": [
+      "The Unreachable Side"
+    ],
+    "featuredId": 23009,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2023-08-08 19:00:00",
+    "end": "2023-08-30 22:00:00",
+    "name": "Kafka",
+    "featured": [
+      "Kafka"
+    ],
+    "featuredId": 1005,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.2",
+    "start": "2023-08-08 19:00:00",
+    "end": "2023-08-30 22:00:00",
+    "name": "Patience Is All You Need",
+    "featured": [
+      "Patience Is All You Need"
+    ],
+    "featuredId": 23006,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2023-08-29 10:00:00",
+    "end": "2023-09-19 18:59:00",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "featured": [
+      "Dan Heng • Imbibitor Lunae"
+    ],
+    "featuredId": 1213,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2023-08-29 10:00:00",
+    "end": "2023-09-19 18:59:00",
+    "name": "Brighter Than the Sun",
+    "featured": [
+      "Brighter Than the Sun"
+    ],
+    "featuredId": 23015,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.3",
+    "start": "2023-09-19 19:00:00",
+    "end": "2023-10-11 22:00:00",
+    "name": "Fu Xuan",
+    "featured": [
+      "Fu Xuan"
+    ],
+    "featuredId": 1208,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.3",
+    "start": "2023-09-19 19:00:00",
+    "end": "2023-10-11 22:00:00",
+    "name": "She Already Shut Her Eyes",
+    "featured": [
+      "She Already Shut Her Eyes"
+    ],
+    "featuredId": 23011,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2023-10-10 10:00:00",
+    "end": "2023-10-27 18:59:00",
+    "name": "Jingliu",
+    "featured": [
+      "Jingliu"
+    ],
+    "featuredId": 1212,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2023-10-10 10:00:00",
+    "end": "2023-10-27 18:59:00",
+    "name": "I Shall Be My Own Sword",
+    "featured": [
+      "I Shall Be My Own Sword"
+    ],
+    "featuredId": 23014,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2023-10-27 19:00:00",
+    "end": "2023-11-14 22:00:00",
+    "name": "Seele",
+    "featured": [
+      "Seele"
+    ],
+    "featuredId": 1102,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.4",
+    "start": "2023-10-27 19:00:00",
+    "end": "2023-11-14 22:00:00",
+    "name": "Topaz & Numby",
+    "featured": [
+      "Topaz & Numby"
+    ],
+    "featuredId": 1112,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2023-10-27 19:00:00",
+    "end": "2023-11-14 22:00:00",
+    "name": "In the Night",
+    "featured": [
+      "In the Night"
+    ],
+    "featuredId": 23001,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.4",
+    "start": "2023-10-27 19:00:00",
+    "end": "2023-11-14 22:00:00",
+    "name": "Worrisome, Blissful",
+    "featured": [
+      "Worrisome, Blissful"
+    ],
+    "featuredId": 23016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2023-11-14 10:00:00",
+    "end": "2023-12-05 18:59:00",
+    "name": "Huohuo",
+    "featured": [
+      "Huohuo"
+    ],
+    "featuredId": 1217,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2023-11-14 10:00:00",
+    "end": "2023-12-05 18:59:00",
+    "name": "Night of Fright",
+    "featured": [
+      "Night of Fright"
+    ],
+    "featuredId": 23017,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2023-12-05 19:00:00",
+    "end": "2023-12-27 22:00:00",
+    "name": "Argenti",
+    "featured": [
+      "Argenti"
+    ],
+    "featuredId": 1302,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2023-12-05 19:00:00",
+    "end": "2023-12-27 22:00:00",
+    "name": "Silver Wolf",
+    "featured": [
+      "Silver Wolf"
+    ],
+    "featuredId": 1006,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2023-12-05 19:00:00",
+    "end": "2023-12-27 22:00:00",
+    "name": "An Instant Before A Gaze",
+    "featured": [
+      "An Instant Before A Gaze"
+    ],
+    "featuredId": 23018,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.5",
+    "start": "2023-12-05 19:00:00",
+    "end": "2023-12-27 22:00:00",
+    "name": "Incessant Rain",
+    "featured": [
+      "Incessant Rain"
+    ],
+    "featuredId": 23007,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 18:59:00",
+    "name": "Blade",
+    "featured": [
+      "Blade"
+    ],
+    "featuredId": 1205,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 18:59:00",
+    "name": "Ruan Mei",
+    "featured": [
+      "Ruan Mei"
+    ],
+    "featuredId": 1303,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 18:59:00",
+    "name": "Past Self in Mirror",
+    "featured": [
+      "Past Self in Mirror"
+    ],
+    "featuredId": 23019,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 18:59:00",
+    "name": "The Unreachable Side",
+    "featured": [
+      "The Unreachable Side"
+    ],
+    "featuredId": 23009,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2024-01-17 19:00:00",
+    "end": "2024-02-05 22:00:00",
+    "name": "Dr. Ratio",
+    "featured": [
+      "Dr. Ratio"
+    ],
+    "featuredId": 1305,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.6",
+    "start": "2024-01-17 19:00:00",
+    "end": "2024-02-05 22:00:00",
+    "name": "Kafka",
+    "featured": [
+      "Kafka"
+    ],
+    "featuredId": 1005,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2024-01-17 19:00:00",
+    "end": "2024-02-05 22:00:00",
+    "name": "Baptism of Pure Thought",
+    "featured": [
+      "Baptism of Pure Thought"
+    ],
+    "featuredId": 23020,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "1.6",
+    "start": "2024-01-17 19:00:00",
+    "end": "2024-02-05 22:00:00",
+    "name": "Patience Is All You Need",
+    "featured": [
+      "Patience Is All You Need"
+    ],
+    "featuredId": 23006,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2024-02-05 10:00:00",
+    "end": "2024-02-29 18:59:00",
+    "name": "Black Swan",
+    "featured": [
+      "Black Swan"
+    ],
+    "featuredId": 1307,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2024-02-05 10:00:00",
+    "end": "2024-02-29 18:59:00",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "featured": [
+      "Dan Heng • Imbibitor Lunae"
+    ],
+    "featuredId": 1213,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2024-02-05 10:00:00",
+    "end": "2024-02-29 18:59:00",
+    "name": "Brighter Than the Sun",
+    "featured": [
+      "Brighter Than the Sun"
+    ],
+    "featuredId": 23015,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2024-02-05 10:00:00",
+    "end": "2024-02-29 18:59:00",
+    "name": "Reforged Remembrance",
+    "featured": [
+      "Reforged Remembrance"
+    ],
+    "featuredId": 23022,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2024-02-29 19:00:00",
+    "end": "2024-03-26 22:00:00",
+    "name": "Jing Yuan",
+    "featured": [
+      "Jing Yuan"
+    ],
+    "featuredId": 1204,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.0",
+    "start": "2024-02-29 19:00:00",
+    "end": "2024-03-26 22:00:00",
+    "name": "Sparkle",
+    "featured": [
+      "Sparkle"
+    ],
+    "featuredId": 1306,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2024-02-29 19:00:00",
+    "end": "2024-03-26 22:00:00",
+    "name": "Before Dawn",
+    "featured": [
+      "Before Dawn"
+    ],
+    "featuredId": 23010,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.0",
+    "start": "2024-02-29 19:00:00",
+    "end": "2024-03-26 22:00:00",
+    "name": "Earthly Escapade",
+    "featured": [
+      "Earthly Escapade"
+    ],
+    "featuredId": 23021,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 18:59:00",
+    "name": "Acheron",
+    "featured": [
+      "Acheron"
+    ],
+    "featuredId": 1308,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 18:59:00",
+    "name": "Luocha",
+    "featured": [
+      "Luocha"
+    ],
+    "featuredId": 1203,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 18:59:00",
+    "name": "Along the Passing Shore",
+    "featured": [
+      "Along the Passing Shore"
+    ],
+    "featuredId": 23024,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 18:59:00",
+    "name": "Echoes of the Coffin",
+    "featured": [
+      "Echoes of the Coffin"
+    ],
+    "featuredId": 23008,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2024-04-17 19:00:00",
+    "end": "2024-05-07 22:00:00",
+    "name": "Aventurine",
+    "featured": [
+      "Aventurine"
+    ],
+    "featuredId": 1304,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.1",
+    "start": "2024-04-17 19:00:00",
+    "end": "2024-05-07 22:00:00",
+    "name": "Jingliu",
+    "featured": [
+      "Jingliu"
+    ],
+    "featuredId": 1212,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2024-04-17 19:00:00",
+    "end": "2024-05-07 22:00:00",
+    "name": "I Shall Be My Own Sword",
+    "featured": [
+      "I Shall Be My Own Sword"
+    ],
+    "featuredId": 23014,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.1",
+    "start": "2024-04-17 19:00:00",
+    "end": "2024-05-07 22:00:00",
+    "name": "Inherently Unjust Destiny",
+    "featured": [
+      "Inherently Unjust Destiny"
+    ],
+    "featuredId": 23023,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 18:59:00",
+    "name": "Robin",
+    "featured": [
+      "Robin"
+    ],
+    "featuredId": 1309,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 18:59:00",
+    "name": "Topaz & Numby",
+    "featured": [
+      "Topaz & Numby"
+    ],
+    "featuredId": 1112,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 18:59:00",
+    "name": "Flowing Nightglow",
+    "featured": [
+      "Flowing Nightglow"
+    ],
+    "featuredId": 23026,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 18:59:00",
+    "name": "Worrisome, Blissful",
+    "featured": [
+      "Worrisome, Blissful"
+    ],
+    "featuredId": 23016,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2024-05-29 19:00:00",
+    "end": "2024-06-18 22:00:00",
+    "name": "Boothill",
+    "featured": [
+      "Boothill"
+    ],
+    "featuredId": 1315,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.2",
+    "start": "2024-05-29 19:00:00",
+    "end": "2024-06-18 22:00:00",
+    "name": "Fu Xuan",
+    "featured": [
+      "Fu Xuan"
+    ],
+    "featuredId": 1208,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2024-05-29 19:00:00",
+    "end": "2024-06-18 22:00:00",
+    "name": "Sailing Towards a Second Life",
+    "featured": [
+      "Sailing Towards a Second Life"
+    ],
+    "featuredId": 23027,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.2",
+    "start": "2024-05-29 19:00:00",
+    "end": "2024-06-18 22:00:00",
+    "name": "She Already Shut Her Eyes",
+    "featured": [
+      "She Already Shut Her Eyes"
+    ],
+    "featuredId": 23011,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 18:59:00",
+    "name": "Firefly",
+    "featured": [
+      "Firefly"
+    ],
+    "featuredId": 1310,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 18:59:00",
+    "name": "Ruan Mei",
+    "featured": [
+      "Ruan Mei"
+    ],
+    "featuredId": 1303,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 18:59:00",
+    "name": "Past Self in Mirror",
+    "featured": [
+      "Past Self in Mirror"
+    ],
+    "featuredId": 23019,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 18:59:00",
+    "name": "Whereabouts Should Dreams Rest",
+    "featured": [
+      "Whereabouts Should Dreams Rest"
+    ],
+    "featuredId": 23025,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2024-07-10 19:00:00",
+    "end": "2024-07-30 22:00:00",
+    "name": "Argenti",
+    "featured": [
+      "Argenti"
+    ],
+    "featuredId": 1302,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.3",
+    "start": "2024-07-10 19:00:00",
+    "end": "2024-07-30 22:00:00",
+    "name": "Jade",
+    "featured": [
+      "Jade"
+    ],
+    "featuredId": 1314,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2024-07-10 19:00:00",
+    "end": "2024-07-30 22:00:00",
+    "name": "An Instant Before A Gaze",
+    "featured": [
+      "An Instant Before A Gaze"
+    ],
+    "featuredId": 23018,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.3",
+    "start": "2024-07-10 19:00:00",
+    "end": "2024-07-30 22:00:00",
+    "name": "Yet Hope Is Priceless",
+    "featured": [
+      "Yet Hope Is Priceless"
+    ],
+    "featuredId": 23028,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-20 18:59:00",
+    "name": "Huohuo",
+    "featured": [
+      "Huohuo"
+    ],
+    "featuredId": 1217,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-20 18:59:00",
+    "name": "Yunli",
+    "featured": [
+      "Yunli"
+    ],
+    "featuredId": 1221,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-20 18:59:00",
+    "name": "Dance at Sunset",
+    "featured": [
+      "Dance at Sunset"
+    ],
+    "featuredId": 23030,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-20 18:59:00",
+    "name": "Night of Fright",
+    "featured": [
+      "Night of Fright"
+    ],
+    "featuredId": 23017,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2024-08-20 19:00:00",
+    "end": "2024-09-09 22:00:00",
+    "name": "Jiaoqiu",
+    "featured": [
+      "Jiaoqiu"
+    ],
+    "featuredId": 1218,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.4",
+    "start": "2024-08-20 19:00:00",
+    "end": "2024-09-09 22:00:00",
+    "name": "Sparkle",
+    "featured": [
+      "Sparkle"
+    ],
+    "featuredId": 1306,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2024-08-20 19:00:00",
+    "end": "2024-09-09 22:00:00",
+    "name": "Earthly Escapade",
+    "featured": [
+      "Earthly Escapade"
+    ],
+    "featuredId": 23021,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.4",
+    "start": "2024-08-20 19:00:00",
+    "end": "2024-09-09 22:00:00",
+    "name": "Those Many Springs",
+    "featured": [
+      "Those Many Springs"
+    ],
+    "featuredId": 23029,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Black Swan",
+    "featured": [
+      "Black Swan"
+    ],
+    "featuredId": 1307,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Feixiao",
+    "featured": [
+      "Feixiao"
+    ],
+    "featuredId": 1220,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Kafka",
+    "featured": [
+      "Kafka"
+    ],
+    "featuredId": 1005,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Robin",
+    "featured": [
+      "Robin"
+    ],
+    "featuredId": 1309,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Flowing Nightglow",
+    "featured": [
+      "Flowing Nightglow"
+    ],
+    "featuredId": 23026,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "I Venture Forth to Hunt",
+    "featured": [
+      "I Venture Forth to Hunt"
+    ],
+    "featuredId": 23031,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Patience Is All You Need",
+    "featured": [
+      "Patience Is All You Need"
+    ],
+    "featuredId": 23006,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 18:59:00",
+    "name": "Reforged Remembrance",
+    "featured": [
+      "Reforged Remembrance"
+    ],
+    "featuredId": 23022,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-10-02 19:00:00",
+    "end": "2024-10-22 22:00:00",
+    "name": "Lingsha",
+    "featured": [
+      "Lingsha"
+    ],
+    "featuredId": 1222,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.5",
+    "start": "2024-10-02 19:00:00",
+    "end": "2024-10-22 22:00:00",
+    "name": "Topaz & Numby",
+    "featured": [
+      "Topaz & Numby"
+    ],
+    "featuredId": 1112,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-10-02 19:00:00",
+    "end": "2024-10-22 22:00:00",
+    "name": "Scent Alone Stays True",
+    "featured": [
+      "Scent Alone Stays True"
+    ],
+    "featuredId": 23032,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.5",
+    "start": "2024-10-02 19:00:00",
+    "end": "2024-10-22 22:00:00",
+    "name": "Worrisome, Blissful",
+    "featured": [
+      "Worrisome, Blissful"
+    ],
+    "featuredId": 23016,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 18:59:00",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "featured": [
+      "Dan Heng • Imbibitor Lunae"
+    ],
+    "featuredId": 1213,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 18:59:00",
+    "name": "Rappa",
+    "featured": [
+      "Rappa"
+    ],
+    "featuredId": 1317,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 18:59:00",
+    "name": "Brighter Than the Sun",
+    "featured": [
+      "Brighter Than the Sun"
+    ],
+    "featuredId": 23015,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 18:59:00",
+    "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "featured": [
+      "Ninjutsu Inscription: Dazzling Evilbreaker"
+    ],
+    "featuredId": 23033,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2024-11-13 19:00:00",
+    "end": "2024-12-03 22:00:00",
+    "name": "Acheron",
+    "featured": [
+      "Acheron"
+    ],
+    "featuredId": 1308,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.6",
+    "start": "2024-11-13 19:00:00",
+    "end": "2024-12-03 22:00:00",
+    "name": "Aventurine",
+    "featured": [
+      "Aventurine"
+    ],
+    "featuredId": 1304,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2024-11-13 19:00:00",
+    "end": "2024-12-03 22:00:00",
+    "name": "Along the Passing Shore",
+    "featured": [
+      "Along the Passing Shore"
+    ],
+    "featuredId": 23024,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.6",
+    "start": "2024-11-13 19:00:00",
+    "end": "2024-12-03 22:00:00",
+    "name": "Inherently Unjust Destiny",
+    "featured": [
+      "Inherently Unjust Destiny"
+    ],
+    "featuredId": 23023,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 18:59:00",
+    "name": "Jing Yuan",
+    "featured": [
+      "Jing Yuan"
+    ],
+    "featuredId": 1204,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 18:59:00",
+    "name": "Sunday",
+    "featured": [
+      "Sunday"
+    ],
+    "featuredId": 1313,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 18:59:00",
+    "name": "A Grounded Ascent",
+    "featured": [
+      "A Grounded Ascent"
+    ],
+    "featuredId": 23034,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 18:59:00",
+    "name": "Before Dawn",
+    "featured": [
+      "Before Dawn"
+    ],
+    "featuredId": 23010,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2024-12-25 19:00:00",
+    "end": "2025-01-14 22:00:00",
+    "name": "Firefly",
+    "featured": [
+      "Firefly"
+    ],
+    "featuredId": 1310,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "2.7",
+    "start": "2024-12-25 19:00:00",
+    "end": "2025-01-14 22:00:00",
+    "name": "Fugue",
+    "featured": [
+      "Fugue"
+    ],
+    "featuredId": 1225,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2024-12-25 19:00:00",
+    "end": "2025-01-14 22:00:00",
+    "name": "Long Road Leads Home",
+    "featured": [
+      "Long Road Leads Home"
+    ],
+    "featuredId": 23035,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "2.7",
+    "start": "2024-12-25 19:00:00",
+    "end": "2025-01-14 22:00:00",
+    "name": "Whereabouts Should Dreams Rest",
+    "featured": [
+      "Whereabouts Should Dreams Rest"
+    ],
+    "featuredId": 23025,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Feixiao",
+    "featured": [
+      "Feixiao"
+    ],
+    "featuredId": 1220,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Jade",
+    "featured": [
+      "Jade"
+    ],
+    "featuredId": 1314,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Lingsha",
+    "featured": [
+      "Lingsha"
+    ],
+    "featuredId": 1222,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "The Herta",
+    "featured": [
+      "The Herta"
+    ],
+    "featuredId": 1401,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "I Venture Forth to Hunt",
+    "featured": [
+      "I Venture Forth to Hunt"
+    ],
+    "featuredId": 23031,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Into the Unreachable Veil",
+    "featured": [
+      "Into the Unreachable Veil"
+    ],
+    "featuredId": 23037,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Scent Alone Stays True",
+    "featured": [
+      "Scent Alone Stays True"
+    ],
+    "featuredId": 23032,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 18:59:00",
+    "name": "Yet Hope Is Priceless",
+    "featured": [
+      "Yet Hope Is Priceless"
+    ],
+    "featuredId": 23028,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Aglaea",
+    "featured": [
+      "Aglaea"
+    ],
+    "featuredId": 1402,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Boothill",
+    "featured": [
+      "Boothill"
+    ],
+    "featuredId": 1315,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Robin",
+    "featured": [
+      "Robin"
+    ],
+    "featuredId": 1309,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Silver Wolf",
+    "featured": [
+      "Silver Wolf"
+    ],
+    "featuredId": 1006,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Flowing Nightglow",
+    "featured": [
+      "Flowing Nightglow"
+    ],
+    "featuredId": 23026,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Incessant Rain",
+    "featured": [
+      "Incessant Rain"
+    ],
+    "featuredId": 23007,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Sailing Towards a Second Life",
+    "featured": [
+      "Sailing Towards a Second Life"
+    ],
+    "featuredId": 23027,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.0",
+    "start": "2025-02-05 19:00:00",
+    "end": "2025-02-25 22:00:00",
+    "name": "Time Woven Into Gold",
+    "featured": [
+      "Time Woven Into Gold"
+    ],
+    "featuredId": 23036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 18:59:00",
+    "name": "Tribbie",
+    "featured": [
+      "Tribbie"
+    ],
+    "featuredId": 1403,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 18:59:00",
+    "name": "Yunli",
+    "featured": [
+      "Yunli"
+    ],
+    "featuredId": 1221,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 18:59:00",
+    "name": "Dance at Sunset",
+    "featured": [
+      "Dance at Sunset"
+    ],
+    "featuredId": 23030,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 18:59:00",
+    "name": "If Time Were a Flower",
+    "featured": [
+      "If Time Were a Flower"
+    ],
+    "featuredId": 23038,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2025-03-19 19:00:00",
+    "end": "2025-04-08 22:00:00",
+    "name": "Huohuo",
+    "featured": [
+      "Huohuo"
+    ],
+    "featuredId": 1217,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2025-03-19 19:00:00",
+    "end": "2025-04-08 22:00:00",
+    "name": "Mydei",
+    "featured": [
+      "Mydei"
+    ],
+    "featuredId": 1404,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2025-03-19 19:00:00",
+    "end": "2025-04-08 22:00:00",
+    "name": "Flame of Blood, Blaze My Path",
+    "featured": [
+      "Flame of Blood, Blaze My Path"
+    ],
+    "featuredId": 23039,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2025-03-19 19:00:00",
+    "end": "2025-04-08 22:00:00",
+    "name": "Night of Fright",
+    "featured": [
+      "Night of Fright"
+    ],
+    "featuredId": 23017,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Acheron",
+    "featured": [
+      "Acheron"
+    ],
+    "featuredId": 1308,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Castorice",
+    "featured": [
+      "Castorice"
+    ],
+    "featuredId": 1407,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Fugue",
+    "featured": [
+      "Fugue"
+    ],
+    "featuredId": 1225,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Jiaoqiu",
+    "featured": [
+      "Jiaoqiu"
+    ],
+    "featuredId": 1218,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Along the Passing Shore",
+    "featured": [
+      "Along the Passing Shore"
+    ],
+    "featuredId": 23024,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Long Road Leads Home",
+    "featured": [
+      "Long Road Leads Home"
+    ],
+    "featuredId": 23035,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Make Farewells More Beautiful",
+    "featured": [
+      "Make Farewells More Beautiful"
+    ],
+    "featuredId": 23040,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 18:59:00",
+    "name": "Those Many Springs",
+    "featured": [
+      "Those Many Springs"
+    ],
+    "featuredId": 23029,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-30 19:00:00",
+    "end": "2025-05-20 22:00:00",
+    "name": "Anaxa",
+    "featured": [
+      "Anaxa"
+    ],
+    "featuredId": 1405,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2025-04-30 19:00:00",
+    "end": "2025-05-20 22:00:00",
+    "name": "Dr. Ratio",
+    "featured": [
+      "Dr. Ratio"
+    ],
+    "featuredId": 1305,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-30 19:00:00",
+    "end": "2025-05-20 22:00:00",
+    "name": "Baptism of Pure Thought",
+    "featured": [
+      "Baptism of Pure Thought"
+    ],
+    "featuredId": 23020,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2025-04-30 19:00:00",
+    "end": "2025-05-20 22:00:00",
+    "name": "Life Should Be Cast to Flames",
+    "featured": [
+      "Life Should Be Cast to Flames"
+    ],
+    "featuredId": 23041,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2025-05-20 10:00:00",
+    "end": "2025-06-12 18:59:00",
+    "name": "Hyacine",
+    "featured": [
+      "Hyacine"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2025-05-20 10:00:00",
+    "end": "2025-06-12 18:59:00",
+    "name": "The Herta",
+    "featured": [
+      "The Herta"
+    ],
+    "featuredId": 1401,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2025-05-20 10:00:00",
+    "end": "2025-06-12 18:59:00",
+    "name": "Into the Unreachable Veil",
+    "featured": [
+      "Into the Unreachable Veil"
+    ],
+    "featuredId": 23037,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2025-05-20 10:00:00",
+    "end": "2025-06-12 18:59:00",
+    "name": "Long May Rainbows Adorn the Sky",
+    "featured": [
+      "Long May Rainbows Adorn the Sky"
+    ],
+    "featuredId": 23042,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2025-06-12 19:00:00",
+    "end": "2025-07-01 22:00:00",
+    "name": "Aglaea",
+    "featured": [
+      "Aglaea"
+    ],
+    "featuredId": 1402,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2025-06-12 19:00:00",
+    "end": "2025-07-01 22:00:00",
+    "name": "Cipher",
+    "featured": [
+      "Cipher"
+    ],
+    "featuredId": 1406,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2025-06-12 19:00:00",
+    "end": "2025-07-01 22:00:00",
+    "name": "Lies Dance on the Breeze",
+    "featured": [
+      "Lies Dance on the Breeze"
+    ],
+    "featuredId": 23043,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2025-06-12 19:00:00",
+    "end": "2025-07-01 22:00:00",
+    "name": "Time Woven Into Gold",
+    "featured": [
+      "Time Woven Into Gold"
+    ],
+    "featuredId": 23036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Phainon",
+    "featured": [
+      "Phainon"
+    ],
+    "featuredId": 1408,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Sparkle",
+    "featured": [
+      "Sparkle"
+    ],
+    "featuredId": 1306,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Sunday",
+    "featured": [
+      "Sunday"
+    ],
+    "featuredId": 1313,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Tribbie",
+    "featured": [
+      "Tribbie"
+    ],
+    "featuredId": 1403,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "A Grounded Ascent",
+    "featured": [
+      "A Grounded Ascent"
+    ],
+    "featuredId": 23034,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Earthly Escapade",
+    "featured": [
+      "Earthly Escapade"
+    ],
+    "featuredId": 23021,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "If Time Were a Flower",
+    "featured": [
+      "If Time Were a Flower"
+    ],
+    "featuredId": 23038,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 18:59:00",
+    "name": "Thus Burns the Dawn",
+    "featured": [
+      "Thus Burns the Dawn"
+    ],
+    "featuredId": 23044,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "Blade",
+    "featured": [
+      "Blade"
+    ],
+    "featuredId": 1205,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "Firefly",
+    "featured": [
+      "Firefly"
+    ],
+    "featuredId": 1310,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "Jingliu",
+    "featured": [
+      "Jingliu"
+    ],
+    "featuredId": 1212,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "I Shall Be My Own Sword",
+    "featured": [
+      "I Shall Be My Own Sword"
+    ],
+    "featuredId": 23014,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "The Unreachable Side",
+    "featured": [
+      "The Unreachable Side"
+    ],
+    "featuredId": 23009,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.4",
+    "start": "2025-07-23 19:00:00",
+    "end": "2025-08-12 22:00:00",
+    "name": "Whereabouts Should Dreams Rest",
+    "featured": [
+      "Whereabouts Should Dreams Rest"
+    ],
+    "featuredId": 23025,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 18:59:00",
+    "name": "Hysilens",
+    "featured": [
+      "Hysilens"
+    ],
+    "featuredId": 1410,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 18:59:00",
+    "name": "Kafka",
+    "featured": [
+      "Kafka"
+    ],
+    "featuredId": 1005,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 18:59:00",
+    "name": "Patience Is All You Need",
+    "featured": [
+      "Patience Is All You Need"
+    ],
+    "featuredId": 23006,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 18:59:00",
+    "name": "Why Does the Ocean Sing",
+    "featured": [
+      "Why Does the Ocean Sing"
+    ],
+    "featuredId": 23047,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2025-09-02 19:00:00",
+    "end": "2025-09-23 22:00:00",
+    "name": "Cerydra",
+    "featured": [
+      "Cerydra"
+    ],
+    "featuredId": 1412,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2025-09-02 19:00:00",
+    "end": "2025-09-23 22:00:00",
+    "name": "Silver Wolf",
+    "featured": [
+      "Silver Wolf"
+    ],
+    "featuredId": 1006,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2025-09-02 19:00:00",
+    "end": "2025-09-23 22:00:00",
+    "name": "Epoch Etched in Golden Blood",
+    "featured": [
+      "Epoch Etched in Golden Blood"
+    ],
+    "featuredId": 23048,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2025-09-02 19:00:00",
+    "end": "2025-09-23 22:00:00",
+    "name": "Incessant Rain",
+    "featured": [
+      "Incessant Rain"
+    ],
+    "featuredId": 23007,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 18:59:00",
+    "name": "Evernight",
+    "featured": [
+      "Evernight"
+    ],
+    "featuredId": 1413,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 18:59:00",
+    "name": "The Herta",
+    "featured": [
+      "The Herta"
+    ],
+    "featuredId": 1401,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 18:59:00",
+    "name": "Into the Unreachable Veil",
+    "featured": [
+      "Into the Unreachable Veil"
+    ],
+    "featuredId": 23037,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 18:59:00",
+    "name": "To Evernight's Stars",
+    "featured": [
+      "To Evernight's Stars"
+    ],
+    "featuredId": 23049,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2025-10-15 19:00:00",
+    "end": "2025-11-04 22:00:00",
+    "name": "Anaxa",
+    "featured": [
+      "Anaxa"
+    ],
+    "featuredId": 1405,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2025-10-15 19:00:00",
+    "end": "2025-11-04 22:00:00",
+    "name": "Dan Heng • Permansor Terrae",
+    "featured": [
+      "Dan Heng • Permansor Terrae"
+    ],
+    "featuredId": 1414,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2025-10-15 19:00:00",
+    "end": "2025-11-04 22:00:00",
+    "name": "Life Should Be Cast to Flames",
+    "featured": [
+      "Life Should Be Cast to Flames"
+    ],
+    "featuredId": 23041,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2025-10-15 19:00:00",
+    "end": "2025-11-04 22:00:00",
+    "name": "Though Worlds Apart",
+    "featured": [
+      "Though Worlds Apart"
+    ],
+    "featuredId": 23051,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "Castorice",
+    "featured": [
+      "Castorice"
+    ],
+    "featuredId": 1407,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-12-16 18:59:00",
+    "name": "Cyrene",
+    "featured": [
+      "Cyrene"
+    ],
+    "featuredId": 1415,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "Hyacine",
+    "featured": [
+      "Hyacine"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "Tribbie",
+    "featured": [
+      "Tribbie"
+    ],
+    "featuredId": 1403,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "If Time Were a Flower",
+    "featured": [
+      "If Time Were a Flower"
+    ],
+    "featuredId": 23038,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "Long May Rainbows Adorn the Sky",
+    "featured": [
+      "Long May Rainbows Adorn the Sky"
+    ],
+    "featuredId": 23042,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 18:59:00",
+    "name": "Make Farewells More Beautiful",
+    "featured": [
+      "Make Farewells More Beautiful"
+    ],
+    "featuredId": 23040,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-12-16 18:59:00",
+    "name": "This Love, Forever",
+    "featured": [
+      "This Love, Forever"
+    ],
+    "featuredId": 23052,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Cipher",
+    "featured": [
+      "Cipher"
+    ],
+    "featuredId": 1406,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Mydei",
+    "featured": [
+      "Mydei"
+    ],
+    "featuredId": 1404,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Phainon",
+    "featured": [
+      "Phainon"
+    ],
+    "featuredId": 1408,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Flame of Blood, Blaze My Path",
+    "featured": [
+      "Flame of Blood, Blaze My Path"
+    ],
+    "featuredId": 23039,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Lies Dance on the Breeze",
+    "featured": [
+      "Lies Dance on the Breeze"
+    ],
+    "featuredId": 23043,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2025-11-26 19:00:00",
+    "end": "2025-12-16 22:00:00",
+    "name": "Thus Burns the Dawn",
+    "featured": [
+      "Thus Burns the Dawn"
+    ],
+    "featuredId": 23044,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 18:59:00",
+    "name": "Firefly",
+    "featured": [
+      "Firefly"
+    ],
+    "featuredId": 1310,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 18:59:00",
+    "name": "The Dahlia",
+    "featured": [
+      "The Dahlia"
+    ],
+    "featuredId": 1321,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 18:59:00",
+    "name": "Never Forget Her Flame",
+    "featured": [
+      "Never Forget Her Flame"
+    ],
+    "featuredId": 23050,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 18:59:00",
+    "name": "Whereabouts Should Dreams Rest",
+    "featured": [
+      "Whereabouts Should Dreams Rest"
+    ],
+    "featuredId": 23025,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-01-07 19:00:00",
+    "end": "2026-01-07 22:00:00",
+    "name": "Fugue",
+    "featured": [
+      "Fugue"
+    ],
+    "featuredId": 1225,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-01-07 19:00:00",
+    "end": "2026-01-07 22:00:00",
+    "name": "Lingsha",
+    "featured": [
+      "Lingsha"
+    ],
+    "featuredId": 1222,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-01-07 19:00:00",
+    "end": "2026-01-07 22:00:00",
+    "name": "Long Road Leads Home",
+    "featured": [
+      "Long Road Leads Home"
+    ],
+    "featuredId": 23035,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-01-07 19:00:00",
+    "end": "2026-01-07 22:00:00",
+    "name": "Scent Alone Stays True",
+    "featured": [
+      "Scent Alone Stays True"
+    ],
+    "featuredId": 23032,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-01-27 19:00:00",
+    "end": "2026-02-12 22:00:00",
+    "name": "Aglaea",
+    "featured": [
+      "Aglaea"
+    ],
+    "featuredId": 1402,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-01-27 19:00:00",
+    "end": "2026-02-12 22:00:00",
+    "name": "Sunday",
+    "featured": [
+      "Sunday"
+    ],
+    "featuredId": 1313,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-01-27 19:00:00",
+    "end": "2026-02-12 22:00:00",
+    "name": "A Grounded Ascent",
+    "featured": [
+      "A Grounded Ascent"
+    ],
+    "featuredId": 23034,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-01-27 19:00:00",
+    "end": "2026-02-12 22:00:00",
+    "name": "Time Woven Into Gold",
+    "featured": [
+      "Time Woven Into Gold"
+    ],
+    "featuredId": 23036,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "Black Swan",
+    "featured": [
+      "Black Swan"
+    ],
+    "featuredId": 1307,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "Evernight",
+    "featured": [
+      "Evernight"
+    ],
+    "featuredId": 1413,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "Hysilens",
+    "featured": [
+      "Hysilens"
+    ],
+    "featuredId": 1410,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-24 18:59:00",
+    "name": "Yao Guang",
+    "featured": [
+      "Yao Guang"
+    ],
+    "featuredId": 1502,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "Reforged Remembrance",
+    "featured": [
+      "Reforged Remembrance"
+    ],
+    "featuredId": 23022,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "To Evernight's Stars",
+    "featured": [
+      "To Evernight's Stars"
+    ],
+    "featuredId": 23049,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-24 18:59:00",
+    "name": "When She Decided to See",
+    "featured": [
+      "When She Decided to See"
+    ],
+    "featuredId": 23054,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-02 18:59:00",
+    "name": "Why Does the Ocean Sing",
+    "featured": [
+      "Why Does the Ocean Sing"
+    ],
+    "featuredId": 23047,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Cerydra",
+    "featured": [
+      "Cerydra"
+    ],
+    "featuredId": 1412,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Rappa",
+    "featured": [
+      "Rappa"
+    ],
+    "featuredId": 1317,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Sparkle",
+    "featured": [
+      "Sparkle"
+    ],
+    "featuredId": 1306,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Sparxie",
+    "featured": [
+      "Sparxie"
+    ],
+    "featuredId": 1501,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Dazzled by a Flowery World",
+    "featured": [
+      "Dazzled by a Flowery World"
+    ],
+    "featuredId": 23053,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Earthly Escapade",
+    "featured": [
+      "Earthly Escapade"
+    ],
+    "featuredId": 23021,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Epoch Etched in Golden Blood",
+    "featured": [
+      "Epoch Etched in Golden Blood"
+    ],
+    "featuredId": 23048,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.0",
+    "start": "2026-03-02 19:00:00",
+    "end": "2026-03-24 22:00:00",
+    "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "featured": [
+      "Ninjutsu Inscription: Dazzling Evilbreaker"
+    ],
+    "featuredId": 23033,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-22 18:59:00",
+    "name": "Ashveil",
+    "featured": [
+      "Ashveil"
+    ],
+    "featuredId": 1504,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-09 18:59:00",
+    "name": "Hyacine",
+    "featured": [
+      "Hyacine"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-09 18:59:00",
+    "name": "Long May Rainbows Adorn the Sky",
+    "featured": [
+      "Long May Rainbows Adorn the Sky"
+    ],
+    "featuredId": 23042,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-22 18:59:00",
+    "name": "The Finale of a Lie",
+    "featured": [
+      "The Finale of a Lie"
+    ],
+    "featuredId": 23056,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.1",
+    "start": "2026-04-09 19:00:00",
+    "end": "2026-04-22 22:00:00",
+    "name": "Boothill",
+    "featured": [
+      "Boothill"
+    ],
+    "featuredId": 1315,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.1",
+    "start": "2026-04-09 19:00:00",
+    "end": "2026-04-22 22:00:00",
+    "name": "Sailing Towards a Second Life",
+    "featured": [
+      "Sailing Towards a Second Life"
+    ],
+    "featuredId": 23027,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Castorice",
+    "featured": [
+      "Castorice"
+    ],
+    "featuredId": 1407,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Firefly",
+    "featured": [
+      "Firefly"
+    ],
+    "featuredId": 1310,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Silver Wolf LV.999",
+    "featured": [
+      "Silver Wolf LV.999"
+    ],
+    "featuredId": 1506,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "The Dahlia",
+    "featured": [
+      "The Dahlia"
+    ],
+    "featuredId": 1321,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Make Farewells More Beautiful",
+    "featured": [
+      "Make Farewells More Beautiful"
+    ],
+    "featuredId": 23040,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Never Forget Her Flame",
+    "featured": [
+      "Never Forget Her Flame"
+    ],
+    "featuredId": 23050,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Welcome to the Cosmic City",
+    "featured": [
+      "Welcome to the Cosmic City"
+    ],
+    "featuredId": 23057,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 18:59:00",
+    "name": "Whereabouts Should Dreams Rest",
+    "featured": [
+      "Whereabouts Should Dreams Rest"
+    ],
+    "featuredId": 23025,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "Evanescia",
+    "featured": [
+      "Evanescia"
+    ],
+    "featuredId": 1505,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "Feixiao",
+    "featured": [
+      "Feixiao"
+    ],
+    "featuredId": 1220,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "Sunday",
+    "featured": [
+      "Sunday"
+    ],
+    "featuredId": 1313,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "Tribbie",
+    "featured": [
+      "Tribbie"
+    ],
+    "featuredId": 1403,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "A Grounded Ascent",
+    "featured": [
+      "A Grounded Ascent"
+    ],
+    "featuredId": 23034,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "I Venture Forth to Hunt",
+    "featured": [
+      "I Venture Forth to Hunt"
+    ],
+    "featuredId": 23031,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "If Time Were a Flower",
+    "featured": [
+      "If Time Were a Flower"
+    ],
+    "featuredId": 23038,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.2",
+    "start": "2026-05-13 19:00:00",
+    "end": "2026-06-02 22:00:00",
+    "name": "Until the Flowers Bloom Again",
+    "featured": [
+      "Until the Flowers Bloom Again"
+    ],
+    "featuredId": 23058,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.3",
+    "start": "2026-06-01 10:00:00",
+    "end": "2026-06-24 18:59:00",
+    "name": "Mortenax Blade",
+    "featured": [
+      "Mortenax Blade"
+    ],
+    "featuredId": 1507,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.3",
+    "start": "2026-06-01 10:00:00",
+    "end": "2026-06-24 18:59:00",
+    "name": "Yao Guang",
+    "featured": [
+      "Yao Guang"
+    ],
+    "featuredId": 1502,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.3",
+    "start": "2026-06-01 10:00:00",
+    "end": "2026-06-24 18:59:00",
+    "name": "Reforged in Hellfire",
+    "featured": [
+      "Reforged in Hellfire"
+    ],
+    "featuredId": 23059,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.3",
+    "start": "2026-06-01 10:00:00",
+    "end": "2026-06-24 18:59:00",
+    "name": "When She Decided to See",
+    "featured": [
+      "When She Decided to See"
+    ],
+    "featuredId": 23054,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.3",
+    "start": "2026-06-24 19:00:00",
+    "end": "2026-07-14 22:00:00",
+    "name": "Cyrene",
+    "featured": [
+      "Cyrene"
+    ],
+    "featuredId": 1415,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.3",
+    "start": "2026-06-24 19:00:00",
+    "end": "2026-07-14 22:00:00",
+    "name": "Phainon",
+    "featured": [
+      "Phainon"
+    ],
+    "featuredId": 1408,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.3",
+    "start": "2026-06-24 19:00:00",
+    "end": "2026-07-14 22:00:00",
+    "name": "This Love, Forever",
+    "featured": [
+      "This Love, Forever"
+    ],
+    "featuredId": 23052,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.3",
+    "start": "2026-06-24 19:00:00",
+    "end": "2026-07-14 22:00:00",
+    "name": "Thus Burns the Dawn",
+    "featured": [
+      "Thus Burns the Dawn"
+    ],
+    "featuredId": 23044,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "Sparxie",
+    "featured": [
+      "Sparxie"
+    ],
+    "featuredId": 1501,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "Dan Heng • Permansor Terrae",
+    "featured": [
+      "Dan Heng • Permansor Terrae"
+    ],
+    "featuredId": 1414,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "Evernight",
+    "featured": [
+      "Evernight"
+    ],
+    "featuredId": 1413,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "Dazzled by a Flowery World",
+    "featured": [
+      "Dazzled by a Flowery World"
+    ],
+    "featuredId": 23053,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "Though Worlds Apart",
+    "featured": [
+      "Though Worlds Apart"
+    ],
+    "featuredId": 23051,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 18:59:00",
+    "name": "To Evernight's Stars",
+    "featured": [
+      "To Evernight's Stars"
+    ],
+    "featuredId": 23049,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-25 18:59:00",
+    "name": "Himeko • Nova",
+    "featured": [
+      "Himeko • Nova"
+    ],
+    "featuredId": 1510,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-25 18:59:00",
+    "name": "A Star That Lights the Night",
+    "featured": [
+      "A Star That Lights the Night"
+    ],
+    "featuredId": 23060,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-24 19:00:00",
+    "end": "1970-01-01 22:00:00",
+    "name": "Rin Tohsaka",
+    "featured": [
+      "Rin Tohsaka"
+    ],
+    "featuredId": 1508,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-07-24 19:00:00",
+    "end": "1970-01-01 22:00:00",
+    "name": "Gilgamesh",
+    "featured": [
+      "Gilgamesh"
+    ],
+    "featuredId": 1509,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-24 19:00:00",
+    "end": "1970-01-01 22:00:00",
+    "name": "Flickering Stars",
+    "featured": [
+      "Flickering Stars"
+    ],
+    "featuredId": 23061,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-07-24 19:00:00",
+    "end": "1970-01-01 22:00:00",
+    "name": "I Am As You Behold",
+    "featured": [
+      "I Am As You Behold"
+    ],
+    "featuredId": 23062,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Cerydra",
+    "featured": [
+      "Cerydra"
+    ],
+    "featuredId": 1412,
+    "phase": 3
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Anaxa",
+    "featured": [
+      "Anaxa"
+    ],
+    "featuredId": 1405,
+    "phase": 3
+  },
+  {
+    "type": "character",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Aventurine",
+    "featured": [
+      "Aventurine"
+    ],
+    "featuredId": 1304,
+    "phase": 3
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Epoch Etched in Golden Blood",
+    "featured": [
+      "Epoch Etched in Golden Blood"
+    ],
+    "featuredId": 23048,
+    "phase": 3
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Life Should Be Cast to Flames",
+    "featured": [
+      "Life Should Be Cast to Flames"
+    ],
+    "featuredId": 23041,
+    "phase": 3
+  },
+  {
+    "type": "weapon",
+    "version": "4.4",
+    "start": "2026-08-05 19:00:00",
+    "end": "2026-08-25 22:00:00",
+    "name": "Inherently Unjust Destiny",
+    "featured": [
+      "Inherently Unjust Destiny"
+    ],
+    "featuredId": 23023,
+    "phase": 3
+  }
+]

@@ -1,0 +1,40 @@
+name: NTE banner schedule
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # All times UTC+8 06:00/08:00 Wednesday + 06:00 Thursday safety-net rerun
+    # (converted to UTC, GitHub Actions cron is UTC-only):
+    #   Wed 06:00 UTC+8 = Tue 22:00 UTC
+    - cron: '0 22 * * 2'
+    #   Wed 08:00 UTC+8 = Wed 00:00 UTC
+    - cron: '0 0 * * 3'
+    #   Thu 06:00 UTC+8 = Wed 22:00 UTC
+    - cron: '0 22 * * 3'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build banner schedule
+        run: node nte/scripts/build.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nte/banner-schedule-nte.json nte/roster-images.json nte/images
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "nte: update banner schedule"
+            git push
+          fi

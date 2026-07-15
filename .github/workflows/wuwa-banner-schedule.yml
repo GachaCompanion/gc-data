@@ -1,0 +1,39 @@
+name: WuWa banner schedule
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Same cadence as the other games' updaters (Tue/Wed around the weekly
+    # reset window) — Kuro's calendar updates less predictably than
+    # Hoyoverse's, so this also doubles as a safety-net re-check.
+    - cron: '0 4 * * 2'   # Tuesday 06:00 GMT+2
+    - cron: '0 18 * * 2'  # Tuesday 20:00 GMT+2
+    - cron: '0 4 * * 3'   # Wednesday 06:00 GMT+2
+    - cron: '0 18 * * 3'  # Wednesday 20:00 GMT+2
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build banner schedule
+        run: node wuwa/scripts/build.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add wuwa/banner-schedule-wuwa.json wuwa/images
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "wuwa: update banner schedule"
+            git push
+          fi
