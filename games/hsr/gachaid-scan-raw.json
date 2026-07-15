@@ -1085,9 +1085,7 @@
     "day": 739677,
     "date": "2026-03-02",
     "rateup": 1317,
-    "rerun": true,
-    "companionBannerId": 2110,
-    "companionRateup": 1412
+    "rerun": true
   },
   "2112": {
     "id": 2112,
@@ -1095,9 +1093,7 @@
     "day": 739677,
     "date": "2026-03-02",
     "rateup": 1306,
-    "rerun": true,
-    "companionBannerId": 2111,
-    "companionRateup": 1317
+    "rerun": true
   },
   "2113": {
     "id": 2113,
@@ -1105,9 +1101,7 @@
     "day": 739700,
     "date": "2026-03-25",
     "rateup": 1504,
-    "rerun": false,
-    "companionBannerId": 2114,
-    "companionRateup": 1409
+    "rerun": false
   },
   "2114": {
     "id": 2114,
@@ -1115,9 +1109,7 @@
     "day": 739700,
     "date": "2026-03-25",
     "rateup": 1409,
-    "rerun": true,
-    "companionBannerId": 2113,
-    "companionRateup": 1504
+    "rerun": true
   },
   "2115": {
     "id": 2115,
@@ -1125,9 +1117,7 @@
     "day": 739715,
     "date": "2026-04-09",
     "rateup": 1315,
-    "rerun": true,
-    "companionBannerId": 2113,
-    "companionRateup": 1504
+    "rerun": true
   },
   "2116": {
     "id": 2116,
@@ -1135,9 +1125,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 1506,
-    "rerun": false,
-    "companionBannerId": 2117,
-    "companionRateup": 1321
+    "rerun": false
   },
   "2117": {
     "id": 2117,
@@ -1145,9 +1133,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 1321,
-    "rerun": true,
-    "companionBannerId": 2116,
-    "companionRateup": 1506
+    "rerun": true
   },
   "2118": {
     "id": 2118,
@@ -1155,9 +1141,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 1407,
-    "rerun": true,
-    "companionBannerId": 2117,
-    "companionRateup": 1321
+    "rerun": true
   },
   "2119": {
     "id": 2119,
@@ -1165,9 +1149,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 1310,
-    "rerun": true,
-    "companionBannerId": 2118,
-    "companionRateup": 1407
+    "rerun": true
   },
   "2120": {
     "id": 2120,
@@ -1175,9 +1157,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 1505,
-    "rerun": false,
-    "companionBannerId": 2121,
-    "companionRateup": 1403
+    "rerun": false
   },
   "2121": {
     "id": 2121,
@@ -1185,9 +1165,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 1403,
-    "rerun": true,
-    "companionBannerId": 2120,
-    "companionRateup": 1505
+    "rerun": true
   },
   "2122": {
     "id": 2122,
@@ -1195,9 +1173,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 1313,
-    "rerun": true,
-    "companionBannerId": 2121,
-    "companionRateup": 1403
+    "rerun": true
   },
   "2123": {
     "id": 2123,
@@ -1205,9 +1181,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 1220,
-    "rerun": true,
-    "companionBannerId": 2122,
-    "companionRateup": 1313
+    "rerun": true
   },
   "2124": {
     "id": 2124,
@@ -1215,9 +1189,7 @@
     "day": 739767,
     "date": "2026-05-31",
     "rateup": 1507,
-    "rerun": false,
-    "companionBannerId": 2125,
-    "companionRateup": 1502
+    "rerun": false
   },
   "2125": {
     "id": 2125,
@@ -1225,9 +1197,7 @@
     "day": 739767,
     "date": "2026-05-31",
     "rateup": 1502,
-    "rerun": true,
-    "companionBannerId": 2124,
-    "companionRateup": 1507
+    "rerun": true
   },
   "2126": {
     "id": 2126,
@@ -1235,9 +1205,7 @@
     "day": 739791,
     "date": "2026-06-24",
     "rateup": 1415,
-    "rerun": true,
-    "companionBannerId": 2127,
-    "companionRateup": 1408
+    "rerun": true
   },
   "2127": {
     "id": 2127,
@@ -1245,9 +1213,7 @@
     "day": 739791,
     "date": "2026-06-24",
     "rateup": 1408,
-    "rerun": true,
-    "companionBannerId": 2126,
-    "companionRateup": 1415
+    "rerun": true
   },
   "2128": {
     "id": 2128,
@@ -1255,9 +1221,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 1510,
-    "rerun": false,
-    "companionBannerId": 2129,
-    "companionRateup": 1501
+    "rerun": false
   },
   "2129": {
     "id": 2129,
@@ -1265,9 +1229,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 1501,
-    "rerun": true,
-    "companionBannerId": 2128,
-    "companionRateup": 1510
+    "rerun": true
   },
   "2130": {
     "id": 2130,
@@ -1275,9 +1237,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 1414,
-    "rerun": true,
-    "companionBannerId": 2129,
-    "companionRateup": 1501
+    "rerun": true
   },
   "2131": {
     "id": 2131,
@@ -1285,9 +1245,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 1413,
-    "rerun": true,
-    "companionBannerId": 2130,
-    "companionRateup": 1414
+    "rerun": true
   },
   "3003": {
     "id": 3003,
@@ -2375,9 +2333,7 @@
     "day": 739677,
     "date": "2026-03-02",
     "rateup": 23033,
-    "rerun": true,
-    "companionBannerId": 3110,
-    "companionRateup": 23048
+    "rerun": true
   },
   "3112": {
     "id": 3112,
@@ -2385,9 +2341,7 @@
     "day": 739677,
     "date": "2026-03-02",
     "rateup": 23021,
-    "rerun": true,
-    "companionBannerId": 3111,
-    "companionRateup": 23033
+    "rerun": true
   },
   "3113": {
     "id": 3113,
@@ -2395,9 +2349,7 @@
     "day": 739700,
     "date": "2026-03-25",
     "rateup": 23056,
-    "rerun": false,
-    "companionBannerId": 3114,
-    "companionRateup": 23042
+    "rerun": false
   },
   "3114": {
     "id": 3114,
@@ -2405,9 +2357,7 @@
     "day": 739700,
     "date": "2026-03-25",
     "rateup": 23042,
-    "rerun": true,
-    "companionBannerId": 3113,
-    "companionRateup": 23056
+    "rerun": true
   },
   "3115": {
     "id": 3115,
@@ -2415,9 +2365,7 @@
     "day": 739715,
     "date": "2026-04-09",
     "rateup": 23027,
-    "rerun": true,
-    "companionBannerId": 3113,
-    "companionRateup": 23056
+    "rerun": true
   },
   "3116": {
     "id": 3116,
@@ -2425,9 +2373,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 23057,
-    "rerun": false,
-    "companionBannerId": 3117,
-    "companionRateup": 23050
+    "rerun": false
   },
   "3117": {
     "id": 3117,
@@ -2435,9 +2381,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 23050,
-    "rerun": true,
-    "companionBannerId": 3116,
-    "companionRateup": 23057
+    "rerun": true
   },
   "3118": {
     "id": 3118,
@@ -2445,9 +2389,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 23040,
-    "rerun": true,
-    "companionBannerId": 3117,
-    "companionRateup": 23050
+    "rerun": true
   },
   "3119": {
     "id": 3119,
@@ -2455,9 +2397,7 @@
     "day": 739727,
     "date": "2026-04-21",
     "rateup": 23025,
-    "rerun": true,
-    "companionBannerId": 3118,
-    "companionRateup": 23040
+    "rerun": true
   },
   "3120": {
     "id": 3120,
@@ -2465,9 +2405,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 23058,
-    "rerun": false,
-    "companionBannerId": 3121,
-    "companionRateup": 23038
+    "rerun": false
   },
   "3121": {
     "id": 3121,
@@ -2475,9 +2413,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 23038,
-    "rerun": true,
-    "companionBannerId": 3120,
-    "companionRateup": 23058
+    "rerun": true
   },
   "3122": {
     "id": 3122,
@@ -2485,9 +2421,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 23034,
-    "rerun": true,
-    "companionBannerId": 3121,
-    "companionRateup": 23038
+    "rerun": true
   },
   "3123": {
     "id": 3123,
@@ -2495,9 +2429,7 @@
     "day": 739748,
     "date": "2026-05-12",
     "rateup": 23031,
-    "rerun": true,
-    "companionBannerId": 3122,
-    "companionRateup": 23034
+    "rerun": true
   },
   "3124": {
     "id": 3124,
@@ -2505,9 +2437,7 @@
     "day": 739767,
     "date": "2026-05-31",
     "rateup": 23059,
-    "rerun": false,
-    "companionBannerId": 3125,
-    "companionRateup": 23054
+    "rerun": false
   },
   "3125": {
     "id": 3125,
@@ -2515,9 +2445,7 @@
     "day": 739767,
     "date": "2026-05-31",
     "rateup": 23054,
-    "rerun": true,
-    "companionBannerId": 3124,
-    "companionRateup": 23059
+    "rerun": true
   },
   "3126": {
     "id": 3126,
@@ -2525,9 +2453,7 @@
     "day": 739791,
     "date": "2026-06-24",
     "rateup": 23052,
-    "rerun": true,
-    "companionBannerId": 3127,
-    "companionRateup": 23044
+    "rerun": true
   },
   "3127": {
     "id": 3127,
@@ -2535,9 +2461,7 @@
     "day": 739791,
     "date": "2026-06-24",
     "rateup": 23044,
-    "rerun": true,
-    "companionBannerId": 3126,
-    "companionRateup": 23052
+    "rerun": true
   },
   "3128": {
     "id": 3128,
@@ -2545,9 +2469,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 23060,
-    "rerun": false,
-    "companionBannerId": 3129,
-    "companionRateup": 23053
+    "rerun": false
   },
   "3129": {
     "id": 3129,
@@ -2555,9 +2477,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 23053,
-    "rerun": true,
-    "companionBannerId": 3128,
-    "companionRateup": 23060
+    "rerun": true
   },
   "3130": {
     "id": 3130,
@@ -2565,9 +2485,7 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 23051,
-    "rerun": true,
-    "companionBannerId": 3129,
-    "companionRateup": 23053
+    "rerun": true
   },
   "3131": {
     "id": 3131,
@@ -2575,8 +2493,6 @@
     "day": 739811,
     "date": "2026-07-14",
     "rateup": 23049,
-    "rerun": true,
-    "companionBannerId": 3130,
-    "companionRateup": 23051
+    "rerun": true
   }
 }
