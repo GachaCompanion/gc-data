@@ -2355,7 +2355,7 @@
     "type": "character",
     "version": "3.8",
     "start": "2026-01-07 19:00:00",
-    "end": "2026-01-07 22:00:00",
+    "end": "2026-01-28 18:59:00",
     "name": "Fugue",
     "featured": [
       "Fugue"
@@ -2367,7 +2367,7 @@
     "type": "character",
     "version": "3.8",
     "start": "2026-01-07 19:00:00",
-    "end": "2026-01-07 22:00:00",
+    "end": "2026-01-28 18:59:00",
     "name": "Lingsha",
     "featured": [
       "Lingsha"
@@ -2379,7 +2379,7 @@
     "type": "weapon",
     "version": "3.8",
     "start": "2026-01-07 19:00:00",
-    "end": "2026-01-07 22:00:00",
+    "end": "2026-01-28 18:59:00",
     "name": "Long Road Leads Home",
     "featured": [
       "Long Road Leads Home"
@@ -2391,7 +2391,7 @@
     "type": "weapon",
     "version": "3.8",
     "start": "2026-01-07 19:00:00",
-    "end": "2026-01-07 22:00:00",
+    "end": "2026-01-28 18:59:00",
     "name": "Scent Alone Stays True",
     "featured": [
       "Scent Alone Stays True"
@@ -2409,7 +2409,7 @@
       "Aglaea"
     ],
     "featuredId": 1402,
-    "phase": 2
+    "phase": 3
   },
   {
     "type": "character",
@@ -2421,7 +2421,7 @@
       "Sunday"
     ],
     "featuredId": 1313,
-    "phase": 2
+    "phase": 3
   },
   {
     "type": "weapon",
@@ -2433,7 +2433,7 @@
       "A Grounded Ascent"
     ],
     "featuredId": 23034,
-    "phase": 2
+    "phase": 3
   },
   {
     "type": "weapon",
@@ -2445,7 +2445,7 @@
       "Time Woven Into Gold"
     ],
     "featuredId": 23036,
-    "phase": 2
+    "phase": 3
   },
   {
     "type": "character",
