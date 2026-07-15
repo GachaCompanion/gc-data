@@ -1,0 +1,36 @@
+name: HSR gachaId table
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Same cadence as HSR's own banner-schedule updater — runs a bit after it
+    # so a freshly-added banner in banner-schedule-hsr.json is already
+    # present for this run's cross-reference step.
+    - cron: '30 4 * * 3'   # Wednesday 06:30 GMT+2
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build gachaId table
+        run: node games/hsr/scripts/build-gachaid-table.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games/hsr/gachaid-table.json games/hsr/gachaid-scan-raw.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "hsr: update gachaId table"
+            git push
+          fi
