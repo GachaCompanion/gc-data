@@ -1,0 +1,104 @@
+name: Compute Framing Data
+
+# Runs Thursday and Sunday at midnight Vienna time (CEST = UTC+2 in summer, CET = UTC+1 in winter).
+# We schedule at 22:00 UTC which lands at 00:00 CEST / 23:00 CET — close enough to midnight year-round.
+on:
+  schedule:
+    - cron: '0 22 * * 3'   # Wednesday 22:00 UTC → Thursday 00:00 CEST
+    - cron: '0 22 * * 6'   # Saturday  22:00 UTC → Sunday   00:00 CEST
+  workflow_dispatch:         # allow manual trigger from the GitHub Actions UI
+
+jobs:
+  compute-framing:
+    runs-on: ubuntu-latest
+    # This repo's default GITHUB_TOKEN permission is read-only (Settings → Actions
+    # → General → Workflow permissions), so the publish step below (which needs to
+    # create/update a release) fails with "Resource not accessible by integration"
+    # without this. Scoped to just this workflow rather than loosening the repo-wide
+    # default, which would affect every other workflow too.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install framing dependencies
+        working-directory: framing
+        run: npm install
+
+      # Cache spine assets between runs so we only re-download new characters.
+      # The cache key uses the ISO week so it rotates weekly (picks up new characters).
+      - name: Restore asset cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            .framing-cache/assets
+            .framing-cache/png-assets
+          key: framing-assets-${{ runner.os }}-${{ steps.date.outputs.week }}
+          restore-keys: |
+            framing-assets-${{ runner.os }}-
+        id: asset-cache
+
+      - name: Get ISO week (for cache key)
+        id: date
+        run: echo "week=$(date +%Y-W%V)" >> "$GITHUB_OUTPUT"
+
+      # Cache the ONNX model separately — it's large and never changes.
+      - name: Restore ONNX model cache
+        id: onnx-cache
+        uses: actions/cache@v4
+        with:
+          path: .framing-cache/yolov8_animeface.onnx
+          key: onnx-model-v1
+
+      - name: Download ONNX model
+        if: steps.onnx-cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p .framing-cache
+          curl -L -o .framing-cache/yolov8_animeface.onnx \
+            https://github.com/GachaCompanion/gc-data/releases/download/framing-data/yolov8_animeface.onnx
+
+      # Pull the currently published framing files so we can detect changes and bump version correctly.
+      - name: Download existing framing output
+        run: |
+          mkdir -p framing-output
+          curl -L -f -o framing-output/framing_hsr.json \
+            https://github.com/GachaCompanion/gc-data/releases/download/framing-data/framing_hsr.json \
+            || echo '{"version":0,"data":{}}' > framing-output/framing_hsr.json
+          curl -L -f -o framing-output/framing_zzz.json \
+            https://github.com/GachaCompanion/gc-data/releases/download/framing-data/framing_zzz.json \
+            || echo '{"version":0,"data":{}}' > framing-output/framing_zzz.json
+          curl -L -f -o framing-output/framing_hsr_png.json \
+            https://github.com/GachaCompanion/gc-data/releases/download/framing-data/framing_hsr_png.json \
+            || echo '{"version":0,"data":{}}' > framing-output/framing_hsr_png.json
+
+      - name: Compute framing
+        run: node framing/compute-framing.js
+        env:
+          ASSET_CACHE_DIR:     .framing-cache/assets
+          PNG_ASSET_CACHE_DIR: .framing-cache/png-assets
+          ONNX_MODEL_PATH:     .framing-cache/yolov8_animeface.onnx
+          OUTPUT_DIR:          framing-output
+
+      # Publish the computed files to the framing-data release tag.
+      # softprops/action-gh-release will create or update the release automatically.
+      - name: Publish to GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: framing-data
+          name: Framing Data
+          body: Pre-computed Live2D head-framing + PNG face-framing data. Updated automatically on Thursdays and Sundays.
+          files: |
+            framing-output/framing_hsr.json
+            framing-output/framing_zzz.json
+            framing-output/framing_version.json
+            framing-output/framing_hsr_png.json
+            framing-output/framing_version_png.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
