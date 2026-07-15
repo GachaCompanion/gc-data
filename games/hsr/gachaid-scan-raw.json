@@ -1,0 +1,2582 @@
+{
+  "2003": {
+    "id": 2003,
+    "type": "character",
+    "day": 738635,
+    "date": "2023-04-25",
+    "rateup": 1102,
+    "rerun": false,
+    "companionBannerId": 2004,
+    "companionRateup": 1204
+  },
+  "2004": {
+    "id": 2004,
+    "type": "character",
+    "day": 738656,
+    "date": "2023-05-16",
+    "rateup": 1204,
+    "rerun": false,
+    "companionBannerId": 2003,
+    "companionRateup": 1102
+  },
+  "2005": {
+    "id": 2005,
+    "type": "character",
+    "day": 738677,
+    "date": "2023-06-06",
+    "rateup": 1006,
+    "rerun": false,
+    "companionBannerId": 2006,
+    "companionRateup": 1203
+  },
+  "2006": {
+    "id": 2006,
+    "type": "character",
+    "day": 738698,
+    "date": "2023-06-27",
+    "rateup": 1203,
+    "rerun": false,
+    "companionBannerId": 2005,
+    "companionRateup": 1006
+  },
+  "2007": {
+    "id": 2007,
+    "type": "character",
+    "day": 738719,
+    "date": "2023-07-18",
+    "rateup": 1205,
+    "rerun": false,
+    "companionBannerId": 2008,
+    "companionRateup": 1005
+  },
+  "2008": {
+    "id": 2008,
+    "type": "character",
+    "day": 738740,
+    "date": "2023-08-08",
+    "rateup": 1005,
+    "rerun": false,
+    "companionBannerId": 2007,
+    "companionRateup": 1205
+  },
+  "2009": {
+    "id": 2009,
+    "type": "character",
+    "day": 738761,
+    "date": "2023-08-29",
+    "rateup": 1213,
+    "rerun": false,
+    "companionBannerId": 2010,
+    "companionRateup": 1208
+  },
+  "2010": {
+    "id": 2010,
+    "type": "character",
+    "day": 738782,
+    "date": "2023-09-19",
+    "rateup": 1208,
+    "rerun": false,
+    "companionBannerId": 2009,
+    "companionRateup": 1213
+  },
+  "2011": {
+    "id": 2011,
+    "type": "character",
+    "day": 738803,
+    "date": "2023-10-10",
+    "rateup": 1212,
+    "rerun": false,
+    "companionBannerId": 2010,
+    "companionRateup": 1208
+  },
+  "2012": {
+    "id": 2012,
+    "type": "character",
+    "day": 738819,
+    "date": "2023-10-26",
+    "rateup": 1112,
+    "rerun": false,
+    "companionBannerId": 2013,
+    "companionRateup": 1102
+  },
+  "2013": {
+    "id": 2013,
+    "type": "character",
+    "day": 738819,
+    "date": "2023-10-26",
+    "rateup": 1102,
+    "rerun": true,
+    "companionBannerId": 2012,
+    "companionRateup": 1112
+  },
+  "2014": {
+    "id": 2014,
+    "type": "character",
+    "day": 738838,
+    "date": "2023-11-14",
+    "rateup": 1217,
+    "rerun": false,
+    "companionBannerId": 2015,
+    "companionRateup": 1302
+  },
+  "2015": {
+    "id": 2015,
+    "type": "character",
+    "day": 738859,
+    "date": "2023-12-05",
+    "rateup": 1302,
+    "rerun": false,
+    "companionBannerId": 2016,
+    "companionRateup": 1006
+  },
+  "2016": {
+    "id": 2016,
+    "type": "character",
+    "day": 738859,
+    "date": "2023-12-05",
+    "rateup": 1006,
+    "rerun": true,
+    "companionBannerId": 2015,
+    "companionRateup": 1302
+  },
+  "2017": {
+    "id": 2017,
+    "type": "character",
+    "day": 738880,
+    "date": "2023-12-26",
+    "rateup": 1303,
+    "rerun": false,
+    "companionBannerId": 2018,
+    "companionRateup": 1205
+  },
+  "2018": {
+    "id": 2018,
+    "type": "character",
+    "day": 738880,
+    "date": "2023-12-26",
+    "rateup": 1205,
+    "rerun": true,
+    "companionBannerId": 2017,
+    "companionRateup": 1303
+  },
+  "2019": {
+    "id": 2019,
+    "type": "character",
+    "day": 738901,
+    "date": "2024-01-16",
+    "rateup": 1305,
+    "rerun": false,
+    "companionBannerId": 2020,
+    "companionRateup": 1005
+  },
+  "2020": {
+    "id": 2020,
+    "type": "character",
+    "day": 738901,
+    "date": "2024-01-16",
+    "rateup": 1005,
+    "rerun": true,
+    "companionBannerId": 2019,
+    "companionRateup": 1305
+  },
+  "2021": {
+    "id": 2021,
+    "type": "character",
+    "day": 738921,
+    "date": "2024-02-05",
+    "rateup": 1307,
+    "rerun": false,
+    "companionBannerId": 2022,
+    "companionRateup": 1213
+  },
+  "2022": {
+    "id": 2022,
+    "type": "character",
+    "day": 738921,
+    "date": "2024-02-05",
+    "rateup": 1213,
+    "rerun": true,
+    "companionBannerId": 2021,
+    "companionRateup": 1307
+  },
+  "2023": {
+    "id": 2023,
+    "type": "character",
+    "day": 738944,
+    "date": "2024-02-28",
+    "rateup": 1306,
+    "rerun": false,
+    "companionBannerId": 2024,
+    "companionRateup": 1204
+  },
+  "2024": {
+    "id": 2024,
+    "type": "character",
+    "day": 738944,
+    "date": "2024-02-28",
+    "rateup": 1204,
+    "rerun": true,
+    "companionBannerId": 2023,
+    "companionRateup": 1306
+  },
+  "2025": {
+    "id": 2025,
+    "type": "character",
+    "day": 738971,
+    "date": "2024-03-26",
+    "rateup": 1308,
+    "rerun": false,
+    "companionBannerId": 2026,
+    "companionRateup": 1203
+  },
+  "2026": {
+    "id": 2026,
+    "type": "character",
+    "day": 738971,
+    "date": "2024-03-26",
+    "rateup": 1203,
+    "rerun": true,
+    "companionBannerId": 2025,
+    "companionRateup": 1308
+  },
+  "2027": {
+    "id": 2027,
+    "type": "character",
+    "day": 738992,
+    "date": "2024-04-16",
+    "rateup": 1304,
+    "rerun": false,
+    "companionBannerId": 2028,
+    "companionRateup": 1212
+  },
+  "2028": {
+    "id": 2028,
+    "type": "character",
+    "day": 738992,
+    "date": "2024-04-16",
+    "rateup": 1212,
+    "rerun": true,
+    "companionBannerId": 2027,
+    "companionRateup": 1304
+  },
+  "2029": {
+    "id": 2029,
+    "type": "character",
+    "day": 739013,
+    "date": "2024-05-07",
+    "rateup": 1309,
+    "rerun": false,
+    "companionBannerId": 2030,
+    "companionRateup": 1112
+  },
+  "2030": {
+    "id": 2030,
+    "type": "character",
+    "day": 739013,
+    "date": "2024-05-07",
+    "rateup": 1112,
+    "rerun": true,
+    "companionBannerId": 2029,
+    "companionRateup": 1309
+  },
+  "2031": {
+    "id": 2031,
+    "type": "character",
+    "day": 739034,
+    "date": "2024-05-28",
+    "rateup": 1315,
+    "rerun": false,
+    "companionBannerId": 2032,
+    "companionRateup": 1208
+  },
+  "2032": {
+    "id": 2032,
+    "type": "character",
+    "day": 739034,
+    "date": "2024-05-28",
+    "rateup": 1208,
+    "rerun": true,
+    "companionBannerId": 2031,
+    "companionRateup": 1315
+  },
+  "2033": {
+    "id": 2033,
+    "type": "character",
+    "day": 739055,
+    "date": "2024-06-18",
+    "rateup": 1310,
+    "rerun": false,
+    "companionBannerId": 2034,
+    "companionRateup": 1303
+  },
+  "2034": {
+    "id": 2034,
+    "type": "character",
+    "day": 739055,
+    "date": "2024-06-18",
+    "rateup": 1303,
+    "rerun": true,
+    "companionBannerId": 2033,
+    "companionRateup": 1310
+  },
+  "2035": {
+    "id": 2035,
+    "type": "character",
+    "day": 739076,
+    "date": "2024-07-09",
+    "rateup": 1314,
+    "rerun": false,
+    "companionBannerId": 2036,
+    "companionRateup": 1302
+  },
+  "2036": {
+    "id": 2036,
+    "type": "character",
+    "day": 739076,
+    "date": "2024-07-09",
+    "rateup": 1302,
+    "rerun": true,
+    "companionBannerId": 2035,
+    "companionRateup": 1314
+  },
+  "2037": {
+    "id": 2037,
+    "type": "character",
+    "day": 739097,
+    "date": "2024-07-30",
+    "rateup": 1221,
+    "rerun": false,
+    "companionBannerId": 2038,
+    "companionRateup": 1217
+  },
+  "2038": {
+    "id": 2038,
+    "type": "character",
+    "day": 739097,
+    "date": "2024-07-30",
+    "rateup": 1217,
+    "rerun": true,
+    "companionBannerId": 2037,
+    "companionRateup": 1221
+  },
+  "2039": {
+    "id": 2039,
+    "type": "character",
+    "day": 739118,
+    "date": "2024-08-20",
+    "rateup": 1218,
+    "rerun": false,
+    "companionBannerId": 2040,
+    "companionRateup": 1306
+  },
+  "2040": {
+    "id": 2040,
+    "type": "character",
+    "day": 739118,
+    "date": "2024-08-20",
+    "rateup": 1306,
+    "rerun": true,
+    "companionBannerId": 2039,
+    "companionRateup": 1218
+  },
+  "2041": {
+    "id": 2041,
+    "type": "character",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 1220,
+    "rerun": false,
+    "companionBannerId": 2042,
+    "companionRateup": 1309
+  },
+  "2042": {
+    "id": 2042,
+    "type": "character",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 1309,
+    "rerun": true,
+    "companionBannerId": 2041,
+    "companionRateup": 1220
+  },
+  "2043": {
+    "id": 2043,
+    "type": "character",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 1307,
+    "rerun": true,
+    "companionBannerId": 2042,
+    "companionRateup": 1309
+  },
+  "2044": {
+    "id": 2044,
+    "type": "character",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 1005,
+    "rerun": true,
+    "companionBannerId": 2043,
+    "companionRateup": 1307
+  },
+  "2045": {
+    "id": 2045,
+    "type": "character",
+    "day": 739161,
+    "date": "2024-10-02",
+    "rateup": 1222,
+    "rerun": false,
+    "companionBannerId": 2046,
+    "companionRateup": 1112
+  },
+  "2046": {
+    "id": 2046,
+    "type": "character",
+    "day": 739161,
+    "date": "2024-10-02",
+    "rateup": 1112,
+    "rerun": true,
+    "companionBannerId": 2045,
+    "companionRateup": 1222
+  },
+  "2047": {
+    "id": 2047,
+    "type": "character",
+    "day": 739181,
+    "date": "2024-10-22",
+    "rateup": 1317,
+    "rerun": false,
+    "companionBannerId": 2048,
+    "companionRateup": 1213
+  },
+  "2048": {
+    "id": 2048,
+    "type": "character",
+    "day": 739181,
+    "date": "2024-10-22",
+    "rateup": 1213,
+    "rerun": true,
+    "companionBannerId": 2047,
+    "companionRateup": 1317
+  },
+  "2049": {
+    "id": 2049,
+    "type": "character",
+    "day": 739202,
+    "date": "2024-11-12",
+    "rateup": 1308,
+    "rerun": true,
+    "companionBannerId": 2050,
+    "companionRateup": 1304
+  },
+  "2050": {
+    "id": 2050,
+    "type": "character",
+    "day": 739202,
+    "date": "2024-11-12",
+    "rateup": 1304,
+    "rerun": true,
+    "companionBannerId": 2049,
+    "companionRateup": 1308
+  },
+  "2051": {
+    "id": 2051,
+    "type": "character",
+    "day": 739223,
+    "date": "2024-12-03",
+    "rateup": 1313,
+    "rerun": false,
+    "companionBannerId": 2052,
+    "companionRateup": 1204
+  },
+  "2052": {
+    "id": 2052,
+    "type": "character",
+    "day": 739223,
+    "date": "2024-12-03",
+    "rateup": 1204,
+    "rerun": true,
+    "companionBannerId": 2051,
+    "companionRateup": 1313
+  },
+  "2053": {
+    "id": 2053,
+    "type": "character",
+    "day": 739245,
+    "date": "2024-12-25",
+    "rateup": 1225,
+    "rerun": false,
+    "companionBannerId": 2054,
+    "companionRateup": 1310
+  },
+  "2054": {
+    "id": 2054,
+    "type": "character",
+    "day": 739245,
+    "date": "2024-12-25",
+    "rateup": 1310,
+    "rerun": true,
+    "companionBannerId": 2053,
+    "companionRateup": 1225
+  },
+  "2055": {
+    "id": 2055,
+    "type": "character",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 1401,
+    "rerun": false,
+    "companionBannerId": 2056,
+    "companionRateup": 1222
+  },
+  "2056": {
+    "id": 2056,
+    "type": "character",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 1222,
+    "rerun": true,
+    "companionBannerId": 2055,
+    "companionRateup": 1401
+  },
+  "2057": {
+    "id": 2057,
+    "type": "character",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 1220,
+    "rerun": true,
+    "companionBannerId": 2056,
+    "companionRateup": 1222
+  },
+  "2058": {
+    "id": 2058,
+    "type": "character",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 1314,
+    "rerun": true,
+    "companionBannerId": 2057,
+    "companionRateup": 1220
+  },
+  "2059": {
+    "id": 2059,
+    "type": "character",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 1402,
+    "rerun": false,
+    "companionBannerId": 2060,
+    "companionRateup": 1315
+  },
+  "2060": {
+    "id": 2060,
+    "type": "character",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 1315,
+    "rerun": true,
+    "companionBannerId": 2059,
+    "companionRateup": 1402
+  },
+  "2061": {
+    "id": 2061,
+    "type": "character",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 1309,
+    "rerun": true,
+    "companionBannerId": 2060,
+    "companionRateup": 1315
+  },
+  "2062": {
+    "id": 2062,
+    "type": "character",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 1006,
+    "rerun": true,
+    "companionBannerId": 2061,
+    "companionRateup": 1309
+  },
+  "2063": {
+    "id": 2063,
+    "type": "character",
+    "day": 739307,
+    "date": "2025-02-25",
+    "rateup": 1403,
+    "rerun": false,
+    "companionBannerId": 2064,
+    "companionRateup": 1221
+  },
+  "2064": {
+    "id": 2064,
+    "type": "character",
+    "day": 739307,
+    "date": "2025-02-25",
+    "rateup": 1221,
+    "rerun": true,
+    "companionBannerId": 2063,
+    "companionRateup": 1403
+  },
+  "2065": {
+    "id": 2065,
+    "type": "character",
+    "day": 739328,
+    "date": "2025-03-18",
+    "rateup": 1404,
+    "rerun": false,
+    "companionBannerId": 2066,
+    "companionRateup": 1217
+  },
+  "2066": {
+    "id": 2066,
+    "type": "character",
+    "day": 739328,
+    "date": "2025-03-18",
+    "rateup": 1217,
+    "rerun": true,
+    "companionBannerId": 2065,
+    "companionRateup": 1404
+  },
+  "2067": {
+    "id": 2067,
+    "type": "character",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 1407,
+    "rerun": false,
+    "companionBannerId": 2068,
+    "companionRateup": 1225
+  },
+  "2068": {
+    "id": 2068,
+    "type": "character",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 1225,
+    "rerun": true,
+    "companionBannerId": 2067,
+    "companionRateup": 1407
+  },
+  "2069": {
+    "id": 2069,
+    "type": "character",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 1218,
+    "rerun": true,
+    "companionBannerId": 2068,
+    "companionRateup": 1225
+  },
+  "2070": {
+    "id": 2070,
+    "type": "character",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 1308,
+    "rerun": true,
+    "companionBannerId": 2069,
+    "companionRateup": 1218
+  },
+  "2071": {
+    "id": 2071,
+    "type": "character",
+    "day": 739370,
+    "date": "2025-04-29",
+    "rateup": 1405,
+    "rerun": false,
+    "companionBannerId": 2072,
+    "companionRateup": 1305
+  },
+  "2072": {
+    "id": 2072,
+    "type": "character",
+    "day": 739370,
+    "date": "2025-04-29",
+    "rateup": 1305,
+    "rerun": true,
+    "companionBannerId": 2071,
+    "companionRateup": 1405
+  },
+  "2073": {
+    "id": 2073,
+    "type": "character",
+    "day": 739391,
+    "date": "2025-05-20",
+    "rateup": 1409,
+    "rerun": false,
+    "companionBannerId": 2074,
+    "companionRateup": 1401
+  },
+  "2074": {
+    "id": 2074,
+    "type": "character",
+    "day": 739391,
+    "date": "2025-05-20",
+    "rateup": 1401,
+    "rerun": true,
+    "companionBannerId": 2073,
+    "companionRateup": 1409
+  },
+  "2075": {
+    "id": 2075,
+    "type": "character",
+    "day": 739413,
+    "date": "2025-06-11",
+    "rateup": 1406,
+    "rerun": false,
+    "companionBannerId": 2076,
+    "companionRateup": 1402
+  },
+  "2076": {
+    "id": 2076,
+    "type": "character",
+    "day": 739413,
+    "date": "2025-06-11",
+    "rateup": 1402,
+    "rerun": true,
+    "companionBannerId": 2075,
+    "companionRateup": 1406
+  },
+  "2077": {
+    "id": 2077,
+    "type": "character",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 1408,
+    "rerun": false,
+    "companionBannerId": 2078,
+    "companionRateup": 1403
+  },
+  "2078": {
+    "id": 2078,
+    "type": "character",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 1403,
+    "rerun": true,
+    "companionBannerId": 2077,
+    "companionRateup": 1408
+  },
+  "2079": {
+    "id": 2079,
+    "type": "character",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 1313,
+    "rerun": true,
+    "companionBannerId": 2078,
+    "companionRateup": 1403
+  },
+  "2080": {
+    "id": 2080,
+    "type": "character",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 1306,
+    "rerun": true,
+    "companionBannerId": 2079,
+    "companionRateup": 1313
+  },
+  "2081": {
+    "id": 2081,
+    "type": "character",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 1310,
+    "rerun": true,
+    "companionBannerId": 2082,
+    "companionRateup": 1212
+  },
+  "2082": {
+    "id": 2082,
+    "type": "character",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 1212,
+    "rerun": true,
+    "companionBannerId": 2081,
+    "companionRateup": 1310
+  },
+  "2083": {
+    "id": 2083,
+    "type": "character",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 1205,
+    "rerun": true,
+    "companionBannerId": 2082,
+    "companionRateup": 1212
+  },
+  "2084": {
+    "id": 2084,
+    "type": "character",
+    "day": 739475,
+    "date": "2025-08-12",
+    "rateup": 1410,
+    "rerun": false,
+    "companionBannerId": 2085,
+    "companionRateup": 1005
+  },
+  "2085": {
+    "id": 2085,
+    "type": "character",
+    "day": 739475,
+    "date": "2025-08-12",
+    "rateup": 1005,
+    "rerun": true,
+    "companionBannerId": 2084,
+    "companionRateup": 1410
+  },
+  "2086": {
+    "id": 2086,
+    "type": "character",
+    "day": 739496,
+    "date": "2025-09-02",
+    "rateup": 1412,
+    "rerun": false,
+    "companionBannerId": 2087,
+    "companionRateup": 1006
+  },
+  "2087": {
+    "id": 2087,
+    "type": "character",
+    "day": 739496,
+    "date": "2025-09-02",
+    "rateup": 1006,
+    "rerun": true,
+    "companionBannerId": 2086,
+    "companionRateup": 1412
+  },
+  "2088": {
+    "id": 2088,
+    "type": "character",
+    "day": 739517,
+    "date": "2025-09-23",
+    "rateup": 1413,
+    "rerun": false,
+    "companionBannerId": 2089,
+    "companionRateup": 1401
+  },
+  "2089": {
+    "id": 2089,
+    "type": "character",
+    "day": 739517,
+    "date": "2025-09-23",
+    "rateup": 1401,
+    "rerun": true,
+    "companionBannerId": 2088,
+    "companionRateup": 1413
+  },
+  "2090": {
+    "id": 2090,
+    "type": "character",
+    "day": 739538,
+    "date": "2025-10-14",
+    "rateup": 1414,
+    "rerun": false,
+    "companionBannerId": 2091,
+    "companionRateup": 1405
+  },
+  "2091": {
+    "id": 2091,
+    "type": "character",
+    "day": 739538,
+    "date": "2025-10-14",
+    "rateup": 1405,
+    "rerun": true,
+    "companionBannerId": 2090,
+    "companionRateup": 1414
+  },
+  "2092": {
+    "id": 2092,
+    "type": "character",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 1415,
+    "rerun": false,
+    "companionBannerId": 2093,
+    "companionRateup": 1407
+  },
+  "2093": {
+    "id": 2093,
+    "type": "character",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 1407,
+    "rerun": true,
+    "companionBannerId": 2093,
+    "companionRateup": 1407
+  },
+  "2094": {
+    "id": 2094,
+    "type": "character",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 1409,
+    "rerun": true,
+    "companionBannerId": 2092,
+    "companionRateup": 1415
+  },
+  "2095": {
+    "id": 2095,
+    "type": "character",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 1403,
+    "rerun": true,
+    "companionBannerId": 2094,
+    "companionRateup": 1409
+  },
+  "2096": {
+    "id": 2096,
+    "type": "character",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 1408,
+    "rerun": true,
+    "companionBannerId": 2097,
+    "companionRateup": 1406
+  },
+  "2097": {
+    "id": 2097,
+    "type": "character",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 1406,
+    "rerun": true,
+    "companionBannerId": 2096,
+    "companionRateup": 1408
+  },
+  "2098": {
+    "id": 2098,
+    "type": "character",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 1404,
+    "rerun": true,
+    "companionBannerId": 2097,
+    "companionRateup": 1406
+  },
+  "2099": {
+    "id": 2099,
+    "type": "character",
+    "day": 739601,
+    "date": "2025-12-16",
+    "rateup": 1321,
+    "rerun": false,
+    "companionBannerId": 2100,
+    "companionRateup": 1310
+  },
+  "2100": {
+    "id": 2100,
+    "type": "character",
+    "day": 739601,
+    "date": "2025-12-16",
+    "rateup": 1310,
+    "rerun": true,
+    "companionBannerId": 2099,
+    "companionRateup": 1321
+  },
+  "2101": {
+    "id": 2101,
+    "type": "character",
+    "day": 739623,
+    "date": "2026-01-07",
+    "rateup": 1225,
+    "rerun": true,
+    "companionBannerId": 2102,
+    "companionRateup": 1222
+  },
+  "2102": {
+    "id": 2102,
+    "type": "character",
+    "day": 739623,
+    "date": "2026-01-07",
+    "rateup": 1222,
+    "rerun": true,
+    "companionBannerId": 2101,
+    "companionRateup": 1225
+  },
+  "2103": {
+    "id": 2103,
+    "type": "character",
+    "day": 739643,
+    "date": "2026-01-27",
+    "rateup": 1402,
+    "rerun": true,
+    "companionBannerId": 2104,
+    "companionRateup": 1313
+  },
+  "2104": {
+    "id": 2104,
+    "type": "character",
+    "day": 739643,
+    "date": "2026-01-27",
+    "rateup": 1313,
+    "rerun": true,
+    "companionBannerId": 2103,
+    "companionRateup": 1402
+  },
+  "2105": {
+    "id": 2105,
+    "type": "character",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 1502,
+    "rerun": false,
+    "companionBannerId": 2106,
+    "companionRateup": 1413
+  },
+  "2106": {
+    "id": 2106,
+    "type": "character",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 1413,
+    "rerun": true,
+    "companionBannerId": 2105,
+    "companionRateup": 1502
+  },
+  "2107": {
+    "id": 2107,
+    "type": "character",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 1410,
+    "rerun": true,
+    "companionBannerId": 2106,
+    "companionRateup": 1413
+  },
+  "2108": {
+    "id": 2108,
+    "type": "character",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 1307,
+    "rerun": true,
+    "companionBannerId": 2107,
+    "companionRateup": 1410
+  },
+  "2109": {
+    "id": 2109,
+    "type": "character",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 1501,
+    "rerun": false,
+    "companionBannerId": 2110,
+    "companionRateup": 1412
+  },
+  "2110": {
+    "id": 2110,
+    "type": "character",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 1412,
+    "rerun": true,
+    "companionBannerId": 2109,
+    "companionRateup": 1501
+  },
+  "2111": {
+    "id": 2111,
+    "type": "character",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 1317,
+    "rerun": true,
+    "companionBannerId": 2110,
+    "companionRateup": 1412
+  },
+  "2112": {
+    "id": 2112,
+    "type": "character",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 1306,
+    "rerun": true,
+    "companionBannerId": 2111,
+    "companionRateup": 1317
+  },
+  "2113": {
+    "id": 2113,
+    "type": "character",
+    "day": 739700,
+    "date": "2026-03-25",
+    "rateup": 1504,
+    "rerun": false,
+    "companionBannerId": 2114,
+    "companionRateup": 1409
+  },
+  "2114": {
+    "id": 2114,
+    "type": "character",
+    "day": 739700,
+    "date": "2026-03-25",
+    "rateup": 1409,
+    "rerun": true,
+    "companionBannerId": 2113,
+    "companionRateup": 1504
+  },
+  "2115": {
+    "id": 2115,
+    "type": "character",
+    "day": 739715,
+    "date": "2026-04-09",
+    "rateup": 1315,
+    "rerun": true,
+    "companionBannerId": 2113,
+    "companionRateup": 1504
+  },
+  "2116": {
+    "id": 2116,
+    "type": "character",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 1506,
+    "rerun": false,
+    "companionBannerId": 2117,
+    "companionRateup": 1321
+  },
+  "2117": {
+    "id": 2117,
+    "type": "character",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 1321,
+    "rerun": true,
+    "companionBannerId": 2116,
+    "companionRateup": 1506
+  },
+  "2118": {
+    "id": 2118,
+    "type": "character",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 1407,
+    "rerun": true,
+    "companionBannerId": 2117,
+    "companionRateup": 1321
+  },
+  "2119": {
+    "id": 2119,
+    "type": "character",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 1310,
+    "rerun": true,
+    "companionBannerId": 2118,
+    "companionRateup": 1407
+  },
+  "2120": {
+    "id": 2120,
+    "type": "character",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 1505,
+    "rerun": false,
+    "companionBannerId": 2121,
+    "companionRateup": 1403
+  },
+  "2121": {
+    "id": 2121,
+    "type": "character",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 1403,
+    "rerun": true,
+    "companionBannerId": 2120,
+    "companionRateup": 1505
+  },
+  "2122": {
+    "id": 2122,
+    "type": "character",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 1313,
+    "rerun": true,
+    "companionBannerId": 2121,
+    "companionRateup": 1403
+  },
+  "2123": {
+    "id": 2123,
+    "type": "character",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 1220,
+    "rerun": true,
+    "companionBannerId": 2122,
+    "companionRateup": 1313
+  },
+  "2124": {
+    "id": 2124,
+    "type": "character",
+    "day": 739767,
+    "date": "2026-05-31",
+    "rateup": 1507,
+    "rerun": false,
+    "companionBannerId": 2125,
+    "companionRateup": 1502
+  },
+  "2125": {
+    "id": 2125,
+    "type": "character",
+    "day": 739767,
+    "date": "2026-05-31",
+    "rateup": 1502,
+    "rerun": true,
+    "companionBannerId": 2124,
+    "companionRateup": 1507
+  },
+  "2126": {
+    "id": 2126,
+    "type": "character",
+    "day": 739791,
+    "date": "2026-06-24",
+    "rateup": 1415,
+    "rerun": true,
+    "companionBannerId": 2127,
+    "companionRateup": 1408
+  },
+  "2127": {
+    "id": 2127,
+    "type": "character",
+    "day": 739791,
+    "date": "2026-06-24",
+    "rateup": 1408,
+    "rerun": true,
+    "companionBannerId": 2126,
+    "companionRateup": 1415
+  },
+  "2128": {
+    "id": 2128,
+    "type": "character",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 1510,
+    "rerun": false,
+    "companionBannerId": 2129,
+    "companionRateup": 1501
+  },
+  "2129": {
+    "id": 2129,
+    "type": "character",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 1501,
+    "rerun": true,
+    "companionBannerId": 2128,
+    "companionRateup": 1510
+  },
+  "2130": {
+    "id": 2130,
+    "type": "character",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 1414,
+    "rerun": true,
+    "companionBannerId": 2129,
+    "companionRateup": 1501
+  },
+  "2131": {
+    "id": 2131,
+    "type": "character",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 1413,
+    "rerun": true,
+    "companionBannerId": 2130,
+    "companionRateup": 1414
+  },
+  "3003": {
+    "id": 3003,
+    "type": "weapon",
+    "day": 738635,
+    "date": "2023-04-25",
+    "rateup": 23001,
+    "rerun": false,
+    "companionBannerId": 3004,
+    "companionRateup": 23010
+  },
+  "3004": {
+    "id": 3004,
+    "type": "weapon",
+    "day": 738656,
+    "date": "2023-05-16",
+    "rateup": 23010,
+    "rerun": false,
+    "companionBannerId": 3003,
+    "companionRateup": 23001
+  },
+  "3005": {
+    "id": 3005,
+    "type": "weapon",
+    "day": 738677,
+    "date": "2023-06-06",
+    "rateup": 23007,
+    "rerun": false,
+    "companionBannerId": 3006,
+    "companionRateup": 23008
+  },
+  "3006": {
+    "id": 3006,
+    "type": "weapon",
+    "day": 738698,
+    "date": "2023-06-27",
+    "rateup": 23008,
+    "rerun": false,
+    "companionBannerId": 3005,
+    "companionRateup": 23007
+  },
+  "3007": {
+    "id": 3007,
+    "type": "weapon",
+    "day": 738719,
+    "date": "2023-07-18",
+    "rateup": 23009,
+    "rerun": false,
+    "companionBannerId": 3008,
+    "companionRateup": 23006
+  },
+  "3008": {
+    "id": 3008,
+    "type": "weapon",
+    "day": 738740,
+    "date": "2023-08-08",
+    "rateup": 23006,
+    "rerun": false,
+    "companionBannerId": 3007,
+    "companionRateup": 23009
+  },
+  "3009": {
+    "id": 3009,
+    "type": "weapon",
+    "day": 738761,
+    "date": "2023-08-29",
+    "rateup": 23015,
+    "rerun": false,
+    "companionBannerId": 3010,
+    "companionRateup": 23011
+  },
+  "3010": {
+    "id": 3010,
+    "type": "weapon",
+    "day": 738782,
+    "date": "2023-09-19",
+    "rateup": 23011,
+    "rerun": false,
+    "companionBannerId": 3009,
+    "companionRateup": 23015
+  },
+  "3011": {
+    "id": 3011,
+    "type": "weapon",
+    "day": 738803,
+    "date": "2023-10-10",
+    "rateup": 23014,
+    "rerun": false,
+    "companionBannerId": 3010,
+    "companionRateup": 23011
+  },
+  "3012": {
+    "id": 3012,
+    "type": "weapon",
+    "day": 738819,
+    "date": "2023-10-26",
+    "rateup": 23016,
+    "rerun": false,
+    "companionBannerId": 3013,
+    "companionRateup": 23001
+  },
+  "3013": {
+    "id": 3013,
+    "type": "weapon",
+    "day": 738819,
+    "date": "2023-10-26",
+    "rateup": 23001,
+    "rerun": true,
+    "companionBannerId": 3012,
+    "companionRateup": 23016
+  },
+  "3014": {
+    "id": 3014,
+    "type": "weapon",
+    "day": 738838,
+    "date": "2023-11-14",
+    "rateup": 23017,
+    "rerun": false,
+    "companionBannerId": 3015,
+    "companionRateup": 23018
+  },
+  "3015": {
+    "id": 3015,
+    "type": "weapon",
+    "day": 738859,
+    "date": "2023-12-05",
+    "rateup": 23018,
+    "rerun": false,
+    "companionBannerId": 3016,
+    "companionRateup": 23007
+  },
+  "3016": {
+    "id": 3016,
+    "type": "weapon",
+    "day": 738859,
+    "date": "2023-12-05",
+    "rateup": 23007,
+    "rerun": true,
+    "companionBannerId": 3015,
+    "companionRateup": 23018
+  },
+  "3017": {
+    "id": 3017,
+    "type": "weapon",
+    "day": 738880,
+    "date": "2023-12-26",
+    "rateup": 23019,
+    "rerun": false,
+    "companionBannerId": 3018,
+    "companionRateup": 23009
+  },
+  "3018": {
+    "id": 3018,
+    "type": "weapon",
+    "day": 738880,
+    "date": "2023-12-26",
+    "rateup": 23009,
+    "rerun": true,
+    "companionBannerId": 3017,
+    "companionRateup": 23019
+  },
+  "3019": {
+    "id": 3019,
+    "type": "weapon",
+    "day": 738901,
+    "date": "2024-01-16",
+    "rateup": 23020,
+    "rerun": false,
+    "companionBannerId": 3020,
+    "companionRateup": 23006
+  },
+  "3020": {
+    "id": 3020,
+    "type": "weapon",
+    "day": 738901,
+    "date": "2024-01-16",
+    "rateup": 23006,
+    "rerun": true,
+    "companionBannerId": 3019,
+    "companionRateup": 23020
+  },
+  "3021": {
+    "id": 3021,
+    "type": "weapon",
+    "day": 738921,
+    "date": "2024-02-05",
+    "rateup": 23022,
+    "rerun": false,
+    "companionBannerId": 3022,
+    "companionRateup": 23015
+  },
+  "3022": {
+    "id": 3022,
+    "type": "weapon",
+    "day": 738921,
+    "date": "2024-02-05",
+    "rateup": 23015,
+    "rerun": true,
+    "companionBannerId": 3021,
+    "companionRateup": 23022
+  },
+  "3023": {
+    "id": 3023,
+    "type": "weapon",
+    "day": 738944,
+    "date": "2024-02-28",
+    "rateup": 23021,
+    "rerun": false,
+    "companionBannerId": 3024,
+    "companionRateup": 23010
+  },
+  "3024": {
+    "id": 3024,
+    "type": "weapon",
+    "day": 738944,
+    "date": "2024-02-28",
+    "rateup": 23010,
+    "rerun": true,
+    "companionBannerId": 3023,
+    "companionRateup": 23021
+  },
+  "3025": {
+    "id": 3025,
+    "type": "weapon",
+    "day": 738971,
+    "date": "2024-03-26",
+    "rateup": 23024,
+    "rerun": false,
+    "companionBannerId": 3026,
+    "companionRateup": 23008
+  },
+  "3026": {
+    "id": 3026,
+    "type": "weapon",
+    "day": 738971,
+    "date": "2024-03-26",
+    "rateup": 23008,
+    "rerun": true,
+    "companionBannerId": 3025,
+    "companionRateup": 23024
+  },
+  "3027": {
+    "id": 3027,
+    "type": "weapon",
+    "day": 738992,
+    "date": "2024-04-16",
+    "rateup": 23023,
+    "rerun": false,
+    "companionBannerId": 3028,
+    "companionRateup": 23014
+  },
+  "3028": {
+    "id": 3028,
+    "type": "weapon",
+    "day": 738992,
+    "date": "2024-04-16",
+    "rateup": 23014,
+    "rerun": true,
+    "companionBannerId": 3027,
+    "companionRateup": 23023
+  },
+  "3029": {
+    "id": 3029,
+    "type": "weapon",
+    "day": 739013,
+    "date": "2024-05-07",
+    "rateup": 23026,
+    "rerun": false,
+    "companionBannerId": 3030,
+    "companionRateup": 23016
+  },
+  "3030": {
+    "id": 3030,
+    "type": "weapon",
+    "day": 739013,
+    "date": "2024-05-07",
+    "rateup": 23016,
+    "rerun": true,
+    "companionBannerId": 3029,
+    "companionRateup": 23026
+  },
+  "3031": {
+    "id": 3031,
+    "type": "weapon",
+    "day": 739034,
+    "date": "2024-05-28",
+    "rateup": 23027,
+    "rerun": false,
+    "companionBannerId": 3032,
+    "companionRateup": 23011
+  },
+  "3032": {
+    "id": 3032,
+    "type": "weapon",
+    "day": 739034,
+    "date": "2024-05-28",
+    "rateup": 23011,
+    "rerun": true,
+    "companionBannerId": 3031,
+    "companionRateup": 23027
+  },
+  "3033": {
+    "id": 3033,
+    "type": "weapon",
+    "day": 739055,
+    "date": "2024-06-18",
+    "rateup": 23025,
+    "rerun": false,
+    "companionBannerId": 3034,
+    "companionRateup": 23019
+  },
+  "3034": {
+    "id": 3034,
+    "type": "weapon",
+    "day": 739055,
+    "date": "2024-06-18",
+    "rateup": 23019,
+    "rerun": true,
+    "companionBannerId": 3033,
+    "companionRateup": 23025
+  },
+  "3035": {
+    "id": 3035,
+    "type": "weapon",
+    "day": 739076,
+    "date": "2024-07-09",
+    "rateup": 23028,
+    "rerun": false,
+    "companionBannerId": 3036,
+    "companionRateup": 23018
+  },
+  "3036": {
+    "id": 3036,
+    "type": "weapon",
+    "day": 739076,
+    "date": "2024-07-09",
+    "rateup": 23018,
+    "rerun": true,
+    "companionBannerId": 3035,
+    "companionRateup": 23028
+  },
+  "3037": {
+    "id": 3037,
+    "type": "weapon",
+    "day": 739097,
+    "date": "2024-07-30",
+    "rateup": 23030,
+    "rerun": false,
+    "companionBannerId": 3038,
+    "companionRateup": 23017
+  },
+  "3038": {
+    "id": 3038,
+    "type": "weapon",
+    "day": 739097,
+    "date": "2024-07-30",
+    "rateup": 23017,
+    "rerun": true,
+    "companionBannerId": 3037,
+    "companionRateup": 23030
+  },
+  "3039": {
+    "id": 3039,
+    "type": "weapon",
+    "day": 739118,
+    "date": "2024-08-20",
+    "rateup": 23029,
+    "rerun": false,
+    "companionBannerId": 3040,
+    "companionRateup": 23021
+  },
+  "3040": {
+    "id": 3040,
+    "type": "weapon",
+    "day": 739118,
+    "date": "2024-08-20",
+    "rateup": 23021,
+    "rerun": true,
+    "companionBannerId": 3039,
+    "companionRateup": 23029
+  },
+  "3041": {
+    "id": 3041,
+    "type": "weapon",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 23031,
+    "rerun": false,
+    "companionBannerId": 3042,
+    "companionRateup": 23026
+  },
+  "3042": {
+    "id": 3042,
+    "type": "weapon",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 23026,
+    "rerun": true,
+    "companionBannerId": 3041,
+    "companionRateup": 23031
+  },
+  "3043": {
+    "id": 3043,
+    "type": "weapon",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 23022,
+    "rerun": true,
+    "companionBannerId": 3042,
+    "companionRateup": 23026
+  },
+  "3044": {
+    "id": 3044,
+    "type": "weapon",
+    "day": 739138,
+    "date": "2024-09-09",
+    "rateup": 23006,
+    "rerun": true,
+    "companionBannerId": 3043,
+    "companionRateup": 23022
+  },
+  "3045": {
+    "id": 3045,
+    "type": "weapon",
+    "day": 739161,
+    "date": "2024-10-02",
+    "rateup": 23032,
+    "rerun": false,
+    "companionBannerId": 3046,
+    "companionRateup": 23016
+  },
+  "3046": {
+    "id": 3046,
+    "type": "weapon",
+    "day": 739161,
+    "date": "2024-10-02",
+    "rateup": 23016,
+    "rerun": true,
+    "companionBannerId": 3045,
+    "companionRateup": 23032
+  },
+  "3047": {
+    "id": 3047,
+    "type": "weapon",
+    "day": 739181,
+    "date": "2024-10-22",
+    "rateup": 23033,
+    "rerun": false,
+    "companionBannerId": 3048,
+    "companionRateup": 23015
+  },
+  "3048": {
+    "id": 3048,
+    "type": "weapon",
+    "day": 739181,
+    "date": "2024-10-22",
+    "rateup": 23015,
+    "rerun": true,
+    "companionBannerId": 3047,
+    "companionRateup": 23033
+  },
+  "3049": {
+    "id": 3049,
+    "type": "weapon",
+    "day": 739202,
+    "date": "2024-11-12",
+    "rateup": 23024,
+    "rerun": true,
+    "companionBannerId": 3050,
+    "companionRateup": 23023
+  },
+  "3050": {
+    "id": 3050,
+    "type": "weapon",
+    "day": 739202,
+    "date": "2024-11-12",
+    "rateup": 23023,
+    "rerun": true,
+    "companionBannerId": 3049,
+    "companionRateup": 23024
+  },
+  "3051": {
+    "id": 3051,
+    "type": "weapon",
+    "day": 739223,
+    "date": "2024-12-03",
+    "rateup": 23034,
+    "rerun": false,
+    "companionBannerId": 3052,
+    "companionRateup": 23010
+  },
+  "3052": {
+    "id": 3052,
+    "type": "weapon",
+    "day": 739223,
+    "date": "2024-12-03",
+    "rateup": 23010,
+    "rerun": true,
+    "companionBannerId": 3051,
+    "companionRateup": 23034
+  },
+  "3053": {
+    "id": 3053,
+    "type": "weapon",
+    "day": 739245,
+    "date": "2024-12-25",
+    "rateup": 23035,
+    "rerun": false,
+    "companionBannerId": 3054,
+    "companionRateup": 23025
+  },
+  "3054": {
+    "id": 3054,
+    "type": "weapon",
+    "day": 739245,
+    "date": "2024-12-25",
+    "rateup": 23025,
+    "rerun": true,
+    "companionBannerId": 3053,
+    "companionRateup": 23035
+  },
+  "3055": {
+    "id": 3055,
+    "type": "weapon",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 23037,
+    "rerun": false,
+    "companionBannerId": 3056,
+    "companionRateup": 23032
+  },
+  "3056": {
+    "id": 3056,
+    "type": "weapon",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 23032,
+    "rerun": true,
+    "companionBannerId": 3055,
+    "companionRateup": 23037
+  },
+  "3057": {
+    "id": 3057,
+    "type": "weapon",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 23031,
+    "rerun": true,
+    "companionBannerId": 3056,
+    "companionRateup": 23032
+  },
+  "3058": {
+    "id": 3058,
+    "type": "weapon",
+    "day": 739265,
+    "date": "2025-01-14",
+    "rateup": 23028,
+    "rerun": true,
+    "companionBannerId": 3057,
+    "companionRateup": 23031
+  },
+  "3059": {
+    "id": 3059,
+    "type": "weapon",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 23036,
+    "rerun": false,
+    "companionBannerId": 3060,
+    "companionRateup": 23027
+  },
+  "3060": {
+    "id": 3060,
+    "type": "weapon",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 23027,
+    "rerun": true,
+    "companionBannerId": 3059,
+    "companionRateup": 23036
+  },
+  "3061": {
+    "id": 3061,
+    "type": "weapon",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 23026,
+    "rerun": true,
+    "companionBannerId": 3060,
+    "companionRateup": 23027
+  },
+  "3062": {
+    "id": 3062,
+    "type": "weapon",
+    "day": 739286,
+    "date": "2025-02-04",
+    "rateup": 23007,
+    "rerun": true,
+    "companionBannerId": 3061,
+    "companionRateup": 23026
+  },
+  "3063": {
+    "id": 3063,
+    "type": "weapon",
+    "day": 739307,
+    "date": "2025-02-25",
+    "rateup": 23038,
+    "rerun": false,
+    "companionBannerId": 3064,
+    "companionRateup": 23030
+  },
+  "3064": {
+    "id": 3064,
+    "type": "weapon",
+    "day": 739307,
+    "date": "2025-02-25",
+    "rateup": 23030,
+    "rerun": true,
+    "companionBannerId": 3063,
+    "companionRateup": 23038
+  },
+  "3065": {
+    "id": 3065,
+    "type": "weapon",
+    "day": 739328,
+    "date": "2025-03-18",
+    "rateup": 23039,
+    "rerun": false,
+    "companionBannerId": 3066,
+    "companionRateup": 23017
+  },
+  "3066": {
+    "id": 3066,
+    "type": "weapon",
+    "day": 739328,
+    "date": "2025-03-18",
+    "rateup": 23017,
+    "rerun": true,
+    "companionBannerId": 3065,
+    "companionRateup": 23039
+  },
+  "3067": {
+    "id": 3067,
+    "type": "weapon",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 23040,
+    "rerun": false,
+    "companionBannerId": 3068,
+    "companionRateup": 23035
+  },
+  "3068": {
+    "id": 3068,
+    "type": "weapon",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 23035,
+    "rerun": true,
+    "companionBannerId": 3067,
+    "companionRateup": 23040
+  },
+  "3069": {
+    "id": 3069,
+    "type": "weapon",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 23029,
+    "rerun": true,
+    "companionBannerId": 3068,
+    "companionRateup": 23035
+  },
+  "3070": {
+    "id": 3070,
+    "type": "weapon",
+    "day": 739349,
+    "date": "2025-04-08",
+    "rateup": 23024,
+    "rerun": true,
+    "companionBannerId": 3069,
+    "companionRateup": 23029
+  },
+  "3071": {
+    "id": 3071,
+    "type": "weapon",
+    "day": 739370,
+    "date": "2025-04-29",
+    "rateup": 23041,
+    "rerun": false,
+    "companionBannerId": 3072,
+    "companionRateup": 23020
+  },
+  "3072": {
+    "id": 3072,
+    "type": "weapon",
+    "day": 739370,
+    "date": "2025-04-29",
+    "rateup": 23020,
+    "rerun": true,
+    "companionBannerId": 3071,
+    "companionRateup": 23041
+  },
+  "3073": {
+    "id": 3073,
+    "type": "weapon",
+    "day": 739391,
+    "date": "2025-05-20",
+    "rateup": 23042,
+    "rerun": false,
+    "companionBannerId": 3074,
+    "companionRateup": 23037
+  },
+  "3074": {
+    "id": 3074,
+    "type": "weapon",
+    "day": 739391,
+    "date": "2025-05-20",
+    "rateup": 23037,
+    "rerun": true,
+    "companionBannerId": 3073,
+    "companionRateup": 23042
+  },
+  "3075": {
+    "id": 3075,
+    "type": "weapon",
+    "day": 739413,
+    "date": "2025-06-11",
+    "rateup": 23043,
+    "rerun": false,
+    "companionBannerId": 3076,
+    "companionRateup": 23036
+  },
+  "3076": {
+    "id": 3076,
+    "type": "weapon",
+    "day": 739413,
+    "date": "2025-06-11",
+    "rateup": 23036,
+    "rerun": true,
+    "companionBannerId": 3075,
+    "companionRateup": 23043
+  },
+  "3077": {
+    "id": 3077,
+    "type": "weapon",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 23044,
+    "rerun": false,
+    "companionBannerId": 3078,
+    "companionRateup": 23038
+  },
+  "3078": {
+    "id": 3078,
+    "type": "weapon",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 23038,
+    "rerun": true,
+    "companionBannerId": 3077,
+    "companionRateup": 23044
+  },
+  "3079": {
+    "id": 3079,
+    "type": "weapon",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 23034,
+    "rerun": true,
+    "companionBannerId": 3078,
+    "companionRateup": 23038
+  },
+  "3080": {
+    "id": 3080,
+    "type": "weapon",
+    "day": 739433,
+    "date": "2025-07-01",
+    "rateup": 23021,
+    "rerun": true,
+    "companionBannerId": 3079,
+    "companionRateup": 23034
+  },
+  "3081": {
+    "id": 3081,
+    "type": "weapon",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 23025,
+    "rerun": true,
+    "companionBannerId": 3082,
+    "companionRateup": 23014
+  },
+  "3082": {
+    "id": 3082,
+    "type": "weapon",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 23014,
+    "rerun": true,
+    "companionBannerId": 3081,
+    "companionRateup": 23025
+  },
+  "3083": {
+    "id": 3083,
+    "type": "weapon",
+    "day": 739454,
+    "date": "2025-07-22",
+    "rateup": 23009,
+    "rerun": true,
+    "companionBannerId": 3082,
+    "companionRateup": 23014
+  },
+  "3084": {
+    "id": 3084,
+    "type": "weapon",
+    "day": 739475,
+    "date": "2025-08-12",
+    "rateup": 23047,
+    "rerun": false,
+    "companionBannerId": 3085,
+    "companionRateup": 23006
+  },
+  "3085": {
+    "id": 3085,
+    "type": "weapon",
+    "day": 739475,
+    "date": "2025-08-12",
+    "rateup": 23006,
+    "rerun": true,
+    "companionBannerId": 3084,
+    "companionRateup": 23047
+  },
+  "3086": {
+    "id": 3086,
+    "type": "weapon",
+    "day": 739496,
+    "date": "2025-09-02",
+    "rateup": 23048,
+    "rerun": false,
+    "companionBannerId": 3087,
+    "companionRateup": 23007
+  },
+  "3087": {
+    "id": 3087,
+    "type": "weapon",
+    "day": 739496,
+    "date": "2025-09-02",
+    "rateup": 23007,
+    "rerun": true,
+    "companionBannerId": 3086,
+    "companionRateup": 23048
+  },
+  "3088": {
+    "id": 3088,
+    "type": "weapon",
+    "day": 739517,
+    "date": "2025-09-23",
+    "rateup": 23049,
+    "rerun": false,
+    "companionBannerId": 3089,
+    "companionRateup": 23037
+  },
+  "3089": {
+    "id": 3089,
+    "type": "weapon",
+    "day": 739517,
+    "date": "2025-09-23",
+    "rateup": 23037,
+    "rerun": true,
+    "companionBannerId": 3088,
+    "companionRateup": 23049
+  },
+  "3090": {
+    "id": 3090,
+    "type": "weapon",
+    "day": 739538,
+    "date": "2025-10-14",
+    "rateup": 23051,
+    "rerun": false,
+    "companionBannerId": 3091,
+    "companionRateup": 23041
+  },
+  "3091": {
+    "id": 3091,
+    "type": "weapon",
+    "day": 739538,
+    "date": "2025-10-14",
+    "rateup": 23041,
+    "rerun": true,
+    "companionBannerId": 3090,
+    "companionRateup": 23051
+  },
+  "3092": {
+    "id": 3092,
+    "type": "weapon",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 23052,
+    "rerun": false,
+    "companionBannerId": 3093,
+    "companionRateup": 23040
+  },
+  "3093": {
+    "id": 3093,
+    "type": "weapon",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 23040,
+    "rerun": true,
+    "companionBannerId": 3093,
+    "companionRateup": 23040
+  },
+  "3094": {
+    "id": 3094,
+    "type": "weapon",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 23042,
+    "rerun": true,
+    "companionBannerId": 3092,
+    "companionRateup": 23052
+  },
+  "3095": {
+    "id": 3095,
+    "type": "weapon",
+    "day": 739559,
+    "date": "2025-11-04",
+    "rateup": 23038,
+    "rerun": true,
+    "companionBannerId": 3094,
+    "companionRateup": 23042
+  },
+  "3096": {
+    "id": 3096,
+    "type": "weapon",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 23044,
+    "rerun": true,
+    "companionBannerId": 3097,
+    "companionRateup": 23043
+  },
+  "3097": {
+    "id": 3097,
+    "type": "weapon",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 23043,
+    "rerun": true,
+    "companionBannerId": 3096,
+    "companionRateup": 23044
+  },
+  "3098": {
+    "id": 3098,
+    "type": "weapon",
+    "day": 739580,
+    "date": "2025-11-25",
+    "rateup": 23039,
+    "rerun": true,
+    "companionBannerId": 3097,
+    "companionRateup": 23043
+  },
+  "3099": {
+    "id": 3099,
+    "type": "weapon",
+    "day": 739601,
+    "date": "2025-12-16",
+    "rateup": 23050,
+    "rerun": false,
+    "companionBannerId": 3100,
+    "companionRateup": 23025
+  },
+  "3100": {
+    "id": 3100,
+    "type": "weapon",
+    "day": 739601,
+    "date": "2025-12-16",
+    "rateup": 23025,
+    "rerun": true,
+    "companionBannerId": 3099,
+    "companionRateup": 23050
+  },
+  "3101": {
+    "id": 3101,
+    "type": "weapon",
+    "day": 739623,
+    "date": "2026-01-07",
+    "rateup": 23035,
+    "rerun": true,
+    "companionBannerId": 3102,
+    "companionRateup": 23032
+  },
+  "3102": {
+    "id": 3102,
+    "type": "weapon",
+    "day": 739623,
+    "date": "2026-01-07",
+    "rateup": 23032,
+    "rerun": true,
+    "companionBannerId": 3101,
+    "companionRateup": 23035
+  },
+  "3103": {
+    "id": 3103,
+    "type": "weapon",
+    "day": 739643,
+    "date": "2026-01-27",
+    "rateup": 23036,
+    "rerun": true,
+    "companionBannerId": 3104,
+    "companionRateup": 23034
+  },
+  "3104": {
+    "id": 3104,
+    "type": "weapon",
+    "day": 739643,
+    "date": "2026-01-27",
+    "rateup": 23034,
+    "rerun": true,
+    "companionBannerId": 3103,
+    "companionRateup": 23036
+  },
+  "3105": {
+    "id": 3105,
+    "type": "weapon",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 23054,
+    "rerun": false,
+    "companionBannerId": 3106,
+    "companionRateup": 23049
+  },
+  "3106": {
+    "id": 3106,
+    "type": "weapon",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 23049,
+    "rerun": true,
+    "companionBannerId": 3105,
+    "companionRateup": 23054
+  },
+  "3107": {
+    "id": 3107,
+    "type": "weapon",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 23047,
+    "rerun": true,
+    "companionBannerId": 3106,
+    "companionRateup": 23049
+  },
+  "3108": {
+    "id": 3108,
+    "type": "weapon",
+    "day": 739659,
+    "date": "2026-02-12",
+    "rateup": 23022,
+    "rerun": true,
+    "companionBannerId": 3107,
+    "companionRateup": 23047
+  },
+  "3109": {
+    "id": 3109,
+    "type": "weapon",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 23053,
+    "rerun": true,
+    "companionBannerId": 3110,
+    "companionRateup": 23048
+  },
+  "3110": {
+    "id": 3110,
+    "type": "weapon",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 23048,
+    "rerun": true,
+    "companionBannerId": 3109,
+    "companionRateup": 23053
+  },
+  "3111": {
+    "id": 3111,
+    "type": "weapon",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 23033,
+    "rerun": true,
+    "companionBannerId": 3110,
+    "companionRateup": 23048
+  },
+  "3112": {
+    "id": 3112,
+    "type": "weapon",
+    "day": 739677,
+    "date": "2026-03-02",
+    "rateup": 23021,
+    "rerun": true,
+    "companionBannerId": 3111,
+    "companionRateup": 23033
+  },
+  "3113": {
+    "id": 3113,
+    "type": "weapon",
+    "day": 739700,
+    "date": "2026-03-25",
+    "rateup": 23056,
+    "rerun": false,
+    "companionBannerId": 3114,
+    "companionRateup": 23042
+  },
+  "3114": {
+    "id": 3114,
+    "type": "weapon",
+    "day": 739700,
+    "date": "2026-03-25",
+    "rateup": 23042,
+    "rerun": true,
+    "companionBannerId": 3113,
+    "companionRateup": 23056
+  },
+  "3115": {
+    "id": 3115,
+    "type": "weapon",
+    "day": 739715,
+    "date": "2026-04-09",
+    "rateup": 23027,
+    "rerun": true,
+    "companionBannerId": 3113,
+    "companionRateup": 23056
+  },
+  "3116": {
+    "id": 3116,
+    "type": "weapon",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 23057,
+    "rerun": false,
+    "companionBannerId": 3117,
+    "companionRateup": 23050
+  },
+  "3117": {
+    "id": 3117,
+    "type": "weapon",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 23050,
+    "rerun": true,
+    "companionBannerId": 3116,
+    "companionRateup": 23057
+  },
+  "3118": {
+    "id": 3118,
+    "type": "weapon",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 23040,
+    "rerun": true,
+    "companionBannerId": 3117,
+    "companionRateup": 23050
+  },
+  "3119": {
+    "id": 3119,
+    "type": "weapon",
+    "day": 739727,
+    "date": "2026-04-21",
+    "rateup": 23025,
+    "rerun": true,
+    "companionBannerId": 3118,
+    "companionRateup": 23040
+  },
+  "3120": {
+    "id": 3120,
+    "type": "weapon",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 23058,
+    "rerun": false,
+    "companionBannerId": 3121,
+    "companionRateup": 23038
+  },
+  "3121": {
+    "id": 3121,
+    "type": "weapon",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 23038,
+    "rerun": true,
+    "companionBannerId": 3120,
+    "companionRateup": 23058
+  },
+  "3122": {
+    "id": 3122,
+    "type": "weapon",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 23034,
+    "rerun": true,
+    "companionBannerId": 3121,
+    "companionRateup": 23038
+  },
+  "3123": {
+    "id": 3123,
+    "type": "weapon",
+    "day": 739748,
+    "date": "2026-05-12",
+    "rateup": 23031,
+    "rerun": true,
+    "companionBannerId": 3122,
+    "companionRateup": 23034
+  },
+  "3124": {
+    "id": 3124,
+    "type": "weapon",
+    "day": 739767,
+    "date": "2026-05-31",
+    "rateup": 23059,
+    "rerun": false,
+    "companionBannerId": 3125,
+    "companionRateup": 23054
+  },
+  "3125": {
+    "id": 3125,
+    "type": "weapon",
+    "day": 739767,
+    "date": "2026-05-31",
+    "rateup": 23054,
+    "rerun": true,
+    "companionBannerId": 3124,
+    "companionRateup": 23059
+  },
+  "3126": {
+    "id": 3126,
+    "type": "weapon",
+    "day": 739791,
+    "date": "2026-06-24",
+    "rateup": 23052,
+    "rerun": true,
+    "companionBannerId": 3127,
+    "companionRateup": 23044
+  },
+  "3127": {
+    "id": 3127,
+    "type": "weapon",
+    "day": 739791,
+    "date": "2026-06-24",
+    "rateup": 23044,
+    "rerun": true,
+    "companionBannerId": 3126,
+    "companionRateup": 23052
+  },
+  "3128": {
+    "id": 3128,
+    "type": "weapon",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 23060,
+    "rerun": false,
+    "companionBannerId": 3129,
+    "companionRateup": 23053
+  },
+  "3129": {
+    "id": 3129,
+    "type": "weapon",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 23053,
+    "rerun": true,
+    "companionBannerId": 3128,
+    "companionRateup": 23060
+  },
+  "3130": {
+    "id": 3130,
+    "type": "weapon",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 23051,
+    "rerun": true,
+    "companionBannerId": 3129,
+    "companionRateup": 23053
+  },
+  "3131": {
+    "id": 3131,
+    "type": "weapon",
+    "day": 739811,
+    "date": "2026-07-14",
+    "rateup": 23049,
+    "rerun": true,
+    "companionBannerId": 3130,
+    "companionRateup": 23051
+  }
+}
