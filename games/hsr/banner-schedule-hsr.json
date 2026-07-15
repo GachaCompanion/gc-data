@@ -1790,6 +1790,30 @@
   {
     "type": "character",
     "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "Saber",
+    "featured": [
+      "Saber"
+    ],
+    "featuredId": 1014,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "Archer",
+    "featured": [
+      "Archer"
+    ],
+    "featuredId": 1015,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.4",
     "start": "2025-07-02 10:00:00",
     "end": "2025-07-23 18:59:00",
     "name": "Sparkle",
@@ -3099,7 +3123,7 @@
     "type": "character",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
-    "end": "1970-01-01 22:00:00",
+    "end": "2099-12-31 22:00:00",
     "name": "Rin Tohsaka",
     "featured": [
       "Rin Tohsaka"
@@ -3111,7 +3135,7 @@
     "type": "character",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
-    "end": "1970-01-01 22:00:00",
+    "end": "2099-12-31 22:00:00",
     "name": "Gilgamesh",
     "featured": [
       "Gilgamesh"
@@ -3123,7 +3147,7 @@
     "type": "weapon",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
-    "end": "1970-01-01 22:00:00",
+    "end": "2099-12-31 22:00:00",
     "name": "Flickering Stars",
     "featured": [
       "Flickering Stars"
@@ -3135,7 +3159,7 @@
     "type": "weapon",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
-    "end": "1970-01-01 22:00:00",
+    "end": "2099-12-31 22:00:00",
     "name": "I Am As You Behold",
     "featured": [
       "I Am As You Behold"
