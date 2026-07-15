@@ -9,8 +9,8 @@ const UID    = process.env.GENSHIN_UID;
 const SERVER = process.env.GENSHIN_SERVER;
 
 const SALT          = 'xV8v4Qu54lUKrEYFZkJhB8cuOh9Asafs';
-const SCHEDULE_PATH = path.join(__dirname, '..', '..', 'genshin', 'banner-schedule-genshin.json');
-const IMAGES_DIR    = path.join(__dirname, '..', '..', 'genshin', 'images');
+const SCHEDULE_PATH = path.join(__dirname, '..', '..', 'games', 'genshin', 'banner-schedule-genshin.json');
+const IMAGES_DIR    = path.join(__dirname, '..', '..', 'games', 'genshin', 'images');
 
 // Phase start times (UTC+8) — used to backfill missing phase fields on existing entries.
 // Chronicled banners have irregular timing and are skipped (handled manually).

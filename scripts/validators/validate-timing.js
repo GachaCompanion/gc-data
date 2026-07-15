@@ -6,10 +6,10 @@ const logsDir = path.join(root, 'logs');
 const rulesPath = path.join(__dirname, 'banner-timing-rules.json');
 
 const scheduleFiles = {
-  genshin: path.join(root, 'genshin', 'banner-schedule-genshin.json'),
-  hsr:     path.join(root, 'hsr',     'banner-schedule-hsr.json'),
-  zzz:     path.join(root, 'zzz',     'banner-schedule-zzz.json'),
-  wuwa:    path.join(root, 'wuwa',    'banner-schedule-wuwa.json'),
+  genshin: path.join(root, 'games', 'genshin', 'banner-schedule-genshin.json'),
+  hsr:     path.join(root, 'games', 'hsr',     'banner-schedule-hsr.json'),
+  zzz:     path.join(root, 'games', 'zzz',     'banner-schedule-zzz.json'),
+  wuwa:    path.join(root, 'games', 'wuwa',    'banner-schedule-wuwa.json'),
 };
 
 const rules = JSON.parse(fs.readFileSync(rulesPath, 'utf8'));

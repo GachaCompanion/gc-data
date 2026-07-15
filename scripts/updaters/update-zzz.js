@@ -9,8 +9,8 @@ const UID    = process.env.ZZZ_UID;
 const REGION = process.env.ZZZ_SERVER;
 
 const SALT          = '6s25p5ox5y14umn1p61aqyyvbvvl3lrt';
-const SCHEDULE_PATH = path.join(__dirname, '..', '..', 'zzz', 'banner-schedule-zzz.json');
-const IMAGES_DIR    = path.join(__dirname, '..', '..', 'zzz', 'images');
+const SCHEDULE_PATH = path.join(__dirname, '..', '..', 'games', 'zzz', 'banner-schedule-zzz.json');
+const IMAGES_DIR    = path.join(__dirname, '..', '..', 'games', 'zzz', 'images');
 
 // Phase start times (UTC+8) — used to backfill missing phase fields on existing entries.
 const PHASE_BY_START = { '10:00:00': 1, '19:00:00': 2 };
