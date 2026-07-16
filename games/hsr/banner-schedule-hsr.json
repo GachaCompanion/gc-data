@@ -3144,7 +3144,7 @@
     "phase": 2
   },
   {
-    "type": "weapon",
+    "type": "weaponCollab",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
     "end": "2099-12-31 22:00:00",
@@ -3156,7 +3156,7 @@
     "phase": 2
   },
   {
-    "type": "weapon",
+    "type": "weaponCollab",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
     "end": "2099-12-31 22:00:00",
@@ -3238,5 +3238,29 @@
     ],
     "featuredId": 23023,
     "phase": 3
+  },
+  {
+    "type": "weaponCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "A Thankless Coronation",
+    "featured": [
+      "A Thankless Coronation"
+    ],
+    "featuredId": 23045,
+    "phase": 1
+  },
+  {
+    "type": "weaponCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "The Hell Where Ideals Burn",
+    "featured": [
+      "The Hell Where Ideals Burn"
+    ],
+    "featuredId": 23046,
+    "phase": 1
   }
 ]
