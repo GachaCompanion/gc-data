@@ -1788,7 +1788,7 @@
     "phase": 1
   },
   {
-    "type": "character",
+    "type": "charCollab",
     "version": "3.4",
     "start": "2025-07-11 10:00:00",
     "end": "2099-12-31 22:00:00",
@@ -1800,7 +1800,7 @@
     "phase": 1
   },
   {
-    "type": "character",
+    "type": "charCollab",
     "version": "3.4",
     "start": "2025-07-11 10:00:00",
     "end": "2099-12-31 22:00:00",
@@ -3120,7 +3120,7 @@
     "phase": 1
   },
   {
-    "type": "character",
+    "type": "charCollab",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
     "end": "2099-12-31 22:00:00",
@@ -3132,7 +3132,7 @@
     "phase": 2
   },
   {
-    "type": "character",
+    "type": "charCollab",
     "version": "4.4",
     "start": "2026-07-24 19:00:00",
     "end": "2099-12-31 22:00:00",
