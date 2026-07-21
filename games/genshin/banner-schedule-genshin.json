@@ -4630,5 +4630,53 @@
     ],
     "featuredId": 14517,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "6.7",
+    "start": "2026-07-22 01:00:00",
+    "end": "2026-08-11 21:59:59",
+    "name": "Columbina",
+    "featured": [
+      "Columbina"
+    ],
+    "featuredId": 10000125,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "6.7",
+    "start": "2026-07-22 01:00:00",
+    "end": "2026-08-11 21:59:59",
+    "name": "Raiden Shogun",
+    "featured": [
+      "Raiden Shogun"
+    ],
+    "featuredId": 10000052,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "6.7",
+    "start": "2026-07-22 01:00:00",
+    "end": "2026-08-11 21:59:59",
+    "name": "Nocturne's Curtain Call",
+    "featured": [
+      "Nocturne's Curtain Call"
+    ],
+    "featuredId": 14522,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "6.7",
+    "start": "2026-07-22 01:00:00",
+    "end": "2026-08-11 21:59:59",
+    "name": "Engulfing Lightning",
+    "featured": [
+      "Engulfing Lightning"
+    ],
+    "featuredId": 13509,
+    "phase": 2
   }
 ]
