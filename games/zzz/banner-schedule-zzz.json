@@ -1510,5 +1510,53 @@
     ],
     "featuredId": 14149,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-07-29 10:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Remielle",
+    "featured": [
+      "Remielle"
+    ],
+    "featuredId": 1581,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-07-29 10:00:00",
+    "end": "2026-08-19 18:59:59",
+    "name": "Aria",
+    "featured": [
+      "Aria"
+    ],
+    "featuredId": 1501,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-07-29 10:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 14158,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-07-29 10:00:00",
+    "end": "2026-08-19 18:59:59",
+    "name": "Energetic Strike",
+    "featured": [
+      "Energetic Strike"
+    ],
+    "featuredId": 14150,
+    "phase": 1
   }
 ]

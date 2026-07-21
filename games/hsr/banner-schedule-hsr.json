@@ -1788,30 +1788,6 @@
     "phase": 1
   },
   {
-    "type": "charCollab",
-    "version": "3.4",
-    "start": "2025-07-11 10:00:00",
-    "end": "2099-12-31 22:00:00",
-    "name": "Saber",
-    "featured": [
-      "Saber"
-    ],
-    "featuredId": 1014,
-    "phase": 1
-  },
-  {
-    "type": "charCollab",
-    "version": "3.4",
-    "start": "2025-07-11 10:00:00",
-    "end": "2099-12-31 22:00:00",
-    "name": "Archer",
-    "featured": [
-      "Archer"
-    ],
-    "featuredId": 1015,
-    "phase": 1
-  },
-  {
     "type": "character",
     "version": "3.4",
     "start": "2025-07-02 10:00:00",
@@ -1893,6 +1869,54 @@
       "Thus Burns the Dawn"
     ],
     "featuredId": 23044,
+    "phase": 1
+  },
+  {
+    "type": "charCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "Saber",
+    "featured": [
+      "Saber"
+    ],
+    "featuredId": 1014,
+    "phase": 1
+  },
+  {
+    "type": "charCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "Archer",
+    "featured": [
+      "Archer"
+    ],
+    "featuredId": 1015,
+    "phase": 1
+  },
+  {
+    "type": "weaponCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "A Thankless Coronation",
+    "featured": [
+      "A Thankless Coronation"
+    ],
+    "featuredId": 23045,
+    "phase": 1
+  },
+  {
+    "type": "weaponCollab",
+    "version": "3.4",
+    "start": "2025-07-11 10:00:00",
+    "end": "2099-12-31 22:00:00",
+    "name": "The Hell Where Ideals Burn",
+    "featured": [
+      "The Hell Where Ideals Burn"
+    ],
+    "featuredId": 23046,
     "phase": 1
   },
   {
@@ -3238,29 +3262,5 @@
     ],
     "featuredId": 23023,
     "phase": 3
-  },
-  {
-    "type": "weaponCollab",
-    "version": "3.4",
-    "start": "2025-07-11 10:00:00",
-    "end": "2099-12-31 22:00:00",
-    "name": "A Thankless Coronation",
-    "featured": [
-      "A Thankless Coronation"
-    ],
-    "featuredId": 23045,
-    "phase": 1
-  },
-  {
-    "type": "weaponCollab",
-    "version": "3.4",
-    "start": "2025-07-11 10:00:00",
-    "end": "2099-12-31 22:00:00",
-    "name": "The Hell Where Ideals Burn",
-    "featured": [
-      "The Hell Where Ideals Burn"
-    ],
-    "featuredId": 23046,
-    "phase": 1
   }
 ]
