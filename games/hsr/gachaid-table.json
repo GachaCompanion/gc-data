@@ -599,17 +599,17 @@
     "version": "3.8",
     "phase": 2
   },
-  "character:1402:3.8:2": {
+  "character:1402:3.8:3": {
     "gachaId": 2103,
     "bannerName": "Aglaea",
     "version": "3.8",
-    "phase": 2
+    "phase": 3
   },
-  "character:1313:3.8:2": {
+  "character:1313:3.8:3": {
     "gachaId": 2104,
     "bannerName": "Sunday",
     "version": "3.8",
-    "phase": 2
+    "phase": 3
   },
   "character:1502:4.0:1": {
     "gachaId": 2105,
@@ -1373,17 +1373,17 @@
     "version": "3.8",
     "phase": 2
   },
-  "weapon:23036:3.8:2": {
+  "weapon:23036:3.8:3": {
     "gachaId": 3103,
     "bannerName": "Time Woven Into Gold",
     "version": "3.8",
-    "phase": 2
+    "phase": 3
   },
-  "weapon:23034:3.8:2": {
+  "weapon:23034:3.8:3": {
     "gachaId": 3104,
     "bannerName": "A Grounded Ascent",
     "version": "3.8",
-    "phase": 2
+    "phase": 3
   },
   "weapon:23054:4.0:1": {
     "gachaId": 3105,
