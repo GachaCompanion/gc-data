@@ -1,0 +1,32 @@
+name: Fill Missing Images (nanoka.cc)
+
+on:
+  schedule:
+    - cron: '0 4 * * 2'   # Tuesday 06:00 GMT+2
+    - cron: '0 18 * * 2'  # Tuesday 20:00 GMT+2
+    - cron: '0 4 * * 3'   # Wednesday 06:00 GMT+2
+    - cron: '0 18 * * 3'  # Wednesday 20:00 GMT+2
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fill missing images from nanoka.cc
+        run: node scripts/updaters/update-nanoka-images.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games/genshin/images games/hsr/images games/zzz/images games/wuwa/images games/nte/images
+          git diff --staged --quiet || git commit -m "nanoka: fill missing character/weapon images $(date -u +%Y-%m-%d)"
+          git push
