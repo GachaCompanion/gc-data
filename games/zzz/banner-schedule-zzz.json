@@ -1540,9 +1540,9 @@
     "version": "3.1",
     "start": "2026-07-29 10:00:00",
     "end": "2026-09-08 18:59:59",
-    "name": "",
+    "name": "Paradise Lost",
     "featured": [
-      ""
+      "Paradise Lost"
     ],
     "featuredId": 14158,
     "phase": 1
@@ -1558,5 +1558,101 @@
     ],
     "featuredId": 14150,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 1591,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Dialyn",
+    "featured": [
+      "Dialyn"
+    ],
+    "featuredId": 1481,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Yuzuha",
+    "featured": [
+      "Yuzuha"
+    ],
+    "featuredId": 1411,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Harumasa",
+    "featured": [
+      "Harumasa"
+    ],
+    "featuredId": 1201,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 14159,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "24/7",
+    "featured": [
+      "24/7"
+    ],
+    "featuredId": 14148,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Exquisitely Ingenious",
+    "featured": [
+      "Exquisitely Ingenious"
+    ],
+    "featuredId": 14141,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.1",
+    "start": "2026-08-19 19:00:00",
+    "end": "2026-09-08 21:59:59",
+    "name": "Growth Through Adversity",
+    "featured": [
+      "Growth Through Adversity"
+    ],
+    "featuredId": 14120,
+    "phase": 2
   }
 ]
