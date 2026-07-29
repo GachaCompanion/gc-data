@@ -118,5 +118,25 @@
     ],
     "featuredId": "fork_LunarPhase",
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "1.2",
+    "start": "2026-07-29 06:00:00",
+    "end": "2026-08-19 05:59:00",
+    "name": null,
+    "featured": [],
+    "featuredId": null,
+    "phase": 2
+  },
+  {
+    "type": "arc",
+    "version": "1.2",
+    "start": "2026-07-29 06:00:00",
+    "end": "2026-08-19 05:59:00",
+    "name": null,
+    "featured": [],
+    "featuredId": null,
+    "phase": 2
   }
 ]
