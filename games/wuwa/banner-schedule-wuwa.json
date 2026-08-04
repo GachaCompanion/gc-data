@@ -1942,5 +1942,53 @@
     ],
     "featuredId": 21030046,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2026-07-30 10:00:00",
+    "end": "2026-08-19 11:59:00",
+    "name": "Suisui",
+    "featured": [
+      "Suisui"
+    ],
+    "featuredId": 1110,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.5",
+    "start": "2026-07-30 10:00:00",
+    "end": "2026-08-19 11:59:00",
+    "name": "Aemeath",
+    "featured": [
+      "Aemeath"
+    ],
+    "featuredId": 1210,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2026-07-30 10:00:00",
+    "end": "2026-08-19 11:59:00",
+    "name": "Firstlight's Herald",
+    "featured": [
+      "Firstlight's Herald"
+    ],
+    "featuredId": 21050096,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.5",
+    "start": "2026-07-30 10:00:00",
+    "end": "2026-08-19 11:59:00",
+    "name": "Daybreaker's Spine",
+    "featured": [
+      "Daybreaker's Spine"
+    ],
+    "featuredId": 21040056,
+    "phase": 2
   }
 ]
