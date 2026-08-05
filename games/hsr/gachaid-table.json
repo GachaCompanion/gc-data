@@ -773,6 +773,24 @@
     "version": "4.4",
     "phase": 1
   },
+  "character:1405:4.4:3": {
+    "gachaId": 2132,
+    "bannerName": "Anaxa",
+    "version": "4.4",
+    "phase": 3
+  },
+  "character:1412:4.4:3": {
+    "gachaId": 2133,
+    "bannerName": "Cerydra",
+    "version": "4.4",
+    "phase": 3
+  },
+  "character:1304:4.4:3": {
+    "gachaId": 2134,
+    "bannerName": "Aventurine",
+    "version": "4.4",
+    "phase": 3
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1546,5 +1564,23 @@
     "bannerName": "To Evernight's Stars",
     "version": "4.4",
     "phase": 1
+  },
+  "weapon:23041:4.4:3": {
+    "gachaId": 3132,
+    "bannerName": "Life Should Be Cast to Flames",
+    "version": "4.4",
+    "phase": 3
+  },
+  "weapon:23048:4.4:3": {
+    "gachaId": 3133,
+    "bannerName": "Epoch Etched in Golden Blood",
+    "version": "4.4",
+    "phase": 3
+  },
+  "weapon:23023:4.4:3": {
+    "gachaId": 3134,
+    "bannerName": "Inherently Unjust Destiny",
+    "version": "4.4",
+    "phase": 3
   }
 }
