@@ -4678,5 +4678,53 @@
     ],
     "featuredId": 13509,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "7.0",
+    "start": "2026-08-12 07:00:00",
+    "end": "2026-09-02 00:59:00",
+    "name": "Odette",
+    "featured": [
+      "Odette"
+    ],
+    "featuredId": 10000150,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "7.0",
+    "start": "2026-08-12 07:00:00",
+    "end": "2026-09-02 00:59:00",
+    "name": "Arlecchino",
+    "featured": [
+      "Arlecchino"
+    ],
+    "featuredId": 10000096,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "7.0",
+    "start": "2026-08-12 07:00:00",
+    "end": "2026-09-02 00:59:00",
+    "name": "Whitelake Frostfeather",
+    "featured": [
+      "Whitelake Frostfeather"
+    ],
+    "featuredId": 11520,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "7.0",
+    "start": "2026-08-12 07:00:00",
+    "end": "2026-09-02 00:59:00",
+    "name": "Crimson Moon's Semblance",
+    "featured": [
+      "Crimson Moon's Semblance"
+    ],
+    "featuredId": 13512,
+    "phase": 1
   }
 ]
