@@ -3262,5 +3262,101 @@
     ],
     "featuredId": 23023,
     "phase": 3
+  },
+  {
+    "type": "character",
+    "version": "4.5",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 18:59:00",
+    "name": "Robin • Summeretto",
+    "featured": [
+      "Robin • Summeretto"
+    ],
+    "featuredId": 1512,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.5",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 18:59:00",
+    "name": "Hyacine",
+    "featured": [
+      "Hyacine"
+    ],
+    "featuredId": 1409,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.5",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 18:59:00",
+    "name": "Rise and Sing",
+    "featured": [
+      "Rise and Sing"
+    ],
+    "featuredId": 23063,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.5",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 18:59:00",
+    "name": "Long May Rainbows Adorn the Sky",
+    "featured": [
+      "Long May Rainbows Adorn the Sky"
+    ],
+    "featuredId": 23042,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.5",
+    "start": "2026-09-12 19:00:00",
+    "end": "2026-09-28 03:59:00",
+    "name": "Aventurine • Waveflair",
+    "featured": [
+      "Aventurine • Waveflair"
+    ],
+    "featuredId": 1513,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.5",
+    "start": "2026-09-12 19:00:00",
+    "end": "2026-09-28 03:59:00",
+    "name": "Ashveil",
+    "featured": [
+      "Ashveil"
+    ],
+    "featuredId": 1504,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.5",
+    "start": "2026-09-12 19:00:00",
+    "end": "2026-09-28 03:59:00",
+    "name": "Summer Rides the Surf",
+    "featured": [
+      "Summer Rides the Surf"
+    ],
+    "featuredId": 23064,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.5",
+    "start": "2026-09-12 19:00:00",
+    "end": "2026-09-28 03:59:00",
+    "name": "The Finale of a Lie",
+    "featured": [
+      "The Finale of a Lie"
+    ],
+    "featuredId": 23056,
+    "phase": 2
   }
 ]
