@@ -1990,5 +1990,41 @@
     ],
     "featuredId": 21040056,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.6+365",
+    "start": "2026-08-20 11:00:00",
+    "end": "2026-09-10 09:59:00",
+    "name": "Qingxiao",
+    "featured": [
+      "Qingxiao"
+    ],
+    "featuredId": 1413,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6+365",
+    "start": "2026-08-20 11:00:00",
+    "end": "2026-09-10 09:59:00",
+    "name": "Denia",
+    "featured": [
+      "Denia"
+    ],
+    "featuredId": 1211,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6+365",
+    "start": "2026-08-20 11:00:00",
+    "end": "2026-09-10 09:59:00",
+    "name": "Forged Dwarf Star",
+    "featured": [
+      "Forged Dwarf Star"
+    ],
+    "featuredId": 21050076,
+    "phase": 1
   }
 ]
