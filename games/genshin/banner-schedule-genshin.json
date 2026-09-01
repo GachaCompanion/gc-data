@@ -4726,5 +4726,53 @@
     ],
     "featuredId": 13512,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "7.0",
+    "start": "2026-09-02 01:00:00",
+    "end": "2026-09-22 21:59:59",
+    "name": "Flins",
+    "featured": [
+      "Flins"
+    ],
+    "featuredId": 10000120,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "7.0",
+    "start": "2026-09-02 01:00:00",
+    "end": "2026-09-22 21:59:59",
+    "name": "Ineffa",
+    "featured": [
+      "Ineffa"
+    ],
+    "featuredId": 10000116,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.0",
+    "start": "2026-09-02 01:00:00",
+    "end": "2026-09-22 21:59:59",
+    "name": "Bloodsoaked Ruins",
+    "featured": [
+      "Bloodsoaked Ruins"
+    ],
+    "featuredId": 13516,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.0",
+    "start": "2026-09-02 01:00:00",
+    "end": "2026-09-22 21:59:59",
+    "name": "Fractured Halo",
+    "featured": [
+      "Fractured Halo"
+    ],
+    "featuredId": 13515,
+    "phase": 2
   }
 ]
