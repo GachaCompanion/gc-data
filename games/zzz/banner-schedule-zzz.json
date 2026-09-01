@@ -1654,5 +1654,53 @@
     ],
     "featuredId": 14120,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 18:59:59",
+    "name": "Claret",
+    "featured": [
+      "Claret"
+    ],
+    "featuredId": 1611,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 18:59:59",
+    "name": "Nangong Yu",
+    "featured": [
+      "Nangong Yu"
+    ],
+    "featuredId": 1511,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 18:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 14161,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 18:59:59",
+    "name": "Disco Demon",
+    "featured": [
+      "Disco Demon"
+    ],
+    "featuredId": 14151,
+    "phase": 1
   }
 ]
