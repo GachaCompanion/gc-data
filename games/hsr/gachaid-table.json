@@ -791,6 +791,18 @@
     "version": "4.4",
     "phase": 3
   },
+  "character:1512:4.5:1": {
+    "gachaId": 2135,
+    "bannerName": "Robin • Summeretto",
+    "version": "4.5",
+    "phase": 1
+  },
+  "character:1409:4.5:1": {
+    "gachaId": 2136,
+    "bannerName": "Hyacine",
+    "version": "4.5",
+    "phase": 1
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1582,5 +1594,17 @@
     "bannerName": "Inherently Unjust Destiny",
     "version": "4.4",
     "phase": 3
+  },
+  "weapon:23063:4.5:1": {
+    "gachaId": 3135,
+    "bannerName": "Rise and Sing",
+    "version": "4.5",
+    "phase": 1
+  },
+  "weapon:23042:4.5:1": {
+    "gachaId": 3136,
+    "bannerName": "Long May Rainbows Adorn the Sky",
+    "version": "4.5",
+    "phase": 1
   }
 }
