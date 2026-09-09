@@ -1684,9 +1684,9 @@
     "version": "3.2",
     "start": "2026-09-09 10:00:00",
     "end": "2026-09-30 18:59:59",
-    "name": "",
+    "name": "Bloodthirst",
     "featured": [
-      ""
+      "Bloodthirst"
     ],
     "featuredId": 14161,
     "phase": 1
@@ -1702,5 +1702,53 @@
     ],
     "featuredId": 14151,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-09-30 19:00:00",
+    "end": "2026-10-20 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 1621,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.2",
+    "start": "2026-09-30 19:00:00",
+    "end": "2026-10-20 21:59:59",
+    "name": "Promeia",
+    "featured": [
+      "Promeia"
+    ],
+    "featuredId": 1541,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-09-30 19:00:00",
+    "end": "2026-10-20 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 14162,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.2",
+    "start": "2026-09-30 19:00:00",
+    "end": "2026-10-20 21:59:59",
+    "name": "Terminating Verdict",
+    "featured": [
+      "Terminating Verdict"
+    ],
+    "featuredId": 14154,
+    "phase": 2
   }
 ]
