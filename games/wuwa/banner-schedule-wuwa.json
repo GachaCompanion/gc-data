@@ -2042,8 +2042,8 @@
   {
     "type": "character",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": " 景燃",
     "featured": [
       " 景燃"
@@ -2055,8 +2055,8 @@
   {
     "type": "character",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": "Hiyuki",
     "featured": [
       "Hiyuki"
@@ -2067,8 +2067,8 @@
   {
     "type": "character",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": "Mortefi",
     "featured": [
       "Mortefi"
@@ -2079,8 +2079,8 @@
   {
     "type": "weapon",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": "Thousandfold Deliverance",
     "featured": [
       "Thousandfold Deliverance"
@@ -2091,8 +2091,8 @@
   {
     "type": "weapon",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": "Frostburn",
     "featured": [
       "Frostburn"
@@ -2103,8 +2103,8 @@
   {
     "type": "weapon",
     "version": "3.6",
-    "start": "2026-09-10 10:00:00",
-    "end": "2026-09-29 11:59:00",
+    "start": "2026-09-10 11:00:00",
+    "end": "2026-09-29 09:59:00",
     "name": "Starfield Calibrator",
     "featured": [
       "Starfield Calibrator"
