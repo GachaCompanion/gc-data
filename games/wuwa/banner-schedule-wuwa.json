@@ -2038,5 +2038,78 @@
     ],
     "featuredId": 21020106,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": " 景燃",
+    "featured": [
+      " 景燃"
+    ],
+    "featuredId": null,
+    "unresolved": true,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": "Hiyuki",
+    "featured": [
+      "Hiyuki"
+    ],
+    "featuredId": 1108,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": "Mortefi",
+    "featured": [
+      "Mortefi"
+    ],
+    "featuredId": 1204,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": "Thousandfold Deliverance",
+    "featured": [
+      "Thousandfold Deliverance"
+    ],
+    "featuredId": 21010076,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": "Frostburn",
+    "featured": [
+      "Frostburn"
+    ],
+    "featuredId": 21020086,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.6",
+    "start": "2026-09-10 10:00:00",
+    "end": "2026-09-29 11:59:00",
+    "name": "Starfield Calibrator",
+    "featured": [
+      "Starfield Calibrator"
+    ],
+    "featuredId": 21010066,
+    "phase": 1
   }
 ]
