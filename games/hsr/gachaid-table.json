@@ -803,6 +803,18 @@
     "version": "4.5",
     "phase": 1
   },
+  "character:1513:4.5:2": {
+    "gachaId": 2137,
+    "bannerName": "Aventurine • Waveflair",
+    "version": "4.5",
+    "phase": 2
+  },
+  "character:1504:4.5:2": {
+    "gachaId": 2138,
+    "bannerName": "Ashveil",
+    "version": "4.5",
+    "phase": 2
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1606,5 +1618,17 @@
     "bannerName": "Long May Rainbows Adorn the Sky",
     "version": "4.5",
     "phase": 1
+  },
+  "weapon:23064:4.5:2": {
+    "gachaId": 3137,
+    "bannerName": "Summer Rides the Surf",
+    "version": "4.5",
+    "phase": 2
+  },
+  "weapon:23056:4.5:2": {
+    "gachaId": 3138,
+    "bannerName": "The Finale of a Lie",
+    "version": "4.5",
+    "phase": 2
   }
 }
