@@ -4774,5 +4774,53 @@
     ],
     "featuredId": 13515,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "7.1",
+    "start": "2026-09-23 07:00:00",
+    "end": "2026-10-14 00:59:00",
+    "name": "Vesna",
+    "featured": [
+      "Vesna"
+    ],
+    "featuredId": 10000143,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "7.1",
+    "start": "2026-09-23 07:00:00",
+    "end": "2026-10-14 00:59:00",
+    "name": "Vodyanitsa",
+    "featured": [
+      "Vodyanitsa"
+    ],
+    "featuredId": 10000140,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "7.1",
+    "start": "2026-09-23 07:00:00",
+    "end": "2026-10-14 00:59:00",
+    "name": "Beyond the Chrysalis",
+    "featured": [
+      "Beyond the Chrysalis"
+    ],
+    "featuredId": 11522,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "7.1",
+    "start": "2026-09-23 07:00:00",
+    "end": "2026-10-14 00:59:00",
+    "name": "Hymn of the Maelstrom",
+    "featured": [
+      "Hymn of the Maelstrom"
+    ],
+    "featuredId": 14524,
+    "phase": 1
   }
 ]
