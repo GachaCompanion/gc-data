@@ -2123,5 +2123,77 @@
     ],
     "featuredId": 21010066,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Hsin",
+    "featured": [
+      "Hsin"
+    ],
+    "featuredId": 1311,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Chisa",
+    "featured": [
+      "Chisa"
+    ],
+    "featuredId": 1508,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Iuno",
+    "featured": [
+      "Iuno"
+    ],
+    "featuredId": 1410,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Thousandfold Deliverance",
+    "featured": [
+      "Thousandfold Deliverance"
+    ],
+    "featuredId": 21010076,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Kumokiri",
+    "featured": [
+      "Kumokiri"
+    ],
+    "featuredId": 21010056,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-09-30 11:00:00",
+    "end": "2026-10-22 09:59:00",
+    "name": "Moongazer's Sigil",
+    "featured": [
+      "Moongazer's Sigil"
+    ],
+    "featuredId": 21040046,
+    "phase": 1
   }
 ]
