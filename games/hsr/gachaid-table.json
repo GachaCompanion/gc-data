@@ -815,6 +815,18 @@
     "version": "4.5",
     "phase": 2
   },
+  "character:1503:4.6:1": {
+    "gachaId": 2139,
+    "bannerName": "Pearl",
+    "version": "4.6",
+    "phase": 1
+  },
+  "character:1505:4.6:1": {
+    "gachaId": 2140,
+    "bannerName": "Evanescia",
+    "version": "4.6",
+    "phase": 1
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1630,5 +1642,17 @@
     "bannerName": "The Finale of a Lie",
     "version": "4.5",
     "phase": 2
+  },
+  "weapon:23055:4.6:1": {
+    "gachaId": 3139,
+    "bannerName": "Colors for Tomorrow",
+    "version": "4.6",
+    "phase": 1
+  },
+  "weapon:23058:4.6:1": {
+    "gachaId": 3140,
+    "bannerName": "Until the Flowers Bloom Again",
+    "version": "4.6",
+    "phase": 1
   }
 }
