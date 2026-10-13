@@ -1754,7 +1754,7 @@
   {
     "type": "character",
     "version": "3.3",
-    "start": "2026-10-21 09:00:00",
+    "start": "2026-10-21 10:00:00",
     "end": "2026-11-11 18:59:59",
     "name": "Phoenix",
     "featured": [
@@ -1766,7 +1766,7 @@
   {
     "type": "character",
     "version": "3.3",
-    "start": "2026-10-21 09:00:00",
+    "start": "2026-10-21 10:00:00",
     "end": "2026-11-11 18:59:59",
     "name": "Velina",
     "featured": [
@@ -1778,7 +1778,7 @@
   {
     "type": "weapon",
     "version": "3.3",
-    "start": "2026-10-21 09:00:00",
+    "start": "2026-10-21 10:00:00",
     "end": "2026-11-11 18:59:59",
     "name": "",
     "featured": [
@@ -1790,7 +1790,7 @@
   {
     "type": "weapon",
     "version": "3.3",
-    "start": "2026-10-21 09:00:00",
+    "start": "2026-10-21 10:00:00",
     "end": "2026-11-11 18:59:59",
     "name": "Flawless Etiquette",
     "featured": [
