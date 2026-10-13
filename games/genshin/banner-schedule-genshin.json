@@ -4822,5 +4822,53 @@
     ],
     "featuredId": 14524,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "7.1",
+    "start": "2026-10-14 01:00:00",
+    "end": "2026-11-03 21:59:59",
+    "name": "Skirk",
+    "featured": [
+      "Skirk"
+    ],
+    "featuredId": 10000114,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "7.1",
+    "start": "2026-10-14 01:00:00",
+    "end": "2026-11-03 21:59:59",
+    "name": "Escoffier",
+    "featured": [
+      "Escoffier"
+    ],
+    "featuredId": 10000112,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.1",
+    "start": "2026-10-14 01:00:00",
+    "end": "2026-11-03 21:59:59",
+    "name": "Azurelight",
+    "featured": [
+      "Azurelight"
+    ],
+    "featuredId": 11517,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.1",
+    "start": "2026-10-14 01:00:00",
+    "end": "2026-11-03 21:59:59",
+    "name": "Symphonist of Scents",
+    "featured": [
+      "Symphonist of Scents"
+    ],
+    "featuredId": 13514,
+    "phase": 2
   }
 ]
