@@ -1780,9 +1780,9 @@
     "version": "3.3",
     "start": "2026-10-21 10:00:00",
     "end": "2026-11-11 18:59:59",
-    "name": "",
+    "name": "Hatching Day",
     "featured": [
-      ""
+      "Hatching Day"
     ],
     "featuredId": 14164,
     "phase": 1
@@ -1798,5 +1798,53 @@
     ],
     "featuredId": 14156,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-11-11 19:00:00",
+    "end": "2026-12-01 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 1631,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.3",
+    "start": "2026-11-11 19:00:00",
+    "end": "2026-12-01 21:59:59",
+    "name": "Norma",
+    "featured": [
+      "Norma"
+    ],
+    "featuredId": 1571,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-11-11 19:00:00",
+    "end": "2026-12-01 21:59:59",
+    "name": "",
+    "featured": [
+      ""
+    ],
+    "featuredId": 14163,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.3",
+    "start": "2026-11-11 19:00:00",
+    "end": "2026-12-01 21:59:59",
+    "name": "The Genius's Follower",
+    "featured": [
+      "The Genius's Follower"
+    ],
+    "featuredId": 14157,
+    "phase": 2
   }
 ]
