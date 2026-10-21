@@ -1319,6 +1319,14 @@
     "rateup": 1505,
     "rerun": true
   },
+  "2141": {
+    "id": 2141,
+    "type": "character",
+    "day": 739910,
+    "date": "2026-10-21",
+    "rateup": 1507,
+    "rerun": true
+  },
   "3003": {
     "id": 3003,
     "type": "weapon",
@@ -2637,6 +2645,14 @@
     "day": 739886,
     "date": "2026-09-27",
     "rateup": 23058,
+    "rerun": true
+  },
+  "3141": {
+    "id": 3141,
+    "type": "weapon",
+    "day": 739910,
+    "date": "2026-10-21",
+    "rateup": 23059,
     "rerun": true
   }
 }

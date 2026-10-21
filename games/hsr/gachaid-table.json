@@ -827,6 +827,12 @@
     "version": "4.6",
     "phase": 1
   },
+  "character:1507:4.6:2": {
+    "gachaId": 2141,
+    "bannerName": "Mortenax Blade",
+    "version": "4.6",
+    "phase": 2
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1654,5 +1660,11 @@
     "bannerName": "Until the Flowers Bloom Again",
     "version": "4.6",
     "phase": 1
+  },
+  "weapon:23059:4.6:2": {
+    "gachaId": 3141,
+    "bannerName": "Reforged in Hellfire",
+    "version": "4.6",
+    "phase": 2
   }
 }
