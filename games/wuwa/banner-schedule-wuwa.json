@@ -2207,5 +2207,77 @@
     ],
     "featuredId": 21050116,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Suoming",
+    "featured": [
+      "Suoming"
+    ],
+    "featuredId": 1312,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Lucilla",
+    "featured": [
+      "Lucilla"
+    ],
+    "featuredId": 1109,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Lynae",
+    "featured": [
+      "Lynae"
+    ],
+    "featuredId": 1509,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Unspoken Rue",
+    "featured": [
+      "Unspoken Rue"
+    ],
+    "featuredId": 21020107,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Freeze Frame",
+    "featured": [
+      "Freeze Frame"
+    ],
+    "featuredId": 21050086,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "3.7",
+    "start": "2026-10-22 10:00:00",
+    "end": "2026-11-11 11:59:00",
+    "name": "Spectrum Blaster",
+    "featured": [
+      "Spectrum Blaster"
+    ],
+    "featuredId": 21030046,
+    "phase": 2
   }
 ]
