@@ -3430,5 +3430,173 @@
     ],
     "featuredId": 23059,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Aeon ★ Aha",
+    "featured": [
+      "Aeon ★ Aha"
+    ],
+    "featuredId": 1511,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "Silver Wolf LV.999",
+    "featured": [
+      "Silver Wolf LV.999"
+    ],
+    "featuredId": 1506,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "Sparxie",
+    "featured": [
+      "Sparxie"
+    ],
+    "featuredId": 1501,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "Yao Guang",
+    "featured": [
+      "Yao Guang"
+    ],
+    "featuredId": 1502,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Upon the First Echo of \"Aha\"",
+    "featured": [
+      "Upon the First Echo of \"Aha\""
+    ],
+    "featuredId": 23065,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "Welcome to the Cosmic City",
+    "featured": [
+      "Welcome to the Cosmic City"
+    ],
+    "featuredId": 23057,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "Dazzled by a Flowery World",
+    "featured": [
+      "Dazzled by a Flowery World"
+    ],
+    "featuredId": 23053,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 18:59:00",
+    "name": "When She Decided to See",
+    "featured": [
+      "When She Decided to See"
+    ],
+    "featuredId": 23054,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Acheron",
+    "featured": [
+      "Acheron"
+    ],
+    "featuredId": 1308,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "featured": [
+      "Dan Heng • Imbibitor Lunae"
+    ],
+    "featuredId": 1213,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Jing Yuan",
+    "featured": [
+      "Jing Yuan"
+    ],
+    "featuredId": 1204,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Along the Passing Shore",
+    "featured": [
+      "Along the Passing Shore"
+    ],
+    "featuredId": 23024,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Brighter Than the Sun",
+    "featured": [
+      "Brighter Than the Sun"
+    ],
+    "featuredId": 23015,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "4.7",
+    "start": "2026-12-02 19:00:00",
+    "end": "2026-12-22 22:00:00",
+    "name": "Before Dawn",
+    "featured": [
+      "Before Dawn"
+    ],
+    "featuredId": 23010,
+    "phase": 2
   }
 ]
