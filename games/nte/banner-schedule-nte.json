@@ -218,5 +218,25 @@
     "featured": [],
     "featuredId": null,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "1.5",
+    "start": "2026-11-11 06:00:00",
+    "end": "2026-12-02 05:59:00",
+    "name": null,
+    "featured": [],
+    "featuredId": null,
+    "phase": 1
+  },
+  {
+    "type": "arc",
+    "version": "1.5",
+    "start": "2026-11-11 06:00:00",
+    "end": "2026-12-02 05:59:00",
+    "name": null,
+    "featured": [],
+    "featuredId": null,
+    "phase": 1
   }
 ]
