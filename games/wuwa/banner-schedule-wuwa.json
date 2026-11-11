@@ -2279,5 +2279,77 @@
     ],
     "featuredId": 21030046,
     "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-03 09:59:00",
+    "name": "Lily",
+    "featured": [
+      "Lily"
+    ],
+    "featuredId": 1512,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-02 09:59:00",
+    "name": "Sigrika",
+    "featured": [
+      "Sigrika"
+    ],
+    "featuredId": 1412,
+    "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-02 09:59:00",
+    "name": "Qiuyuan",
+    "featured": [
+      "Qiuyuan"
+    ],
+    "featuredId": 1411,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-03 09:59:00",
+    "name": "Unspoken Rue",
+    "featured": [
+      "Unspoken Rue"
+    ],
+    "featuredId": 21020107,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-02 09:59:00",
+    "name": "Solsworn Ciphers",
+    "featured": [
+      "Solsworn Ciphers"
+    ],
+    "featuredId": 21040066,
+    "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-02 09:59:00",
+    "name": "Emerald Sentence",
+    "featured": [
+      "Emerald Sentence"
+    ],
+    "featuredId": 21020066,
+    "phase": 1
   }
 ]
