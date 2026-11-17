@@ -2351,5 +2351,17 @@
     ],
     "featuredId": 21020066,
     "phase": 1
+  },
+  {
+    "type": "weapon",
+    "version": "3.8",
+    "start": "2026-11-12 11:00:00",
+    "end": "2026-12-03 09:59:00",
+    "name": "Lullaby",
+    "featured": [
+      "Lullaby"
+    ],
+    "featuredId": 21030076,
+    "phase": 1
   }
 ]
