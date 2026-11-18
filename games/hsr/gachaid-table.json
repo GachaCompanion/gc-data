@@ -833,6 +833,30 @@
     "version": "4.6",
     "phase": 2
   },
+  "character:1511:4.7:1": {
+    "gachaId": 2142,
+    "bannerName": "Aeon ★ Aha",
+    "version": "4.7",
+    "phase": 1
+  },
+  "character:1506:4.7:1": {
+    "gachaId": 2143,
+    "bannerName": "Silver Wolf LV.999",
+    "version": "4.7",
+    "phase": 1
+  },
+  "character:1501:4.7:1": {
+    "gachaId": 2144,
+    "bannerName": "Sparxie",
+    "version": "4.7",
+    "phase": 1
+  },
+  "character:1502:4.7:1": {
+    "gachaId": 2145,
+    "bannerName": "Yao Guang",
+    "version": "4.7",
+    "phase": 1
+  },
   "weapon:23001:1.0:1": {
     "gachaId": 3003,
     "bannerName": "In the Night",
@@ -1666,5 +1690,29 @@
     "bannerName": "Reforged in Hellfire",
     "version": "4.6",
     "phase": 2
+  },
+  "weapon:23065:4.7:1": {
+    "gachaId": 3142,
+    "bannerName": "Upon the First Echo of \"Aha\"",
+    "version": "4.7",
+    "phase": 1
+  },
+  "weapon:23057:4.7:1": {
+    "gachaId": 3143,
+    "bannerName": "Welcome to the Cosmic City",
+    "version": "4.7",
+    "phase": 1
+  },
+  "weapon:23053:4.7:1": {
+    "gachaId": 3144,
+    "bannerName": "Dazzled by a Flowery World",
+    "version": "4.7",
+    "phase": 1
+  },
+  "weapon:23054:4.7:1": {
+    "gachaId": 3145,
+    "bannerName": "When She Decided to See",
+    "version": "4.7",
+    "phase": 1
   }
 }

@@ -1327,6 +1327,38 @@
     "rateup": 1507,
     "rerun": true
   },
+  "2142": {
+    "id": 2142,
+    "type": "character",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 1511,
+    "rerun": false
+  },
+  "2143": {
+    "id": 2143,
+    "type": "character",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 1506,
+    "rerun": true
+  },
+  "2144": {
+    "id": 2144,
+    "type": "character",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 1501,
+    "rerun": true
+  },
+  "2145": {
+    "id": 2145,
+    "type": "character",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 1502,
+    "rerun": true
+  },
   "3003": {
     "id": 3003,
     "type": "weapon",
@@ -2653,6 +2685,38 @@
     "day": 739910,
     "date": "2026-10-21",
     "rateup": 23059,
+    "rerun": true
+  },
+  "3142": {
+    "id": 3142,
+    "type": "weapon",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 23065,
+    "rerun": false
+  },
+  "3143": {
+    "id": 3143,
+    "type": "weapon",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 23057,
+    "rerun": true
+  },
+  "3144": {
+    "id": 3144,
+    "type": "weapon",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 23053,
+    "rerun": true
+  },
+  "3145": {
+    "id": 3145,
+    "type": "weapon",
+    "day": 739930,
+    "date": "2026-11-10",
+    "rateup": 23054,
     "rerun": true
   }
 }
