@@ -4918,5 +4918,53 @@
     ],
     "featuredId": 11513,
     "phase": 1
+  },
+  {
+    "type": "character",
+    "version": "7.2",
+    "start": "2026-11-25 01:00:00",
+    "end": "2026-12-15 21:59:59",
+    "name": "Zibai",
+    "featured": [
+      "Zibai"
+    ],
+    "featuredId": 10000126,
+    "phase": 2
+  },
+  {
+    "type": "character",
+    "version": "7.2",
+    "start": "2026-11-25 01:00:00",
+    "end": "2026-12-15 21:59:59",
+    "name": "Linnea",
+    "featured": [
+      "Linnea"
+    ],
+    "featuredId": 10000130,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.2",
+    "start": "2026-11-25 01:00:00",
+    "end": "2026-12-15 21:59:59",
+    "name": "Lightbearing Moonshard",
+    "featured": [
+      "Lightbearing Moonshard"
+    ],
+    "featuredId": 11519,
+    "phase": 2
+  },
+  {
+    "type": "weapon",
+    "version": "7.2",
+    "start": "2026-11-25 01:00:00",
+    "end": "2026-12-15 21:59:59",
+    "name": "Golden Frostbound Oath",
+    "featured": [
+      "Golden Frostbound Oath"
+    ],
+    "featuredId": 15516,
+    "phase": 2
   }
 ]
